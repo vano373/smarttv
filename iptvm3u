@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 ,ТНВ Планета
 http://178.163.39.220:4022/udp/234.0.0.2:2000
 #EXTINF:-1 ,Калейдоскоп
