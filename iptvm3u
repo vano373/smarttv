@@ -319,443 +319,434 @@ http://178.163.12.182:4022/udp/234.0.0.251:2000
 http://178.163.12.182:4022/udp/234.0.0.252:2000
 ===============================================Novotel ==
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:-1,РБК
+#EXTINF:0,РБК
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.1.2:1234
-#EXTINF:-1,ЕВРОНОВОСТИ
+#EXTINF:0,МИР 24
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.1.3:1234
+#EXTINF:0,EURONEWS
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.1.5:1234
-#EXTINF:-1,МУЛЬТИМУЗЫКА
+#EXTINF:0,СТРАНА
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.1.9:1234
-#EXTINF:-1,MEZZO LIVE HD
-http://5.129.0.223:81/udp/239.1.10.1:1234
-#EXTINF:-1,MYZEN TV HD
-http://5.129.0.223:81/udp/239.1.10.21:1234
-#EXTINF:-1,ПЯТЫЙ КАНАЛ
-http://5.129.0.223:81/udp/239.1.10.3:1234
-#EXTINF:-1,ТВ3
-http://5.129.0.223:81/udp/239.1.10.4:1234
-#EXTINF:-1,ДОМАШНИЙ
-http://5.129.0.223:81/udp/239.1.10.5:1234
-#EXTINF:-1,РОССИЯ К
-http://5.129.0.223:81/udp/239.1.10.7:1234
-#EXTINF:-1,НСК 49
-http://5.129.0.223:81/udp/239.1.10.8:1234
-#EXTINF:-1,EUROSPORT 1 HD
-http://5.129.0.223:81/udp/239.1.11.6:1234
-#EXTINF:-1,МАТЧ! НАШ СПОРТ
-http://5.129.0.223:81/udp/239.1.12.12:1234
-#EXTINF:-1,EUROSPORT 1
-http://5.129.0.223:81/udp/239.1.12.3:1234
-#EXTINF:-1,EUROSPORT 2
-http://5.129.0.223:81/udp/239.1.12.4:1234
-#EXTINF:-1,ТЕЛЕКАНАЛ ФУТБОЛ
-http://5.129.0.223:81/udp/239.1.12.5:1234
-#EXTINF:-1,КХЛ
-http://5.129.0.223:81/udp/239.1.12.6:1234
-#EXTINF:-1,МАТЧ! БОЕЦ
-http://5.129.0.223:81/udp/239.1.12.9:1234
-#EXTINF:-1,ДОЖДЬ HD
-http://5.129.0.223:81/udp/239.1.13.19:1234
-#EXTINF:-1,ДОЖДЬ
-http://5.129.0.223:81/udp/239.1.13.6:1234
-#EXTINF:-1,A-MEDIA PREMIUM HD
-http://5.129.0.223:81/udp/239.1.14.1:1234
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ
-http://5.129.0.223:81/udp/239.1.15.1:1234
-#EXTINF:-1,ТВЦ
-http://5.129.0.223:81/udp/239.1.15.10:1234
-#EXTINF:-1,КАРУСЕЛЬ
-http://5.129.0.223:81/udp/239.1.15.11:1234
-#EXTINF:-1,DISNEY CHANNEL
-http://5.129.0.223:81/udp/239.1.15.12:1234
-#EXTINF:-1,МУЗ ТВ
-http://5.129.0.223:81/udp/239.1.15.13:1234
-#EXTINF:-1,ЧЕ
-http://5.129.0.223:81/udp/239.1.15.14:1234
-#EXTINF:-1,МАТЧ!
-http://5.129.0.223:81/udp/239.1.15.16:1234
-#EXTINF:-1,ПЯТНИЦА
-http://5.129.0.223:81/udp/239.1.15.17:1234
-#EXTINF:-1,Ю
-http://5.129.0.223:81/udp/239.1.15.18:1234
-#EXTINF:-1,РОССИЯ 1
-http://5.129.0.223:81/udp/239.1.15.2:1234
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
-http://5.129.0.223:81/udp/239.1.15.20:1234
-#EXTINF:-1,8 КАНАЛ
-http://5.129.0.223:81/udp/239.1.15.21:1234
-#EXTINF:-1,СПАС
-http://5.129.0.223:81/udp/239.1.15.22:1234
-#EXTINF:-1,МАТЧ! HD
-http://5.129.0.223:81/udp/239.1.15.23:1234
-#EXTINF:-1,РОССИЯ 24
-http://5.129.0.223:81/udp/239.1.15.3:1234
-#EXTINF:-1,НТВ
-http://5.129.0.223:81/udp/239.1.15.4:1234
-#EXTINF:-1,РЕН ТВ
-http://5.129.0.223:81/udp/239.1.15.5:1234
-#EXTINF:-1,СТС МИР
-http://5.129.0.223:81/udp/239.1.15.6:1234
-#EXTINF:-1,ТНТ
-http://5.129.0.223:81/udp/239.1.15.7:1234
-#EXTINF:-1,ОТР
-http://5.129.0.223:81/udp/239.1.15.8:1234
-#EXTINF:-1,ЗВЕЗДА
-http://5.129.0.223:81/udp/239.1.15.9:1234
-#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
-http://5.129.0.223:81/udp/239.1.16.1:1234
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://5.129.0.223:81/udp/239.1.17.1:1234
-#EXTINF:-1,ЕДА ПРЕМИУМ HD
-http://5.129.0.223:81/udp/239.1.17.10:1234
-#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
-http://5.129.0.223:81/udp/239.1.17.11:1234
-#EXTINF:-1,TLC HD
-http://5.129.0.223:81/udp/239.1.17.12:1234
-#EXTINF:-1,КИНО ТВ HD
-http://5.129.0.223:81/udp/239.1.17.13:1234
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://5.129.0.223:81/udp/239.1.17.17:1234
-#EXTINF:-1,SONY CHANNEL HD
-http://5.129.0.223:81/udp/239.1.17.18:1234
-#EXTINF:-1,RTG HD
-http://5.129.0.223:81/udp/239.1.17.22:1234
-#EXTINF:-1,ДОМ КИНО ПРЕМИУМ HD
-http://5.129.0.223:81/udp/239.1.17.23:1234
-#EXTINF:-1,FOX HD
-http://5.129.0.223:81/udp/239.1.17.5:1234
-#EXTINF:-1,NAT GEO WILD HD
-http://5.129.0.223:81/udp/239.1.17.6:1234
-#EXTINF:-1,FASHION ONE HD
-http://5.129.0.223:81/udp/239.1.17.8:1234
-#EXTINF:-1,MTV LIVE HD
-http://5.129.0.223:81/udp/239.1.17.83:1234
-#EXTINF:-1,NICK HD
-http://5.129.0.223:81/udp/239.1.17.9:1234
-#EXTINF:-1,МАТЧ! АРЕНА HD
-http://5.129.0.223:81/udp/239.1.18.1:1234
-#EXTINF:-1,КХЛ HD
-http://5.129.0.223:81/udp/239.1.18.3:1234
-#EXTINF:-1,2X2
+#EXTINF:0,2X2
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.2.1:1234
-#EXTINF:-1,САРАФАН
-http://5.129.0.223:81/udp/239.1.2.11:1234
-#EXTINF:-1,ЖИВИ!
-http://5.129.0.223:81/udp/239.1.2.12:1234
-#EXTINF:-1,НОСТАЛЬГИЯ
-http://5.129.0.223:81/udp/239.1.2.13:1234
-#EXTINF:-1,КУХНЯ ТВ
-http://5.129.0.223:81/udp/239.1.2.15:1234
-#EXTINF:-1,ТНТ4
-http://5.129.0.223:81/udp/239.1.2.16:1234
-#EXTINF:-1,УСАДЬБА
-http://5.129.0.223:81/udp/239.1.2.17:1234
-#EXTINF:-1,ТЕЛЕКАФЕ
-http://5.129.0.223:81/udp/239.1.2.18:1234
-#EXTINF:-1,БОБЕР
-http://5.129.0.223:81/udp/239.1.2.19:1234
-#EXTINF:-1,УСПЕХ
+#EXTINF:0,УСПЕХ
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.2.3:1234
-#EXTINF:-1,ДРАЙВ
+#EXTINF:0,ДРАЙВ
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.2.4:1234
-#EXTINF:-1,ОХОТА И РЫБАЛКА
+#EXTINF:0,ОХОТА И РЫБАЛКА
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.2.5:1234
-#EXTINF:-1,АВТО ПЛЮС
+#EXTINF:0,АВТО ПЛЮС
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.2.6:1234
-#EXTINF:-1,ПСИХОЛОГИЯ 21
+#EXTINF:0,ОРУЖИЕ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.7:1234
+#EXTINF:0,ПСИХОЛОГИЯ 21 [zona-iptv.ru]
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.2.9:1234
-#EXTINF:-1,НАШЕ ЛЮБИМОЕ КИНО
-http://5.129.0.223:81/udp/239.1.20.10:1234
-#EXTINF:-1,ТНТ
-http://5.129.0.223:81/udp/239.1.20.102:1234
-#EXTINF:-1,TV1000 РУССКОЕ КИНО
-http://5.129.0.223:81/udp/239.1.20.105:1234
-#EXTINF:-1,BRIDGE TV CLASSIC
-http://5.129.0.223:81/udp/239.1.20.106:1234
-#EXTINF:-1,МАТЧ! ПРЕМЬЕР
-http://5.129.0.223:81/udp/239.1.20.11:1234
-#EXTINF:-1,ЗАГОРОДНАЯ ЖИЗНЬ
-http://5.129.0.223:81/udp/239.1.20.13:1234
-#EXTINF:-1,E HD
-http://5.129.0.223:81/udp/239.1.20.141:1234
-#EXTINF:-1,NATURE
-http://5.129.0.223:81/udp/239.1.20.145:1234
-#EXTINF:-1,КИНОМИКС
-http://5.129.0.223:81/udp/239.1.20.15:1234
-#EXTINF:-1,CINEMA
-http://5.129.0.223:81/udp/239.1.20.2:1234
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
-http://5.129.0.223:81/udp/239.1.20.200:1234
-#EXTINF:-1,NATURE HD
-http://5.129.0.223:81/udp/239.1.20.201:1234
-#EXTINF:-1,НСК 49
-http://5.129.0.223:81/udp/239.1.20.208:1234
-#EXTINF:-1,ZOOПАРК
-http://5.129.0.223:81/udp/239.1.20.22:1234
-#EXTINF:-1,АВТО 24
-http://5.129.0.223:81/udp/239.1.20.23:1234
-#EXTINF:-1,БОКС ТВ
-http://5.129.0.223:81/udp/239.1.20.24:1234
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
-http://5.129.0.223:81/udp/239.1.20.26:1234
-#EXTINF:-1,ТЕЛЕПУТЕШЕСТВИЯ
-http://5.129.0.223:81/udp/239.1.20.28:1234
-#EXTINF:-1,ПЛАНЕТА HD
-http://5.129.0.223:81/udp/239.1.20.29:1234
-#EXTINF:-1,КРИК ТВ
-http://5.129.0.223:81/udp/239.1.20.30:1234
-#EXTINF:-1,VOSTOK TV
-http://5.129.0.223:81/udp/239.1.20.31:1234
-#EXTINF:-1,PARAMOUNT COMEDY
-http://5.129.0.223:81/udp/239.1.20.32:1234
-#EXTINF:-1,MTV
-http://5.129.0.223:81/udp/239.1.20.33:1234
-#EXTINF:-1,ENGLISH CLUB TV
-http://5.129.0.223:81/udp/239.1.20.35:1234
-#EXTINF:-1,BBC WORLD NEWS
-http://5.129.0.223:81/udp/239.1.20.36:1234
-#EXTINF:-1,DEUTSCHE WELLE
-http://5.129.0.223:81/udp/239.1.20.37:1234
-#EXTINF:-1,ANI
-http://5.129.0.223:81/udp/239.1.20.40:1234
-#EXTINF:-1,КАЛЕЙДОСКОП ТВ
-http://5.129.0.223:81/udp/239.1.20.42:1234
-#EXTINF:-1,ЖИВИ!
-http://5.129.0.223:81/udp/239.1.20.43:1234
-#EXTINF:-1,NICK JR
-http://5.129.0.223:81/udp/239.1.20.49:1234
-#EXTINF:-1,РАДОСТЬ МОЯ
-http://5.129.0.223:81/udp/239.1.20.52:1234
-#EXTINF:-1,КВН
-http://5.129.0.223:81/udp/239.1.20.53:1234
-#EXTINF:-1,ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
-http://5.129.0.223:81/udp/239.1.20.55:1234
-#EXTINF:-1,FRANCE 24 HD
-http://5.129.0.223:81/udp/239.1.20.58:1234
-#EXTINF:-1,ИЛЛЮЗИОН+
-http://5.129.0.223:81/udp/239.1.20.7:1234
-#EXTINF:-1,ЛДПР ТВ
-http://5.129.0.223:81/udp/239.1.20.9:1234
-#EXTINF:-1,БЕЛАРУСЬ 24
-http://5.129.0.223:81/udp/239.1.21.1:1234
-#EXTINF:-1,ТВОЙ ДОМ
-http://5.129.0.223:81/udp/239.1.21.11:1234
-#EXTINF:-1,ЭВРИКА HD
-http://5.129.0.223:81/udp/239.1.21.13:1234
-#EXTINF:-1,A-MEDIA HIT HD
-http://5.129.0.223:81/udp/239.1.21.14:1234
-#EXTINF:-1,ЕВРОКИНО
-http://5.129.0.223:81/udp/239.1.21.15:1234
-#EXTINF:-1,ЗОО ТВ
-http://5.129.0.223:81/udp/239.1.21.16:1234
-#EXTINF:-1,ЗДОРОВЬЕ
-http://5.129.0.223:81/udp/239.1.21.17:1234
-#EXTINF:-1,ТЕАТР
-http://5.129.0.223:81/udp/239.1.21.18:1234
-#EXTINF:-1,ИЛЛЮЗИОН+
-http://5.129.0.223:81/udp/239.1.21.19:1234
-#EXTINF:-1,КИНОПОКАЗ
-http://5.129.0.223:81/udp/239.1.21.20:1234
-#EXTINF:-1,GINGER HD
-http://5.129.0.223:81/udp/239.1.21.21:1234
-#EXTINF:-1,РЫЖИЙ
-http://5.129.0.223:81/udp/239.1.21.22:1234
-#EXTINF:-1,РЕТРО
-http://5.129.0.223:81/udp/239.1.21.23:1234
-#EXTINF:-1,КИНОСЕМЬЯ
-http://5.129.0.223:81/udp/239.1.21.24:1234
-#EXTINF:-1,КИНОСВИДАНИЕ
-http://5.129.0.223:81/udp/239.1.21.25:1234
-#EXTINF:-1,КИНОХИТ
-http://5.129.0.223:81/udp/239.1.21.27:1234
-#EXTINF:-1,МУЖСКОЕ КИНО
-http://5.129.0.223:81/udp/239.1.21.28:1234
-#EXTINF:-1,ZEE TV
-http://5.129.0.223:81/udp/239.1.21.29:1234
-#EXTINF:-1,КУРАЙ ТВ
-http://5.129.0.223:81/udp/239.1.21.3:1234
-#EXTINF:-1,НАШЕ НОВОЕ КИНО
-http://5.129.0.223:81/udp/239.1.21.30:1234
-#EXTINF:-1,TV1000
-http://5.129.0.223:81/udp/239.1.21.31:1234
-#EXTINF:-1,TV1000 РУССКОЕ КИНО
-http://5.129.0.223:81/udp/239.1.21.32:1234
-#EXTINF:-1,TV1000 ACTION
-http://5.129.0.223:81/udp/239.1.21.33:1234
-#EXTINF:-1,VIASAT HISTORY
-http://5.129.0.223:81/udp/239.1.21.34:1234
-#EXTINF:-1,VIASAT EXPLORE
-http://5.129.0.223:81/udp/239.1.21.35:1234
-#EXTINF:-1,VIASAT NATURE
-http://5.129.0.223:81/udp/239.1.21.36:1234
-#EXTINF:-1,SHOP&SHOW
-http://5.129.0.223:81/udp/239.1.21.37:1234
-#EXTINF:-1,VIP PREMIERE HD
-http://5.129.0.223:81/udp/239.1.21.38:1234
-#EXTINF:-1,VIP MEGAHIT HD
-http://5.129.0.223:81/udp/239.1.21.39:1234
-#EXTINF:-1,ТНВ ТАТАРСТАН
-http://5.129.0.223:81/udp/239.1.21.4:1234
-#EXTINF:-1,VIP COMEDY HD
-http://5.129.0.223:81/udp/239.1.21.40:1234
-#EXTINF:-1,VIASAT SPORT HD
-http://5.129.0.223:81/udp/239.1.21.41:1234
-#EXTINF:-1,VIASAT GOLF HD
-http://5.129.0.223:81/udp/239.1.21.42:1234
-#EXTINF:-1,ТВ3
-http://5.129.0.223:81/udp/239.1.21.43:1234
-#EXTINF:-1,MTV HD
-http://5.129.0.223:81/udp/239.1.21.44:1234
-#EXTINF:-1,СУПЕР
-http://5.129.0.223:81/udp/239.1.21.45:1234
-#EXTINF:-1,NICK JR
-http://5.129.0.223:81/udp/239.1.21.46:1234
-#EXTINF:-1,PARAMOUNT COMEDY HD
-http://5.129.0.223:81/udp/239.1.21.47:1234
-#EXTINF:-1,BABY TV
-http://5.129.0.223:81/udp/239.1.21.48:1234
-#EXTINF:-1,ТНВ ПЛАНЕТА
-http://5.129.0.223:81/udp/239.1.21.5:1234
-#EXTINF:-1,ДОРАМА
-http://5.129.0.223:81/udp/239.1.21.56:1234
-#EXTINF:-1,SPIKE HD
-http://5.129.0.223:81/udp/239.1.21.57:1234
-#EXTINF:-1,МАТЧ! ИГРА HD
-http://5.129.0.223:81/udp/239.1.21.58:1234
-#EXTINF:-1,BOOMERANG
-http://5.129.0.223:81/udp/239.1.21.59:1234
-#EXTINF:-1,ARIRANG
-http://5.129.0.223:81/udp/239.1.21.6:1234
-#EXTINF:-1,В ГОСТЯХ У СКАЗКИ
-http://5.129.0.223:81/udp/239.1.21.60:1234
-#EXTINF:-1,БСТ
-http://5.129.0.223:81/udp/239.1.21.8:1234
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
-http://5.129.0.223:81/udp/239.1.23.1:1234
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
-http://5.129.0.223:81/udp/239.1.23.2:1234
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
-http://5.129.0.223:81/udp/239.1.23.3:1234
-#EXTINF:-1,FOX LIFE
-http://5.129.0.223:81/udp/239.1.3.11:1234
-#EXTINF:-1,FASHION TV
-http://5.129.0.223:81/udp/239.1.3.13:1234
-#EXTINF:-1,TLC
-http://5.129.0.223:81/udp/239.1.3.16:1234
-#EXTINF:-1,РУССКИЙ РОМАН
-http://5.129.0.223:81/udp/239.1.3.17:1234
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:0,САРАФАН
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.11:1234
+#EXTINF:0,ЖИВИ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.12:1234
+#EXTINF:0,КУХНЯ ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.15:1234
+#EXTINF:0,ТНТ4
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.16:1234
+#EXTINF:0,УСАДЬБА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.17:1234
+#EXTINF:0,ТЕЛЕКАФЕ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.18:1234
+#EXTINF:0,БОБЁР ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.2.19:1234
+#EXTINF:0,МУЛЬТ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.3.1:1234
+#EXTINF:0,CARTOON NETWORK
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.3:1234
-#EXTINF:-1,NICK
+#EXTINF:0,NICKELODEON
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.4:1234
-#EXTINF:-1,ДЕТСКИЙ
+#EXTINF:0,ДЕТСКИЙ
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.5:1234
-#EXTINF:-1,TIJI
+#EXTINF:0,TIJI
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.6:1234
-#EXTINF:-1,ДЕТСКИЙ МИР
+#EXTINF:0,ДЕТСКИЙ МИР
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.7:1234
-#EXTINF:-1,СТС LOVE
+#EXTINF:0,CTC LOVE
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.8:1234
-#EXTINF:-1,БОЛЬШАЯ АЗИЯ
+#EXTINF:0,БОЛЬШАЯ АЗИЯ
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.3.9:1234
-#EXTINF:-1,TV XXI-3102
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.3.13:1234
+#EXTINF:0,МАМА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.3.14:1234
+#EXTINF:0,ИНДИЯ ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.3.15:1234
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.3.16:1234
+#EXTINF:0,РУССКИЙ РОМАН
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.3.17:1234
+#EXTINF:0,XXI
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.4.1:1234
-#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
-http://5.129.0.223:81/udp/239.1.4.11:1234
-#EXTINF:-1,КИНО ТВ
-http://5.129.0.223:81/udp/239.1.4.12:1234
-#EXTINF:-1,НСТ
-http://5.129.0.223:81/udp/239.1.4.15:1234
-#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
-http://5.129.0.223:81/udp/239.1.4.16:1234
-#EXTINF:-1,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTINF:0,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.4.2:1234
-#EXTINF:-1,FOX
-http://5.129.0.223:81/udp/239.1.4.5:1234
-#EXTINF:-1,SONY CHANNEL
-http://5.129.0.223:81/udp/239.1.4.6:1234
-#EXTINF:-1,SONY SCI-FI
+#EXTINF:0,КОМЕДИЯ ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.4.3:1234
+#EXTINF:0,AMEDIA 1
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.4.4:1234
+#EXTINF:0,SONY SCI-FI
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.4.7:1234
-#EXTINF:-1,ДОМ КИНО
+#EXTINF:0,ДОМ КИНО
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.4.8:1234
-#EXTINF:-1,SONY TURBO
-http://5.129.0.223:81/udp/239.1.4.9:1234
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:0,РУССКИЙ ИЛЛЮЗИОН
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.4.11:1234
+#EXTINF:0,НСТ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.4.15:1234
+#EXTINF:0,РУССКИЙ ДЕТЕКТИВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.4.16:1234
+#EXTINF:0,DISCOVERY
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.1:1234
-#EXTINF:-1,ТЕХНО 24
-http://5.129.0.223:81/udp/239.1.5.10:1234
-#EXTINF:-1,RTG TV
-http://5.129.0.223:81/udp/239.1.5.13:1234
-#EXTINF:-1,NAT GEO WILD
-http://5.129.0.223:81/udp/239.1.5.16:1234
-#EXTINF:-1,МОЯ ПЛАНЕТА
-http://5.129.0.223:81/udp/239.1.5.17:1234
-#EXTINF:-1,НАУКА
-http://5.129.0.223:81/udp/239.1.5.18:1234
-#EXTINF:-1,DTX
+#EXTINF:0,DTX
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.2:1234
-#EXTINF:-1,365 ДНЕЙ
-http://5.129.0.223:81/udp/239.1.5.20:1234
-#EXTINF:-1,МИР УВЛЕЧЕНИЙ
-http://5.129.0.223:81/udp/239.1.5.22:1234
-#EXTINF:-1,ЖИВАЯ ПЛАНЕТА
-http://5.129.0.223:81/udp/239.1.5.23:1234
-#EXTINF:-1,ОТКРЫТЫЙ МИР
-http://5.129.0.223:81/udp/239.1.5.24:1234
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.3:1234
-#EXTINF:-1,ВРЕМЯ
+#EXTINF:0,ВРЕМЯ
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.4:1234
-#EXTINF:-1,DA VINCI
+#EXTINF:0,DA VINCI
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.6:1234
-#EXTINF:-1,TRAVEL+ ADVENTURE
+#EXTINF:0,TRAVEL ADVENTURE
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.7:1234
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.5.8:1234
-#EXTINF:-1,DISCOVERY SCIENCE
-http://5.129.0.223:81/udp/239.1.5.9:1234
-#EXTINF:-1,РУССКАЯ НОЧЬ 18+
-http://5.129.0.223:81/udp/239.1.6.32:1234
-#EXTINF:-1,O-LA-LA 18+
-http://5.129.0.223:81/udp/239.1.6.34:1234
-#EXTINF:-1,HUSTLER HD
-http://5.129.0.223:81/udp/239.1.6.35:1234
-#EXTINF:-1,BLUE HUSTLER 18+
-http://5.129.0.223:81/udp/239.1.6.36:1234
-#EXTINF:-1,PLAYBOY TV 18+
-http://5.129.0.223:81/udp/239.1.6.39:1234
-#EXTINF:-1,BRAZZERS TV 18+
-http://5.129.0.223:81/udp/239.1.6.40:1234
-#EXTINF:-1,EUROPA PLUS TV
-http://5.129.0.223:81/udp/239.1.8.10:1234
-#EXTINF:-1,ШАНСОН ТВ
-http://5.129.0.223:81/udp/239.1.8.12:1234
-#EXTINF:-1,ЛЯ МИНОР
-http://5.129.0.223:81/udp/239.1.8.13:1234
-#EXTINF:-1,BRIDGE TV РУССКИЙ ХИТ
-http://5.129.0.223:81/udp/239.1.8.14:1234
-#EXTINF:-1,MTV DANCE
-http://5.129.0.223:81/udp/239.1.8.15:1234
-#EXTINF:-1,BRIDGE TV DANGE
-http://5.129.0.223:81/udp/239.1.8.17:1234
-#EXTINF:-1,ТНТ MUSIC
+#EXTINF:0,ТЕХНО-24
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.10:1234
+#EXTINF:0,RTG
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.13:1234
+#EXTINF:0,МОЯ ПЛАНЕТА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.17:1234
+#EXTINF:0,НАУКА 2.0
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.18:1234
+#EXTINF:0,365 ДНЕЙ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.20:1234
+#EXTINF:0,ИСТОРИЯ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.21:1234
+#EXTINF:0,МИР УВЛЕЧЕНИЙ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.22:1234
+#EXTINF:0,ЖИВАЯ ПЛАНЕТА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.23:1234
+#EXTINF:0,ОТКРЫТЫЙ МИР
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.5.24:1234
+#EXTINF:0,ТНТ MUSIC
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.8.2:1234
-#EXTINF:-1,RU TV
+#EXTINF:0,RU TV
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.8.4:1234
-#EXTINF:-1,MUSIC BOX RUSSIAN
+#EXTINF:0,MUSIC BOX RU
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.8.5:1234
-#EXTINF:-1,MUSIC BOX
-http://5.129.0.223:81/udp/239.1.8.6:1234
-#EXTINF:-1,BRIDGE TV
+#EXTINF:0,BRIDGE TV
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.8.8:1234
-#EXTINF:-1,HDL
+#EXTINF:0,EUROPA PLUS TV
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.8.10:1234
+#EXTINF:0,ШАНСОН ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.8.12:1234
+#EXTINF:0,ЛЯ МИНОР
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.8.13:1234
+#EXTINF:0,RUSONG TV
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.8.14:1234
+#EXTINF:0,DANGE TV
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.8.17:1234
+#EXTINF:0,HD LIFE
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.9.2:1234
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:0,FOX LIFE HD
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.9.3:1234
-#EXTINF:-1,RUSSIA TODAY HD
+#EXTINF:0,RUSSIA TODAY HD
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.9.4:1234
-#EXTINF:-1,RUSSIA TODAY DOC HD
+#EXTINF:0,RUSSIA TODAY DOC HD
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.9.5:1234
-#EXTINF:-1,1HD
+#EXTINF:0,1HD
+#EXTVLCOPT:network-caching=5000
 http://5.129.0.223:81/udp/239.1.9.6:1234
-#EXTINF:-1,НАША СИБИРЬ HD
+#EXTINF:0,НАША СИБИРЬ HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.9.7:1234
+#EXTINF:0,MEZZO LIVE HD [zona-iptv.ru]
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.1:1234
+#EXTINF:0,ПЯТЫЙ КАНАЛ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.3:1234
+#EXTINF:0,ТВ3
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.4:1234
+#EXTINF:0,ДОМАШНИЙ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.5:1234
+#EXTINF:0,РОССИЯ К
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.7:1234
+#EXTINF:0,СТС +4
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.13:1234
+#EXTINF:0,MYZEN HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.21:1234
+#EXTINF:0,РОССИЯ HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.22:1234
+#EXTINF:0,НСК 49
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.10.80:1234
+#EXTINF:0,EUROSPORT 1
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.3:1234
+#EXTINF:0,EUROSPORT 2
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.4:1234
+#EXTINF:0,ТЕЛЕКАНАЛ ФУТБОЛ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.5:1234
+#EXTINF:0,КХЛ ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.6:1234
+#EXTINF:0,МАТЧ! АРЕНА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.7:1234
+#EXTINF:0,МАТЧ! БОЕЦ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.9:1234
+#EXTINF:0,МАТЧ! ИГРА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.10:1234
+#EXTINF:0,МАТЧ! НАШ СПОРТ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.12.12:1234
+#EXTINF:0,ПЕРВЫЙ КАНАЛ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.1:1234
+#EXTINF:0,РОССИЯ 1
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.2:1234
+#EXTINF:0,РОССИЯ 24
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.3:1234
+#EXTINF:0,НТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.4:1234
+#EXTINF:0,РЕН ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.5:1234
+#EXTINF:0,СТС
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.6:1234
+#EXTINF:0,ТНТ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.7:1234
+#EXTINF:0,ОТР
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.8:1234
+#EXTINF:0,ЗВЕЗДА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.9:1234
+#EXTINF:0,ТВЦ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.10:1234
+#EXTINF:0,КАРУСЕЛЬ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.11:1234
+#EXTINF:0,DISNEY CHANNEL
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.12:1234
+#EXTINF:0,МАТЧ!
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.16:1234
+#EXTINF:0,ЧЕ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.14:1234
+#EXTINF:0,ПЯТНИЦА!
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.17:1234
+#EXTINF:0,Ю ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.18:1234
+#EXTINF:0,СОЮЗ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.19:1234
+#EXTINF:0,ПЕРВЫ Й HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.20:1234
+#EXTINF:0,МАТЧ! HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.23:1234
+#EXTINF:0,8 КАНАЛ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.21:1234
+#EXTINF:0,СПАС
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.22:1234
+#EXTINF:0,МИР
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.31:1234
+#EXTINF:0,МУЗ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.15.13:1234
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.17.5:1234
+#EXTINF:0,FASHION ONE HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.17.8:1234
+#EXTINF:0,SET HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.17.18:1234
+#EXTINF:0,MTV LIVE HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.17.83:1234
+#EXTINF:0,ЮВЕЛИРОЧКА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.10:1234
+#EXTINF:0,ZOO TV
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.16:1234
+#EXTINF:0,ТОНУС ТВ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.17:1234
+#EXTINF:0,ТЕАТР
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.18:1234
+#EXTINF:0,ИЛЛЮЗИОН
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.19:1234
+#EXTINF:0,КИНОПОКАЗ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.20:1234
+#EXTINF:0,РЕТРО
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.23:1234
+#EXTINF:0,TV5000
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.31:1234
+#EXTINF:0,TV5000 РУССКОЕ КИНО
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.32:1234
+#EXTINF:0,TV5000 ACTION
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.33:1234
+#EXTINF:0,VIASAT HISTORY
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.34:1234
+#EXTINF:0,VIASAT EXPLORE
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.35:1234
+#EXTINF:0,TEST
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.36:1234
+#EXTINF:0,SHOP AND SHOW
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.37:1234
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.44:1234
+#EXTINF:0,СУББОТА!
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.45:1234
+#EXTINF:0,ОТС HD 31 КАНАЛ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.50:1234
+#EXTINF:0,FAN HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.52:1234
+#EXTINF:0,О!2
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.54:1234
+#EXTINF:0,ТНТ HD
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.55:1234
+#EXTINF:0,ДОРАМА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.56:1234
+#EXTINF:0,В ГОСТЯХ У СКАЗКИ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.60:1234
+#EXTINF:0,ЖАРА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.61:1234
+#EXTINF:0,НТВ СЕРИАЛ
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.64:1234
+#EXTINF:0,ПОБЕДА
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.68:1234
+#EXTINF:0,МАЛЫШ [zona-iptv.ru]
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.83:1234
+#EXTINF:0,НАШ НОВОСИБИРСК
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.84:1234
+#EXTINF:0,О!
+#EXTVLCOPT:network-caching=5000
+http://5.129.0.223:81/udp/239.1.21.85:1234
+
 
