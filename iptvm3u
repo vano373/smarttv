@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1,Kaleydoskop
+#EXTINF:-1,КАЛЕЙДОСКОП ТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.1:2000
-#EXTINF:-1,TNV
+#EXTINF:-1,ТНВ ПЛАНЕТА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.2:2000
-#EXTINF:-1,Mir
+#EXTINF:-1,МИР PREMIUM HD
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.5:2000
 #EXTINF:-1,ТРЕШ HD
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.3:2000
-#EXTINF:-1,Boec
+#EXTINF:-1,МАТЧ! БОЕЦ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.6:2000
-#EXTINF:-1,Gubernia
+#EXTINF:-1,ГУБЕРНИЯ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.7:2000
-#EXTINF:-1,360 Moskow
+#EXTINF:-1,360° Moskow
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.8:2000
 #EXTINF:-1,TNT +4
@@ -26,13 +26,13 @@ http://178.163.12.182:4022/udp/234.0.0.9:2000
 #EXTINF:-1,Big Asia
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.10:2000
-#EXTINF:-1,KHL
+#EXTINF:-1,КХЛ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.14:2000
-#EXTINF:-1,Mosfilm
+#EXTINF:-1,МОСФИЛЬМ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.95:2000
-#EXTINF:-1,Muz TV
+#EXTINF:-1,МУЗ ТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.96:2000
 #EXTINF:-1,В мире животных HD
@@ -41,19 +41,19 @@ http://178.163.12.182:4022/udp/234.0.0.97:2000
 #EXTINF:-1,ОХОТНИК И РЫБОЛОВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.98:2000
-#EXTINF:-1,Moskva Doverie
+#EXTINF:-1,МОСКВА ДОВЕРИЕ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.99:2000
-#EXTINF:-1,Super
+#EXTINF:-1,СУПЕР
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.100:2000
-#EXTINF:-1,Mama
+#EXTINF:-1,МАМА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.101:2000
-#EXTINF:-1,Mir Seriala
+#EXTINF:-1,МИР СЕРИАЛА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.103:2000
-#EXTINF:-1,Zagorodniy
+#EXTINF:-1,ЗАГОРОДНЫЙ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.106:2000
 #EXTINF:-1,Galaxy
@@ -65,13 +65,13 @@ http://178.163.12.182:4022/udp/234.0.0.114:2000
 #EXTINF:-1,Ваш Успех
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.117:2000
-#EXTINF:-1,Kinokomediya
+#EXTINF:-1,КИНОКОМЕДИЯ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.118:2000
-#EXTINF:-1,Kinoseriya
+#EXTINF:-1,КИНОСЕРИЯ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.119:2000
-#EXTINF:-1,RBC
+#EXTINF:-1,РБК
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.151:2000
 #EXTINF:-1,JimJam
@@ -80,7 +80,7 @@ http://178.163.12.182:4022/udp/234.0.0.152:2000
 #EXTINF:-1,Nickelodeon
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.153:2000
-#EXTINF:-1,Kino tv
+#EXTINF:-1,КИНО ТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.154:2000
 #EXTINF:-1,Amedia
@@ -101,13 +101,13 @@ http://178.163.12.182:4022/udp/234.0.0.175:2000
 #EXTINF:-1,Evrokino
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.176:2000
-#EXTINF:-1,Rodnoe kino
+#EXTINF:-1,РОДНОЕ КИНО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.177:2000
-#EXTINF:-1,Russkiy illuzion
+#EXTINF:-1,РУССКИЙ illuzion
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.178:2000
-#EXTINF:-1,BridgeRusHit
+#EXTINF:-1,Bridge Rus Hit
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.179:2000
 #EXTINF:-1,Bridge
@@ -119,127 +119,127 @@ http://178.163.12.182:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Muzic 1
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.182:2000
-#EXTINF:-1,Europa +
+#EXTINF:-1,ЕВРОПА ПЛЮС
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.183:2000
 #EXTINF:-1,TDC SD
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.184:2000
-#EXTINF:-1,Sov secretno
+#EXTINF:-1,СОВ СЕКРЕТНО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.185:2000
-#EXTINF:-1,TNT
+#EXTINF:-1,ТНТ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.186:2000
-#EXTINF:-1,TV 21
+#EXTINF:-1,ТВ 21
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.187:2000
-#EXTINF:-1,Pes i Ko
+#EXTINF:-1,ПЁС И КО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.188:2000
-#EXTINF:-1,Shanson
+#EXTINF:-1,ШАНСОН
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.189:2000
-#EXTINF:-1,Nostalgia
+#EXTINF:-1,НОСТАЛЬГТЯ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.190:2000
-#EXTINF:-1,Domashniy
+#EXTINF:-1,ДОМАШНИЙ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.191:2000
 #EXTINF:-1,TVC
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.192:2000
-#EXTINF:-1,Moskva 24
+#EXTINF:-1,МОСКВА 24
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.194:2000
 #EXTINF:-1,Bollywood HD
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.195:2000
-#EXTINF:-1,Soyz
+#EXTINF:-1,СОЮЗ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.196:2000
-#EXTINF:-1,SAN PORTO
+#EXTINF:-1,САН ПОРТО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.197:2000
 #EXTINF:-1,Disney
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.198:2000
-#EXTINF:-1,Belarus
+#EXTINF:-1,БЕЛАРУС
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.199:2000
-#EXTINF:-1,Perviy
+#EXTINF:-1,ПЕРВЫЙ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.200:2000
-#EXTINF:-1,Rossia1
+#EXTINF:-1,РОССИЯ 1
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.201:2000
-#EXTINF:-1,Rossia K
+#EXTINF:-1,РОССИЯ K
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.202:2000
-#EXTINF:-1,Karusel
+#EXTINF:-1,КАРУСЕЛЬ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.203:2000
 #EXTINF:-1,МАТЧ!
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.204:2000
-#EXTINF:-1,5 kanal
+#EXTINF:-1,5 КАНАЛ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.205:2000
-#EXTINF:-1,NTV
+#EXTINF:-1,НТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.206:2000
-#EXTINF:-1,Rossiya 24
+#EXTINF:-1,РОССИЯ 24
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.207:2000
-#EXTINF:-1,OTR
+#EXTINF:-1,ОТР
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.208:2000
-#EXTINF:-1,Multilandia
+#EXTINF:-1,МУЛЬТИЛАНДИЯ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.210:2000
-#EXTINF:-1,Boec
+#EXTINF:-1,БОЕЦ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.211:2000
-#EXTINF:-1,EGE
+#EXTINF:-1,ЕГЕ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.212:2000
-#EXTINF:-1,Muj Kino
+#EXTINF:-1,МУЖСКОЕ КИНО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.213:2000
 #EXTINF:-1,Fashion
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.214:2000
-#EXTINF:-1,Spas
+#EXTINF:-1,СПАС
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.215:2000
 #EXTINF:-1,Zoo
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.216:2000
-#EXTINF:-1,Detskiy
+#EXTINF:-1,ДЕТСКИЙ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.217:2000
-#EXTINF:-1,Che
+#EXTINF:-1,ЧЕ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.218:2000
-#EXTINF:-1,Dom kino
+#EXTINF:-1,ДОМ КИНО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.219:2000
-#EXTINF:-1,Usadba
+#EXTINF:-1,УСАДЬБА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.220:2000
-#EXTINF:-1,Zdorovoe
+#EXTINF:-1,ЗДОРОВОЕ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.221:2000
-#EXTINF:-1,Kino+
+#EXTINF:-1,КИНОМИКС
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.222:2000
 #EXTINF:-1,VH1 Classic
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.223:2000
-#EXTINF:-1,Rus roman
+#EXTINF:-1,РУССКИЙ РОМАН
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.224:2000
-#EXTINF:-1,Vremya
+#EXTINF:-1,ВРЕМЯ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.225:2000
 #EXTINF:-1,Hayka 2.0
@@ -248,22 +248,22 @@ http://178.163.12.182:4022/udp/234.0.0.226:2000
 #EXTINF:-1,Avto24
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.227:2000
-#EXTINF:-1,My Planet
+#EXTINF:-1,МОЯ ПЛАНЕТА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.228:2000
-#EXTINF:-1,U
+#EXTINF:-1,Ю+
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.229:2000
-#EXTINF:-1,Ohota i ribalka
+#EXTINF:-1,ОХОТА И РЫБАЛКА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.230:2000
-#EXTINF:-1,TNT Muzic
+#EXTINF:-1,ТНТ МЮСИК
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.231:2000
-#EXTINF:-1,24 Dok
+#EXTINF:-1,24 ДОК
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.232:2000
-#EXTINF:-1,KVN TV
+#EXTINF:-1,КВН ТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.233:2000
 #EXTINF:-1,ТОЛЬЯТТИ 24
@@ -272,46 +272,46 @@ http://178.163.12.182:4022/udp/234.0.0.234:2000
 #EXTINF:-1,ПЯТНИЦА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.235:2000
-#EXTINF:-1,NTV-hit
+#EXTINF:-1,НТВ хит
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.236:2000
-#EXTINF:-1,Zvezda
+#EXTINF:-1,ЗВЕЗДА
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.237:2000
-#EXTINF:-1,Otkritiy Mir
+#EXTINF:-1,ОТКРЫТЫЙ МИР
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.238:2000
-#EXTINF:-1,STS
+#EXTINF:-1,СТС
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.239:2000
-#EXTINF:-1,Ren TV
+#EXTINF:-1,РЕН ТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.240:2000
-#EXTINF:-1,Kuxnya TV
+#EXTINF:-1,КУХНЯ ТВ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.241:2000
-#EXTINF:-1,Malysh
+#EXTINF:-1,МАЛЫШ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.243:2000
 #EXTINF:-1,Drive
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.245:2000
-#EXTINF:-1,Sarafan
+#EXTINF:-1,САРАФАН
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.246:2000
-#EXTINF:-1,24 Tehno
+#EXTINF:-1,24 ТЕХНО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.247:2000
 #EXTINF:-1,В ГОСТЯХ У СКАЗКИ SD
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.248:2000
-#EXTINF:-1,Telecafe
+#EXTINF:-1,ТЕЛЕКАФЕ
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.249:2000
-#EXTINF:-1,Rus Bestseller
+#EXTINF:-1,РУС БЕССЕЛЕР
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.250:2000
-#EXTINF:-1,TRO
+#EXTINF:-1,ТРО
 #EXTVLCOPT:network-caching=3000
 http://178.163.12.182:4022/udp/234.0.0.251:2000
 #EXTINF:-1,TiJi
