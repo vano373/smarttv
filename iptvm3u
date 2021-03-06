@@ -550,7 +550,6 @@ http://62.78.38.2:4022/udp/224.0.91.201:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ
 #EXTVLCOPT:network-caching=5000
 http://62.78.38.2:4022/udp/224.0.91.225:1234
-
 ------------Волжский----------------------
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
