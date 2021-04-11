@@ -1,555 +1,555 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.2:1234
+http://62.78.52.18:4022/udp/224.0.90.2:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", TLC
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.5:1234
+http://62.78.52.18:4022/udp/224.0.90.5:1234
 #EXTINF:-1 group-title="МУЗЫКА", MEZZO
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.8:1234
+http://62.78.52.18:4022/udp/224.0.90.8:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.9:1234
+http://62.78.52.18:4022/udp/224.0.90.9:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ID XTRA
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.10:1234
+http://62.78.52.18:4022/udp/224.0.90.10:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.21:1234
+http://62.78.52.18:4022/udp/224.0.90.21:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ПЯТНИЦА!
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.22:1234
+http://62.78.52.18:4022/udp/224.0.90.22:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", СТС
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.25:1234
+http://62.78.52.18:4022/udp/224.0.90.25:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ЗВЕЗДА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.27:1234
+http://62.78.52.18:4022/udp/224.0.90.27:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ЗВЕЗДА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.28:1234
+http://62.78.52.18:4022/udp/224.0.90.28:1234
 #EXTINF:-1 group-title="МУЗЫКА", ШАНСОН ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.32:1234
+http://62.78.52.18:4022/udp/224.0.90.32:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", МУЛЬТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.33:1234
+http://62.78.52.18:4022/udp/224.0.90.33:1234
 #EXTINF:-1 group-title="МУЗЫКА", VH1 CLASSIC
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.40:1234
+http://62.78.52.18:4022/udp/224.0.90.40:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", DTX
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.43:1234
+http://62.78.52.18:4022/udp/224.0.90.43:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY SCENCE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.44:1234
+http://62.78.52.18:4022/udp/224.0.90.44:1234
 #EXTINF:-1 group-title="МУЗЫКА", MTV DANCE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.46:1234
+http://62.78.52.18:4022/udp/224.0.90.46:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", CBS REALITY
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.47:1234
+http://62.78.52.18:4022/udp/224.0.90.47:1234
 #EXTINF:-1 group-title="МУЗЫКА", MCM
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.48:1234
+http://62.78.52.18:4022/udp/224.0.90.48:1234
 #EXTINF:-1 group-title="СПОРТ", EXTREME SPORTS
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.49:1234
+http://62.78.52.18:4022/udp/224.0.90.49:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.50:1234
+http://62.78.52.18:4022/udp/224.0.90.50:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", JIM JAM
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.51:1234
+http://62.78.52.18:4022/udp/224.0.90.51:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ДОЖДЬ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.52:1234
+http://62.78.52.18:4022/udp/224.0.90.52:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ЖИВИ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.53:1234
+http://62.78.52.18:4022/udp/224.0.90.53:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", 2X2
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.60:1234
+http://62.78.52.18:4022/udp/224.0.90.60:1234
 #EXTINF:-1 group-title="СПОРТ", EUROSPORT 1 HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.61:1234
+http://62.78.52.18:4022/udp/224.0.90.61:1234
 #EXTINF:-1 group-title="СПОРТ", EUROSPORT 2 HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.62:1234
+http://62.78.52.18:4022/udp/224.0.90.62:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC CHANNEL
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.63:1234
+http://62.78.52.18:4022/udp/224.0.90.63:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ 4
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.65:1234
+http://62.78.52.18:4022/udp/224.0.90.65:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", CARTOON NETWORK
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.66:1234
+http://62.78.52.18:4022/udp/224.0.90.66:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY CHANNEL
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.68:1234
+http://62.78.52.18:4022/udp/224.0.90.68:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ANIMAL PLANET
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.69:1234
+http://62.78.52.18:4022/udp/224.0.90.69:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", СОВ.СЕКРЕТНО
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.70:1234
+http://62.78.52.18:4022/udp/224.0.90.70:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", 2Х2
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.71:1234
+http://62.78.52.18:4022/udp/224.0.90.71:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", TIJI
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.72:1234
+http://62.78.52.18:4022/udp/224.0.90.72:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", GULLI GIRL
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.73:1234
+http://62.78.52.18:4022/udp/224.0.90.73:1234
 #EXTINF:-1 group-title="РАЗНОЕ", RT ENGLISH
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.80:1234
+http://62.78.52.18:4022/udp/224.0.90.80:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", FOX
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.81:1234
+http://62.78.52.18:4022/udp/224.0.90.81:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", FOX LIFE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.82:1234
+http://62.78.52.18:4022/udp/224.0.90.82:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РОССИЯ 1
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.83:1234
+http://62.78.52.18:4022/udp/224.0.90.83:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РОССИЯ 24
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.84:1234
+http://62.78.52.18:4022/udp/224.0.90.84:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.85:1234
+http://62.78.52.18:4022/udp/224.0.90.85:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РОССИЯ К
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.86:1234
+http://62.78.52.18:4022/udp/224.0.90.86:1234
 #EXTINF:-1 group-title="МУЗЫКА", МУЗЫКА ПЕРВОГО
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.87:1234
+http://62.78.52.18:4022/udp/224.0.90.87:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! АРЕНА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.88:1234
+http://62.78.52.18:4022/udp/224.0.90.88:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", КАНАЛ DISNEY
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.89:1234
+http://62.78.52.18:4022/udp/224.0.90.89:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", SET
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.90:1234
+http://62.78.52.18:4022/udp/224.0.90.90:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", SONY SCI-FI
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.91:1234
+http://62.78.52.18:4022/udp/224.0.90.91:1234
 #EXTINF:-1 group-title="МУЗЫКА", ТНТ MUSIC
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.98:1234
+http://62.78.52.18:4022/udp/224.0.90.98:1234
 #EXTINF:-1 group-title="РАЗНОЕ", 8 КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.103:1234
+http://62.78.52.18:4022/udp/224.0.90.103:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ТВЦ
-http://62.78.56.254:4022/udp/224.0.90.104:1234
+http://62.78.52.18:4022/udp/224.0.90.104:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ПЯТЫЙ КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.140:1234
+http://62.78.52.18:4022/udp/224.0.90.140:1234
 #EXTINF:-1 group-title="МУЗЫКА", VH-1
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.141:1234
+http://62.78.52.18:4022/udp/224.0.90.141:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! ИГРА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.142:1234
+http://62.78.52.18:4022/udp/224.0.90.142:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", НАУКА 2.0
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.143:1234
+http://62.78.52.18:4022/udp/224.0.90.143:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", САРАФАН
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.145:1234
+http://62.78.52.18:4022/udp/224.0.90.145:1234
 #EXTINF:-1 group-title="МУЗЫКА", EUROPA PLUS TV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.146:1234
+http://62.78.52.18:4022/udp/224.0.90.146:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", PARAMOUNT COMEDY
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.147:1234
+http://62.78.52.18:4022/udp/224.0.90.147:1234
 #EXTINF:-1 group-title="МУЗЫКА", МУЛЬТ МУЗЫКА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.149:1234
+http://62.78.52.18:4022/udp/224.0.90.149:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", РЕН ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.159:1234
+http://62.78.52.18:4022/udp/224.0.90.159:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", НТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.160:1234
+http://62.78.52.18:4022/udp/224.0.90.160:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ЧЕ!
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.161:1234
+http://62.78.52.18:4022/udp/224.0.90.161:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", МОЯ ПЛАНЕТА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.163:1234
+http://62.78.52.18:4022/udp/224.0.90.163:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", АВТО 24
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.164:1234
+http://62.78.52.18:4022/udp/224.0.90.164:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", РЕН ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.165:1234
+http://62.78.52.18:4022/udp/224.0.90.165:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ПЯТНИЦА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.166:1234
+http://62.78.52.18:4022/udp/224.0.90.166:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РБК
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.167:1234
+http://62.78.52.18:4022/udp/224.0.90.167:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ЭГОИСТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.168:1234
+http://62.78.52.18:4022/udp/224.0.90.168:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", CGTN РУССКИЙ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.169:1234
+http://62.78.52.18:4022/udp/224.0.90.169:1234
 #EXTINF:-1 group-title="МУЗЫКА", MTV HITS
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.170:1234
+http://62.78.52.18:4022/udp/224.0.90.170:1234
 #EXTINF:-1 group-title="МУЗЫКА", MTV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.171:1234
+http://62.78.52.18:4022/udp/224.0.90.171:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", РУССКИЙ РОМАН
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.172:1234
+http://62.78.52.18:4022/udp/224.0.90.172:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", РУССКИЙ БЕСТСЕЛЛЕР
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.173:1234
+http://62.78.52.18:4022/udp/224.0.90.173:1234
 #EXTINF:-1 group-title="МУЗЫКА", MTV ROCKS
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.174:1234
+http://62.78.52.18:4022/udp/224.0.90.174:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ЗДОРОВЬЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.175:1234
+http://62.78.52.18:4022/udp/224.0.90.175:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ТНВ ПЛАНЕТА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.180:1234
+http://62.78.52.18:4022/udp/224.0.90.180:1234
 #EXTINF:-1 group-title="РАЗНОЕ", БЕЛ РОС
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.181:1234
+http://62.78.52.18:4022/udp/224.0.90.181:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПЕРВЫЙ КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.183:1234
+http://62.78.52.18:4022/udp/224.0.90.183:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ТЕЛЕКАФЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.184:1234
+http://62.78.52.18:4022/udp/224.0.90.184:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ВРЕМЯ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.186:1234
+http://62.78.52.18:4022/udp/224.0.90.186:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ДОМ КИНО
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.187:1234
+http://62.78.52.18:4022/udp/224.0.90.187:1234
 #EXTINF:-1 group-title="РАЗНОЕ", МИР
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.188:1234
+http://62.78.52.18:4022/udp/224.0.90.188:1234
 #EXTINF:-1 group-title="МУЗЫКА", BRIDGE TV CLASSIC
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.189:1234
+http://62.78.52.18:4022/udp/224.0.90.189:1234
 #EXTINF:-1 group-title="МУЗЫКА", BRIDGE TV DANCE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.190:1234
+http://62.78.52.18:4022/udp/224.0.90.190:1234
 #EXTINF:-1 group-title="РАЗНОЕ", 24 ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.192:1234
+http://62.78.52.18:4022/udp/224.0.90.192:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ТБН
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.194:1234
+http://62.78.52.18:4022/udp/224.0.90.194:1234
 #EXTINF:-1 group-title="РАЗНОЕ", СПАС
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.196:1234
+http://62.78.52.18:4022/udp/224.0.90.196:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ТВ3
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.197:1234
+http://62.78.52.18:4022/udp/224.0.90.197:1234
 #EXTINF:-1 group-title="РАЗНОЕ", 8 КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.198:1234
+http://62.78.52.18:4022/udp/224.0.90.198:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", СТС LOVE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.199:1234
+http://62.78.52.18:4022/udp/224.0.90.199:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ТЕХНО 24
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.200:1234
+http://62.78.52.18:4022/udp/224.0.90.200:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", ДЕТСКИЙ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.201:1234
+http://62.78.52.18:4022/udp/224.0.90.201:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", КАРУСЕЛЬ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.202:1234
+http://62.78.52.18:4022/udp/224.0.90.202:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", NICKELODEON
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.203:1234
+http://62.78.52.18:4022/udp/224.0.90.203:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", РУССКИЙ ИЛЛЮЗИОН
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.204:1234
+http://62.78.52.18:4022/udp/224.0.90.204:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ИЛЛЮЗИОН+
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.205:1234
+http://62.78.52.18:4022/udp/224.0.90.205:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ZOOПАРК
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.206:1234
+http://62.78.52.18:4022/udp/224.0.90.206:1234
 #EXTINF:-1 group-title="РАЗНОЕ", FASHION TV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.207:1234
+http://62.78.52.18:4022/udp/224.0.90.207:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", XXI
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.208:1234
+http://62.78.52.18:4022/udp/224.0.90.208:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ОХОТА И РЫБАЛКА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.209:1234
+http://62.78.52.18:4022/udp/224.0.90.209:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", НСТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.210:1234
+http://62.78.52.18:4022/udp/224.0.90.210:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ЕВРОКИНО
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.211:1234
+http://62.78.52.18:4022/udp/224.0.90.211:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Ю
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.212:1234
+http://62.78.52.18:4022/udp/224.0.90.212:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", 360 ПОДМОСКОВЬЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.213:1234
+http://62.78.52.18:4022/udp/224.0.90.213:1234
 #EXTINF:-1 group-title="МУЗЫКА", BRIDGE TV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.214:1234
+http://62.78.52.18:4022/udp/224.0.90.214:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ЕВРОНОВОСТИ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.215:1234
+http://62.78.52.18:4022/udp/224.0.90.215:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ТВ3
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.216:1234
+http://62.78.52.18:4022/udp/224.0.90.216:1234
 #EXTINF:-1 group-title="СПОРТ", БОКС ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.217:1234
+http://62.78.52.18:4022/udp/224.0.90.217:1234
 #EXTINF:-1 group-title="МУЗЫКА", O!2
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.223:1234
+http://62.78.52.18:4022/udp/224.0.90.223:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.224:1234
+http://62.78.52.18:4022/udp/224.0.90.224:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", НТВ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.225:1234
+http://62.78.52.18:4022/udp/224.0.90.225:1234
 #EXTINF:-1 group-title="РАЗНОЕ", WORD FASHION
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.226:1234
+http://62.78.52.18:4022/udp/224.0.90.226:1234
 #EXTINF:-1 group-title="МУЗЫКА", BRIDGE HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.227:1234
+http://62.78.52.18:4022/udp/224.0.90.227:1234
 #EXTINF:-1 group-title="РАЗНОЕ", МОСКВА 24
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.228:1234
+http://62.78.52.18:4022/udp/224.0.90.228:1234
 #EXTINF:-1 group-title="РАЗНОЕ", МОСКВА ДОВЕРИЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.229:1234
+http://62.78.52.18:4022/udp/224.0.90.229:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", МИР СЕРИАЛА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.230:1234
+http://62.78.52.18:4022/udp/224.0.90.230:1234
 #EXTINF:-1 group-title="МУЗЫКА", BRIDGE TV РУССКИЙ ХИТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.231:1234
+http://62.78.52.18:4022/udp/224.0.90.231:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ДОКТОР
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.232:1234
+http://62.78.52.18:4022/udp/224.0.90.232:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", RTG TV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.233:1234
+http://62.78.52.18:4022/udp/224.0.90.233:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ОТР
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.234:1234
+http://62.78.52.18:4022/udp/224.0.90.234:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ТЛУМ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.235:1234
+http://62.78.52.18:4022/udp/224.0.90.235:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ ТВ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.236:1234
+http://62.78.52.18:4022/udp/224.0.90.236:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ДОМАШНИЙ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.237:1234
+http://62.78.52.18:4022/udp/224.0.90.237:1234
 #EXTINF:-1 group-title="МУЗЫКА", C MUSIC HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.239:1234
+http://62.78.52.18:4022/udp/224.0.90.239:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.240:1234
+http://62.78.52.18:4022/udp/224.0.90.240:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ANIMAL PLANET HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.241:1234
+http://62.78.52.18:4022/udp/224.0.90.241:1234
 #EXTINF:-1 group-title="МУЛЬТИКИ", NICKELODEON HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.242:1234
+http://62.78.52.18:4022/udp/224.0.90.242:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РОССИЯ 1 HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.243:1234
+http://62.78.52.18:4022/udp/224.0.90.243:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", RTG HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.244:1234
+http://62.78.52.18:4022/udp/224.0.90.244:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", HD LIFE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.245:1234
+http://62.78.52.18:4022/udp/224.0.90.245:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY CHANNEL HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.246:1234
+http://62.78.52.18:4022/udp/224.0.90.246:1234
 #EXTINF:-1 group-title="МУЗЫКА", MTV HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.247:1234
+http://62.78.52.18:4022/udp/224.0.90.247:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПЕРВЫЙ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.248:1234
+http://62.78.52.18:4022/udp/224.0.90.248:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", RTD HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.249:1234
+http://62.78.52.18:4022/udp/224.0.90.249:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", OUTDOOR CHANNEL HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.250:1234
+http://62.78.52.18:4022/udp/224.0.90.250:1234
 #EXTINF:-1 group-title="РАЗНОЕ", МИР HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.251:1234
+http://62.78.52.18:4022/udp/224.0.90.251:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", TRAVEL CHANNEL HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.252:1234
+http://62.78.52.18:4022/udp/224.0.90.252:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! АРЕНА HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.253:1234
+http://62.78.52.18:4022/udp/224.0.90.253:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ЖИВАЯ ПРИРОДА HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.254:1234
+http://62.78.52.18:4022/udp/224.0.90.254:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ПОБЕДА
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.11:1234
+http://62.78.52.18:4022/udp/224.0.91.11:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.12:1234
+http://62.78.52.18:4022/udp/224.0.91.12:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РУССКАЯ НОЧЬ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.13:1234
+http://62.78.52.18:4022/udp/224.0.91.13:1234
 #EXTINF:-1 group-title="МУЗЫКА", ЖАРА TV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.14:1234
+http://62.78.52.18:4022/udp/224.0.91.14:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.15:1234
+http://62.78.52.18:4022/udp/224.0.91.15:1234
 #EXTINF:-1 group-title="МУЗЫКА", RU.TV
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.16:1234
+http://62.78.52.18:4022/udp/224.0.91.16:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! БОЕЦ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.20:1234
+http://62.78.52.18:4022/udp/224.0.91.20:1234
 #EXTINF:-1 group-title="СПОРТ", КХЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.48:1234
+http://62.78.52.18:4022/udp/224.0.91.48:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", 365 ДНЕЙ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.60:1234
+http://62.78.52.18:4022/udp/224.0.91.60:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", ИНДИЙСКОЕ КИНО
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.61:1234
+http://62.78.52.18:4022/udp/224.0.91.61:1234
 #EXTINF:-1 group-title="МУЗЫКА", НОСТАЛЬГИЯ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.62:1234
+http://62.78.52.18:4022/udp/224.0.91.62:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! НАШ СПОРТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.63:1234
+http://62.78.52.18:4022/udp/224.0.91.63:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! ФУТБОЛ 1
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.65:1234
+http://62.78.52.18:4022/udp/224.0.91.65:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! ФУТБОЛ 2
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.66:1234
+http://62.78.52.18:4022/udp/224.0.91.66:1234
 #EXTINF:-1 group-title="СПОРТ", МАТЧ! ФУТБОЛ 3
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.67:1234
+http://62.78.52.18:4022/udp/224.0.91.67:1234
 #EXTINF:-1 group-title="СПОРТ", НАШ ФУТБОЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.68:1234
+http://62.78.52.18:4022/udp/224.0.91.68:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", TV 1000 ACNION
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.73:1234
+http://62.78.52.18:4022/udp/224.0.91.73:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", VIASAT NATURE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.75:1234
+http://62.78.52.18:4022/udp/224.0.91.75:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", TV 1000
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.76:1234
+http://62.78.52.18:4022/udp/224.0.91.76:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", VIASAT EXPLORE
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.77:1234
+http://62.78.52.18:4022/udp/224.0.91.77:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", VIASAT HISTORY
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.78:1234
+http://62.78.52.18:4022/udp/224.0.91.78:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", DA VINCI LEARNING
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.79:1234
+http://62.78.52.18:4022/udp/224.0.91.79:1234
 #EXTINF:-1 group-title="СПОРТ", VIASAT SPORT
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.80:1234
+http://62.78.52.18:4022/udp/224.0.91.80:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", TV 1000 РУССКОЕ КИНО
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.81:1234
+http://62.78.52.18:4022/udp/224.0.91.81:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ЛДПР ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.87:1234
+http://62.78.52.18:4022/udp/224.0.91.87:1234
 #EXTINF:-1 group-title="СПОРТ", ТК ФУТБОЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.89:1234
+http://62.78.52.18:4022/udp/224.0.91.89:1234
 #EXTINF:-1 group-title="РАЗНОЕ", 1 HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.90:1234
+http://62.78.52.18:4022/udp/224.0.91.90:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПЯТЫЙ КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.91:1234
+http://62.78.52.18:4022/udp/224.0.91.91:1234
 #EXTINF:-1 group-title="МУЗЫКА", МУЗ ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.92:1234
+http://62.78.52.18:4022/udp/224.0.91.92:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПЕРВЫЙ КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.93:1234
+http://62.78.52.18:4022/udp/224.0.91.93:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", НТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.94:1234
+http://62.78.52.18:4022/udp/224.0.91.94:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.96:1234
+http://62.78.52.18:4022/udp/224.0.91.96:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.97:1234
+http://62.78.52.18:4022/udp/224.0.91.97:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Ю
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.98:1234
+http://62.78.52.18:4022/udp/224.0.91.98:1234
 #EXTINF:-1 group-title="ФИЛЬМЫ", РЕН ТВ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.107:1234
+http://62.78.52.18:4022/udp/224.0.91.107:1234
 #EXTINF:-1 group-title="МУЗЫКА", RUSSIAN MUSIC BOX
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.108:1234
+http://62.78.52.18:4022/udp/224.0.91.108:1234
 #EXTINF:-1 group-title="МУЗЫКА", MUSIC BOX GOLD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.109:1234
+http://62.78.52.18:4022/udp/224.0.91.109:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ЮМОР
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.110:1234
+http://62.78.52.18:4022/udp/224.0.91.110:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.111:1234
+http://62.78.52.18:4022/udp/224.0.91.111:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПРОСВЕЩЕНИЕ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.112:1234
+http://62.78.52.18:4022/udp/224.0.91.112:1234
 #EXTINF:-1 group-title="РАЗНОЕ", ПЕРВЫЙ КАНАЛ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.147:1234
+http://62.78.52.18:4022/udp/224.0.91.147:1234
 #EXTINF:-1 group-title="РАЗНОЕ", МИР 24
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.190:1234
+http://62.78.52.18:4022/udp/224.0.91.190:1234
 #EXTINF:-1 group-title="РАЗНОЕ", РЖД ТВ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.90.191:1234
+http://62.78.52.18:4022/udp/224.0.90.191:1234
 #EXTINF:-1 group-title="СПОРТ", КХЛ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.200:1234
+http://62.78.52.18:4022/udp/224.0.91.200:1234
 #EXTINF:-1 group-title="РАЗНОЕ", 360 ПОДМОСКОВЬЕ HD
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.201:1234
+http://62.78.52.18:4022/udp/224.0.91.201:1234
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ
 #EXTVLCOPT:network-caching=5000
-http://62.78.56.254:4022/udp/224.0.91.225:1234
+http://62.78.52.18:4022/udp/224.0.91.225:1234
 #EXTM3U
 #EXTINF:-1, 1+1 HD
 http://iptv.prosto.tv:7000/ch1/tracks-v1a1/index.m3u8
