@@ -1,5 +1,97 @@
 
 #EXTM3U
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/acoustic128
+#EXTINF:-1,LoungeFM - Acoustic
+http://185.187.81.228:80/acoustic320
+#EXTINF:-1,Autoradio Drive
+http://185.187.81.228:80/auto_drive128
+#EXTINF:-1,Autoradio Drive
+http://185.187.81.228:80/auto_drive320
+#EXTINF:-1,Avtoradio
+http://185.187.81.228:80/avtoradio
+#EXTINF:-1,Avtoradio
+http://185.187.81.228:80/avtoradio.aac
+#EXTINF:-1,Avtoradio
+http://185.187.81.228:80/avtoradio320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/chillout128
+#EXTINF:-1,LoungeFM  - Chill Out
+http://185.187.81.228:80/chillout320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/disko_pt128
+#EXTINF:-1,Disco Pyatnica
+http://185.187.81.228:80/disko_pt320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/jam_inshyi128
+#EXTINF:-1,JamFM
+http://185.187.81.228:80/jam_inshyi320
+#EXTINF:-1,JamFM
+http://185.187.81.228:80/jamfm
+#EXTINF:-1,JamFM
+http://185.187.81.228:80/jamfm.aac
+#EXTINF:-1,JamFM
+http://185.187.81.228:80/jamfm320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/lfm_acoustic32.aac
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/lfm_acoustic64
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/lfm_chillout32.aac
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/lfm_chillout64
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/lfm_terrace32.aac
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/lfm_terrace64
+#EXTINF:-1,LoungeFM
+http://185.187.81.228:80/loungefm
+#EXTINF:-1,LoungeFM
+http://185.187.81.228:80/loungefm.aac
+#EXTINF:-1,LoungeFM
+http://185.187.81.228:80/loungefm32.aac
+#EXTINF:-1,LoungeFM
+http://185.187.81.228:80/loungefm320
+#EXTINF:-1,LoungeFM
+http://185.187.81.228:80/loungefm64
+#EXTINF:-1,NRJ
+http://185.187.81.228:80/nrj
+#EXTINF:-1,NRJ
+http://185.187.81.228:80/nrj.aac
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/nrj_hits
+#EXTINF:-1,NRJ All Hits
+http://185.187.81.228:80/nrj_hits320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/nrj_hot
+#EXTINF:-1,NRJ Hot 40
+http://185.187.81.228:80/nrj_hot320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/nrj_party
+#EXTINF:-1,NRJ Party Hits
+http://185.187.81.228:80/nrj_party320
+#EXTINF:-1,NRJ
+http://185.187.81.228:80/nrj320
+#EXTINF:-1,Radio Pyatnica
+http://185.187.81.228:80/radiopyatnica
+#EXTINF:-1,Radio Pyatnica
+http://185.187.81.228:80/radiopyatnica.aac
+#EXTINF:-1,Radio Pyatnica
+http://185.187.81.228:80/radiopyatnica320
+#EXTINF:-1,RetroFM
+http://185.187.81.228:80/retro
+#EXTINF:-1,RetroFM
+http://185.187.81.228:80/retro.aac
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/retro_dance128
+#EXTINF:-1,Retro Dance
+http://185.187.81.228:80/retro_dance320
+#EXTINF:-1,RetroFM
+http://185.187.81.228:80/retro320
+#EXTINF:-1,Unspecified name
+http://185.187.81.228:80/terrace128
+#EXTINF:-1,LoungeFM - Terrace
+http://185.187.81.228:80/terrace320
 #EXTINF:-1,- 0 N - Top 40 on Radio
 http://0n-gothic.radionetz.de:80
 #EXTINF:-1,mp128
