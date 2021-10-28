@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:-1,SunFM UA *** www
-https://a4.radioheart.ru:8048/live
+#EXTINF:-1,Люкс ФМ
+https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/chunklist_b128000_slukr.m3u8
 #EXTINF:-1,Business Radio
 https://cast.brg.ua:443/businessradio96.aacp
 #EXTINF:-1,DJ FM
