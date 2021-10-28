@@ -4,6 +4,18 @@
 https://radio-holding.ru:9433/marusya_default
 #EXTINF:-1,Люкс ФМ
 https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/chunklist_b128000_slukr.m3u8
+#EXTINF:-1,Dorognoe
+http://91.219.74.220:8000/Dorognoe.mp3
+#EXTINF:-1,IvanovoFM
+http://91.219.74.220:8000/IvanovoFM.mp3
+#EXTINF:-1,Monte-Carlo
+http://91.219.74.220:8000/Monte-Carlo.mp3
+#EXTINF:-1,Unnamed Server
+http://91.219.74.220:8000/NewRadio.mp3
+#EXTINF:-1,Rock stream 1
+http://91.219.74.220:8000/Vanya.mp3
+#EXTINF:-1,Vanya
+http://91.219.74.220:8000/Vanya.ogg
 #EXTINF:-1,Business Radio
 https://cast.brg.ua:443/businessradio96.aacp
 #EXTINF:-1,DJ FM
