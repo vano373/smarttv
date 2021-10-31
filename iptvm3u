@@ -6,6 +6,8 @@ https://radio-holding.ru:9433/marusya_default
 https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/chunklist_b128000_slukr.m3u8
 #EXTINF:-1,Radio Discovery 92,5 FM
 http://176.192.10.118:8000/discovery
+#EXTINF:-1,DeepFX
+http://85.175.72.117:8000/DeepFX
 #EXTINF:-1,UNMART-57
 http://176.192.10.118:8000/live
 #EXTINF:-1,TSUM-57
