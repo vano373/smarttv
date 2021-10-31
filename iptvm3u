@@ -8,6 +8,8 @@ https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/chunklist_b128000_slukr.m
 http://176.192.10.118:8000/discovery
 #EXTINF:-1,DeepFX
 http://85.175.72.117:8000/DeepFX
+#EXTINF:-1,MariaFM
+http://89.208.220.180:8000/MariaFM
 #EXTINF:-1,UNMART-57
 http://176.192.10.118:8000/live
 #EXTINF:-1,TSUM-57
