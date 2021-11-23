@@ -1,378 +1,520 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:-1 tvg-id="eb3d46480e595ffbb818e5df2cc5ca3a",2x2
-http://95.189.230.8:9090/stream/channelid/1212562923?ticket=4A107F4864ADEA312D4B1B5A88550B464478F95C&profile=pass
-#EXTINF:-1 tvg-id="f9716c83392e1a78dcb7d867bef17102",360` Подмосковье
-http://95.189.230.8:9090/stream/channelid/57438713?ticket=784E4228B84E536F5EAA169A0B9B88A234C4BDF8&profile=pass
-#EXTINF:-1 tvg-id="4073369a976e016f0ea48c8679919c12",9 Волна
-http://95.189.230.8:9090/stream/channelid/439776064?ticket=F3C5B5784585BD9C5C64BAB10779598941F7AB34&profile=pass
-#EXTINF:-1 tvg-id="134caebb43ff2fa2c363ed5fb02c8511",Amedia 1
-http://95.189.230.8:9090/stream/channelid/1001278483?ticket=56BAF8B4DD8744615F3D8AF5D5B68E6F5681066A&profile=pass
-#EXTINF:-1 tvg-id="99b9b772817c493a5425ca75e68536a5",Amedia Hit HD
-http://95.189.230.8:9090/stream/channelid/1924643225?ticket=A5D0A295C3EDDBAD47F8779D50F192F37F896FB8&profile=pass
-#EXTINF:-1 tvg-id="aca112fed2862c3e8659efa7944c2f9f",Amedia Premium HD
-http://95.189.230.8:9090/stream/channelid/2115150252?ticket=8E56F8241B89FA05B2CD1A373B055DE77045D996&profile=pass
-#EXTINF:-1 tvg-id="57e5ed937f2ddcb0898df80e6896f183",Ani
-http://95.189.230.8:9090/stream/channelid/334357847?ticket=0DD1322D1003CFBC185DD5B72330C69C3908E832&profile=pass
-#EXTINF:-1 tvg-id="6cf6a62f904fe65a4013beb8b6d2a72e",Animal Planet
-http://95.189.230.8:9090/stream/channelid/799471212?ticket=E91433CD86A77720393825E78EC0A61DA375FBEA&profile=pass
-#EXTINF:-1 tvg-id="e6089ffd3757d07c833e9313fff59657",Animal Planet HD
-http://95.189.230.8:9090/stream/channelid/2107574502?ticket=B3F877DAF6C26A2EF7C2B9F1E48FAFDE58E7C589&profile=pass
-#EXTINF:-1 tvg-id="d51cd47dd0ca28b2869c7686c33d89d2",Bolt
-http://95.189.230.8:9090/stream/channelid/2111053013?ticket=273DB3975D96EB357477C67CDD4905034444C79A&profile=pass
-#EXTINF:-1 tvg-id="0dde0f3912508a336fa0c8f23155a3d3",Brazzers TV Europe
-http://95.189.230.8:9090/stream/channelid/957341197?ticket=05218A2DF1A014E59B9D6777FD44832DE7354C19&profile=pass
-#EXTINF:-1 tvg-id="7cde920a72fc5f463ca6e6230df8c645",BRIDGE TV
-http://95.189.230.8:9090/stream/channelid/177397372?ticket=36B66ECB23F024AB117DB324378B13DF7FD45C3F&profile=pass
-#EXTINF:-1 tvg-id="50226b4f6e7aa63803fc428832f7484b",BRIDGE TV Classic
-http://95.189.230.8:9090/stream/channelid/1332421200?ticket=48F7413BA814E0FA30517136A937066B4460BD42&profile=pass
-#EXTINF:-1 tvg-id="c3864140314c7a149f90b67af1f0ccb0",BRIDGE TV РУССКИЙ ХИ
-http://95.189.230.8:9090/stream/channelid/1078036163?ticket=C28517C1D8000DF285F85C0A44E22E4D339D0B00&profile=pass
-#EXTINF:-1 tvg-id="05c06f9e7bf49cad1d6d5e6e640c549c",Cartoon Network
-http://95.189.230.8:9090/stream/channelid/510640133?ticket=C3E7E323AF92ADB47BB9B2E585904B32EF41E40F&profile=pass
-#EXTINF:-1 tvg-id="baf75402e15aeac4256fb6635e7e93d7",CBS Reality
-http://95.189.230.8:9090/stream/channelid/39122874?ticket=3702F4528471335B06331EC623C790B1EB90E80A&profile=pass
-#EXTINF:-1 tvg-id="965a673cc90136464a4c85f8cc515d8d",Discovery Channel
-http://95.189.230.8:9090/stream/channelid/1013406358?ticket=9369D26794C672D08EAC6EAB3C2EDE5EB5E8F7BB&profile=pass
-#EXTINF:-1 tvg-id="8c5adca93677069aa059d55e5e60a3a4",Discovery Science
-http://95.189.230.8:9090/stream/channelid/702306956?ticket=1C8B6B487B1078A8B1E516F7F31B09FCAA40D698&profile=pass
-#EXTINF:-1 tvg-id="84aacaee6661cad7616f749a5e9ea315",DTX
-http://95.189.230.8:9090/stream/channelid/1858775684?ticket=317468A92D705D4806A4C5DB5A2C7B3D921EB04F&profile=pass
-#EXTINF:-1 tvg-id="2b64c81b87db4db633c6005b6e6f0994",Europa Plus (+2)
-http://95.189.230.8:9090/stream/channelid/466117675?ticket=11F4AB512AE9F89FC14E0A8C6A8A501DA152EB45&profile=pass
-#EXTINF:-1 tvg-id="eef3683a8d1fa42adc083b36dc17ce9c",Europa Plus (+4)
-http://95.189.230.8:9090/stream/channelid/979956718?ticket=467F76BB5E11137251C1E6DF36AC1E985361B98B&profile=pass
-#EXTINF:-1 tvg-id="ef5f53ce7433d1abb33edf168ab762c7",Extreme Sport
-http://95.189.230.8:9090/stream/channelid/1314086895?ticket=3550DDE8C8C614065C857ACCC770343847877C68&profile=pass
-#EXTINF:-1 tvg-id="16dab92202594a3d1b9d2887c3e6deb2",Fashion HD
-http://95.189.230.8:9090/stream/channelid/582605334?ticket=32EBCD599273C0614D75440D38A0219EA4C60165&profile=pass
-#EXTINF:-1 tvg-id="a2cc0b732c2c24ae20d4202aa2c42f0f",Gagsnetwork
-http://95.189.230.8:9090/stream/channelid/1930153122?ticket=AFBF3E3CF1CBADEF8B5F70E8CE2BC237A9FFB01B&profile=pass
-#EXTINF:-1 tvg-id="54d750e04a55aaa0bfbc4ae12029d13a",History
-http://95.189.230.8:9090/stream/channelid/1615910740?ticket=289AE8C9A586D7BD4636EF918B5A0D6313B021F9&profile=pass
-#EXTINF:-1 tvg-id="d65a3e6f5ebf8fadd9471a76342d5711",Home and Garden
-http://95.189.230.8:9090/stream/channelid/1866357462?ticket=A4721CC080112DE9A3F39CD1DB04AB869D3AA559&profile=pass
-#EXTINF:-1 tvg-id="fa43989c6e30d6a072af97542fd05a3b",iConcerts HD
-http://95.189.230.8:9090/stream/channelid/479740922?ticket=41182D8DF76A3E41CB0724FC554A09C9A08F25BA&profile=pass
-#EXTINF:-1 tvg-id="005490244ae362848621f3b79554fd1e",ID
-http://95.189.230.8:9090/stream/channelid/613438464?ticket=0F9EF3834EBBD5721782E28AB60CBB3717852641&profile=pass
-#EXTINF:-1 tvg-id="e6ce457bdc7ac1c053765a5d0972963e",Kazakh TV
-http://95.189.230.8:9090/stream/channelid/2068172518?ticket=F40BEFEC53A41E6117511CA3E5FD916DCA0DEE5B&profile=pass
-#EXTINF:-1 tvg-id="5031aa1d5451f998bb9b39508374102b",Khabar 24
-http://95.189.230.8:9090/stream/channelid/497693008?ticket=5004A291EDE7C996D899205FC76E7FCFED4304EB&profile=pass
-#EXTINF:-1 tvg-id="d7edc55aa50469a6bfe3fb4c3fbdd0bd",Leomax+
-http://95.189.230.8:9090/stream/channelid/1522920919?ticket=407BD8F458630E05D8CBC3551DACFCE1269969A6&profile=pass
-#EXTINF:-1 tvg-id="6b6ae1c1e1d8242a4781bc5716c3a6a0",Mezzo Classic-Jazz TV
-http://95.189.230.8:9090/stream/channelid/1105291883?ticket=3E5243E155E51F34B03DF75711CC56E3E39CD3E8&profile=pass
-#EXTINF:-1 tvg-id="c3d07c08480dad494f258b8692d4b882",MTV
-http://95.189.230.8:9090/stream/channelid/142397635?ticket=D8273507957EB8A0519370F21FD5E8BBF585BD09&profile=pass
-#EXTINF:-1 tvg-id="5405ba0791a24385e4a5be0f6ab57195",Nick Jr.
-http://95.189.230.8:9090/stream/channelid/129631572?ticket=5DFB769C9B9B1A93BF2123845939DD727C3A5667&profile=pass
-#EXTINF:-1 tvg-id="fe3cdc2f5c0c3923285dbbce254c3250",Nickelodeon
-http://95.189.230.8:9090/stream/channelid/802962686?ticket=F5FD0378DA951B54C58A2D4E3335153140A1267F&profile=pass
-#EXTINF:-1 tvg-id="1deac902326bc23a1d30f6a5a9159bab",Nicktoons
-http://95.189.230.8:9090/stream/channelid/46787101?ticket=B509F4FA0CBB8D987885D1E9F56600B975D893D4&profile=pass
-#EXTINF:-1 tvg-id="14eb27b27cf5e575e998c69baf355678",O-la-la
-http://95.189.230.8:9090/stream/channelid/841476884?ticket=3901D0F9ACAF71480695B17BC418155389A9957A&profile=pass
-#EXTINF:-1 tvg-id="a30ed371a20bf6e8b4614c7eb3813825",O2TV
-http://95.189.230.8:9090/stream/channelid/1909657251?ticket=FFDB02784B1E060C1872163F250A113B29AE0030&profile=pass
-#EXTINF:-1 tvg-id="47343a3e2270c530e9d6cff591c8e98b",Ocean TV
-http://95.189.230.8:9090/stream/channelid/1044001863?ticket=2136DDCA301F4EAA5AECB86A14E81E97213E3F8A&profile=pass
-#EXTINF:-1 tvg-id="0c9064c623b7b5767f2d705cb6b9908c",Paramount Channel
-http://95.189.230.8:9090/stream/channelid/1180995596?ticket=DE4F626BE18C5FFE146258BC9419D3E7EB92FC2C&profile=pass
-#EXTINF:-1 tvg-id="12f39e728b5de21696729a5758d3241d",Paramount Comedy
-http://95.189.230.8:9090/stream/channelid/1923019538?ticket=9FFA9796ADB036E972DEAE68877270F91B76BB04&profile=pass
-#EXTINF:-1 tvg-id="188babc5ee6575547501953204df61cf",Plan B
-http://95.189.230.8:9090/stream/channelid/1168870168?ticket=2580710105DEF4DD3B42EE61FE220DE74369403C&profile=pass
-#EXTINF:-1 tvg-id="e39e74efc2ee863a1260f82d0ec1d1b8",Plan B HD
-http://95.189.230.8:9090/stream/channelid/1869913827?ticket=A0DB6AE70A9B33DB0C4D15C7B4A22877C9AB313F&profile=pass
-#EXTINF:-1 tvg-id="dc2e412678dc56f2fd1b06e88e21205b",Playboy TV
-http://95.189.230.8:9090/stream/channelid/641806044?ticket=59AB494C427AC42F29F0BC67CC07C1555F0BA797&profile=pass
-#EXTINF:-1 tvg-id="0909a2141f17c165f03f06487b8a9898",Retro FM (+2)
-http://95.189.230.8:9090/stream/channelid/346163465?ticket=5F183EA043EB66F9376720E7DDFC283182265DFA&profile=pass
-#EXTINF:-1 tvg-id="065616a8155afeeb3fa4647d58f618b3",Retro FM (+4)
-http://95.189.230.8:9090/stream/channelid/672552454?ticket=798308EBEC5F6B04FC3C5DFD8E9E101F580107EC&profile=pass
-#EXTINF:-1 tvg-id="08dd53ed359246917aae271d8aa5b442",RTG HD
-http://95.189.230.8:9090/stream/channelid/1834212616?ticket=0E22B51DF5EA71129ABE3D5FA15EBFFA7C4C8F0F&profile=pass
-#EXTINF:-1 tvg-id="0945a81d459f856bc86e88bbf113aaad",RTG TV
-http://95.189.230.8:9090/stream/channelid/497566985?ticket=430BBCC70B99EA15CFD69BD33A4A6C82076E709D&profile=pass
-#EXTINF:-1 tvg-id="cd292abc8d45bb20144ac53bb10f6b7d",Shant Serial
-http://95.189.230.8:9090/stream/channelid/1009396173?ticket=6F52C82DCC710E1BBC1763EC54C3F64DA3FA36A5&profile=pass
-#EXTINF:-1 tvg-id="8fa62005d0751a5a420208ebeda2e8f4",Shop&Show
-http://95.189.230.8:9090/stream/channelid/86025871?ticket=D8810268A76512E9A96FCFF6640C9A7FF206DB82&profile=pass
-#EXTINF:-1 tvg-id="b28d0f197f771aecf0fa53a123aeefca",Star Cinema
-http://95.189.230.8:9090/stream/channelid/420449714?ticket=AB8DB87F600EB34B81ED606D193715D053FA7193&profile=pass
-#EXTINF:-1 tvg-id="39c7cd4655754c233ccdce0bc6f68761",Star Family
-http://95.189.230.8:9090/stream/channelid/1187891001?ticket=44CA2DEF122B426D3F9435012571033DA4E6FE96&profile=pass
-#EXTINF:-1 tvg-id="909ca2e1a8b875ab70996e1720373524",Test-1255
-http://95.189.230.8:9090/stream/channelid/1638046864?ticket=CD3DA9156E81FE4D84CD303C6EFF3366FA591BEA&profile=pass
-#EXTINF:-1 tvg-id="2157961922aa89972ffa07c056653f24",Test-1256
-http://95.189.230.8:9090/stream/channelid/429283105?ticket=D89F91BFCAB953FE1BF2A493FC3EF467E919F468&profile=pass
-#EXTINF:-1 tvg-id="6f7e34c406d938dd34c13ed09c7f1ea6",Test-412
-http://95.189.230.8:9090/stream/channelid/1144290927?ticket=FACA4EBAFB7410CA432052B52ACC55444BC27B67&profile=pass
-#EXTINF:-1 tvg-id="c061a16ece4ec767c6bacfab59406496",TLC Russia
-http://95.189.230.8:9090/stream/channelid/1856070080?ticket=A1ACD248184FD6E31018EF7705FDF22B2571CA9F&profile=pass
-#EXTINF:-1 tvg-id="1c161efda749065e9fc2a020af772cfb",VH1 Classic
-http://95.189.230.8:9090/stream/channelid/2099123740?ticket=E70ECDAD418D27D85FE050E212575759DAA7F846&profile=pass
-#EXTINF:-1 tvg-id="5221ad0e83cb26f3b143c7e1f1e753c1",ViP Comedy
-http://95.189.230.8:9090/stream/channelid/246227282?ticket=4A3870478D2402579530E19EB7AA77395E3A635D&profile=pass
-#EXTINF:-1 tvg-id="a888c9fb5284f758c8e3c572f85a719b",ViP Megahit
-http://95.189.230.8:9090/stream/channelid/2076805288?ticket=E4AE99121095BA4BCBA2AB971E6C5922A134E9E6&profile=pass
-#EXTINF:-1 tvg-id="0c8dd88d4b5036d14e4571b579b3d508",ViP Premiere
-http://95.189.230.8:9090/stream/channelid/232295692?ticket=22D445D4ACD0AE597CE342D5CDC941876D93094C&profile=pass
-#EXTINF:-1 tvg-id="82a1718d46fcfbc6cd81f02d6ffed477",{name-not-set}
-http://95.189.230.8:9090/stream/channelid/225550722?ticket=56B6DDB170C1F0C788076A2FB5E61F148ABC586D&profile=pass
-#EXTINF:-1 tvg-id="aa94499d66eb1136b6be2651d60c1fba",{name-not-set}
-http://95.189.230.8:9090/stream/channelid/491361450?ticket=7549431498E2529CBF6C0A4087B5C46041E0FCEF&profile=pass
-#EXTINF:-1 tvg-id="c0aca630835dba974504fb39149c1422",{name-not-set}
-http://95.189.230.8:9090/stream/channelid/816229568?ticket=73F73942997F51EFD31BC5847397770B9D857A01&profile=pass
-#EXTINF:-1 tvg-id="5fbf13c2ee064786b83728f6a24e79b9",{name-not-set}
-http://95.189.230.8:9090/stream/channelid/1108590431?ticket=6C91F16573509D1B8AE9B7FF70902F0B5440EE88&profile=pass
-#EXTINF:-1 tvg-id="7854744dc29aa2093164b557050f8a28",{name-not-set}
-http://95.189.230.8:9090/stream/channelid/1299469432?ticket=C044E8B602227445E92FB594C595A03CAB1A2194&profile=pass
-#EXTINF:-1 tvg-id="75ece2d8215f47364022cc245dcd3522",Авто 24
-http://95.189.230.8:9090/stream/channelid/1491266677?ticket=5B50A2BA2DA600133668D3AE4EC416DDC0997301&profile=pass
-#EXTINF:-1 tvg-id="5bfa7a00f0a62c1d73ccbe5032748129",БСТ
-http://95.189.230.8:9090/stream/channelid/8059483?ticket=496E7B700313D0AC8E6130B1D9C8269832437237&profile=pass
-#EXTINF:-1 tvg-id="b3786c15b747fb65697de207e627df95",БелРос
-http://95.189.230.8:9090/stream/channelid/359430323?ticket=F841F62F648728BA721647880EEBC83AC51B68EF&profile=pass
-#EXTINF:-1 tvg-id="662c326534404c8b58c8e520f3141735",В гостях у сказки
-http://95.189.230.8:9090/stream/channelid/1697786982?ticket=5F67CF84EBA2CD3B4786B5CF7DA818774B11433A&profile=pass
-#EXTINF:-1 tvg-id="7d2bbeb304372101d7eab374e2b55371",Ваш Успех
-http://95.189.230.8:9090/stream/channelid/868100989?ticket=C8FBE488F0AB14756F3D13A0386A59E4AC4DCFCB&profile=pass
-#EXTINF:-1 tvg-id="c0c82a7ade7f3feb617d7624ab02d378",Ветта 24
-http://95.189.230.8:9090/stream/channelid/2049624256?ticket=199DA4AE1D53977F15FEF95F07D4FABB1192EA12&profile=pass
-#EXTINF:-1 tvg-id="75151da72a1f87b6393bd12eb3ac079c",Волга
-http://95.189.230.8:9090/stream/channelid/656217461?ticket=883ABDC83017F8667561FD619B466731E0C6D778&profile=pass
-#EXTINF:-1 tvg-id="01a02b02d2e25595d71edbbc1b3561ef",Глазами Туриста HD
-http://95.189.230.8:9090/stream/channelid/36413441?ticket=7BD537FC2B35F07181ABFDDAEA5EEE18AC7DF027&profile=pass
-#EXTINF:-1 tvg-id="78d7e34cfd1df2bbb3c9a15596db3f40",ДОН 24 ТВ
-http://95.189.230.8:9090/stream/channelid/1290000248?ticket=9B6E45ED071625F29908D9FBB12CBF1B3A076E36&profile=pass
-#EXTINF:-1 tvg-id="dbb51ba27556c1c18c46b1f82ea257ed",Детский
-http://95.189.230.8:9090/stream/channelid/572241371?ticket=883D3976A535F10418C22B651AC2603D406A0CA5&profile=pass
-#EXTINF:-1 tvg-id="52ed656bac5814a186954f2912f739ee",Детский мир
-http://95.189.230.8:9090/stream/channelid/1801842002?ticket=A259745762F2886472CA3D1F7B619E0198ED0992&profile=pass
-#EXTINF:-1 tvg-id="fc823f20cdef81ffebad1af25331635c",Детский телеканал Пингвин
-http://95.189.230.8:9090/stream/channelid/541033212?ticket=03EB667F07327E8BB087EB940AE94ED0600463F3&profile=pass
-#EXTINF:-1 tvg-id="eb2c7a6052ede34ed2d2973ef691af62",Диалоги о Рыбалке
-http://95.189.230.8:9090/stream/channelid/1618619627?ticket=3B7D6097C724E6D2A2CA7A066BC5AE9A2BAA18DE&profile=pass
-#EXTINF:-1 tvg-id="3d275b0475e9f14ca8c65daca27833a7",Дикая охота HD
-http://95.189.230.8:9090/stream/channelid/73082685?ticket=7FF78905C2429D7A43F593AB9E0418A812E8BD07&profile=pass
-#EXTINF:-1 tvg-id="b04df61b056f9adfcdbb996dc1b41a00",Дикая рыбалка HD
-http://95.189.230.8:9090/stream/channelid/469126576?ticket=33003B2DF9EFCDB0DCAA138C2608279C80B11A2C&profile=pass
-#EXTINF:-1 tvg-id="6dfb0bd5908ac1c9b9a27a38792286e2",Дикий
-http://95.189.230.8:9090/stream/channelid/1426848621?ticket=4D6D865D8BAB59500E7F46B8A897D943C3D74CAC&profile=pass
-#EXTINF:-1 tvg-id="fd8b8fc2c33e56ee05bdd3bd309385bd",Доктор
-http://95.189.230.8:9090/stream/channelid/1116703741?ticket=12C0FB1C7AE15868BF880ABB39E71EB8F0D29103&profile=pass
-#EXTINF:-1 tvg-id="0d0107839162afb2320f3ab74766f088",Дом Кино
-http://95.189.230.8:9090/stream/channelid/50790669?ticket=92301FE1DA3D4ABFA05B0281C279F0FC8670A52E&profile=pass
-#EXTINF:-1 tvg-id="3a328739bbbd38844349b30b653a27d9",Домашний (+2)
-http://95.189.230.8:9090/stream/channelid/965161530?ticket=ADE76201D021CCAA50F39397019B68D4B2F1E2BF&profile=pass
-#EXTINF:-1 tvg-id="427a0a26a92aa92d50de4529cfbaf30a",Дорожное радио-Красноярск
-http://95.189.230.8:9090/stream/channelid/638220866?ticket=F7459B59E0A25A12490DCFC198426C53604C6D0B&profile=pass
-#EXTINF:-1 tvg-id="50f1d33d18d1e63aad4337bcc99f0957",ЕГЭ
-http://95.189.230.8:9090/stream/channelid/1037300048?ticket=4E0DAB968F1F9E7B5D96A438C566ADD9663BABA3&profile=pass
-#EXTINF:-1 tvg-id="1ed20a93fe597289b4edf6cdbe7336d9",Еврокино
-http://95.189.230.8:9090/stream/channelid/319476254?ticket=373B4B73BB571EA68577770E489E8673EAC9094E&profile=pass
-#EXTINF:-1 tvg-id="54243a2293dfeab090a39801fbb80b88",Европа Плюс
-http://95.189.230.8:9090/stream/channelid/574235732?ticket=3AD5D9F88E28EA37697896F24A3A85C41048F4EB&profile=pass
-#EXTINF:-1 tvg-id="578d5da0f5fd2a8f374f21960d74403e",Енисей
-http://95.189.230.8:9090/stream/channelid/543001943?ticket=7860EFDABBB61D3A69C33543B8C04EA78D70143F&profile=pass
-#EXTINF:-1 tvg-id="d277deb10b23953489a515379727e856",Жара
-http://95.189.230.8:9090/stream/channelid/836663250?ticket=AB9E0B550434606CB458F32B93F0133A352FE087&profile=pass
-#EXTINF:-1 tvg-id="cd5cd11331b863896d0645dd8bce3049",Живая Планета
-http://95.189.230.8:9090/stream/channelid/332487885?ticket=AF8639EDE7FED31F0DE9A1C308D28D9F5F57B2BE&profile=pass
-#EXTINF:-1 tvg-id="3dabb102b7b6954ec8ec2be35131bf90",Живая Природа HD
-http://95.189.230.8:9090/stream/channelid/45198141?ticket=31AD21B73FE7C1E687A0993723EE8F2A35015B67&profile=pass
-#EXTINF:-1 tvg-id="270a5dd133536522016d997153ad6b6a",Зал суда
-http://95.189.230.8:9090/stream/channelid/1365051943?ticket=E97084EE46218C725DBE6D531FCD6BBF7964CEC9&profile=pass
-#EXTINF:-1 tvg-id="9fb812833e03bc2707d97ad2a07d4b93",ЗооПарк
-http://95.189.230.8:9090/stream/channelid/51558559?ticket=B98DFE9D0AE9F26CB1AEE0C85824D9FB59CAEFAF&profile=pass
-#EXTINF:-1 tvg-id="fe2d3610f202902b699875e09cc0d0cd",ИНДИЙСКОЕ КИНО
-http://95.189.230.8:9090/stream/channelid/271986174?ticket=A1BB145E8AF6507B456605B07569E395C24341FA&profile=pass
-#EXTINF:-1 tvg-id="abc44a3b6e34f2b84d8a7d13c20a6413",Иллюзион +
-http://95.189.230.8:9090/stream/channelid/994755755?ticket=121B30CEEA01F9D18246BF025399BA3C2C0A30E6&profile=pass
-#EXTINF:-1 tvg-id="aa6b14888b89a336871305679f3c1636",История
-http://95.189.230.8:9090/stream/channelid/135556010?ticket=66D7106B820E7ADB1A83A953C9FFD397049B25AA&profile=pass
-#EXTINF:-1 tvg-id="fdf654de79dd79e09341eeeeaaecc2cd",КВН ТВ
-http://95.189.230.8:9090/stream/channelid/1582626557?ticket=898454BBEA26AF76373A9B4606C009AD39F7B449&profile=pass
-#EXTINF:-1 tvg-id="34128d092d9659dd409c3ae31b878add",КИНОМИКС HD
-http://95.189.230.8:9090/stream/channelid/160240180?ticket=F219EEA1B9854AE0B475374C09FA3884251C8657&profile=pass
-#EXTINF:-1 tvg-id="01851ef1ec38d3f61e69078bf757eeec",КХЛ HD
-http://95.189.230.8:9090/stream/channelid/1897825537?ticket=EA3117D34D2102843CC7793B764C5E0F55AC261D&profile=pass
-#EXTINF:-1 tvg-id="0bd5468b758ff135a08a40b7e6057ffd",КХЛ ТВ
-http://95.189.230.8:9090/stream/channelid/189191435?ticket=88E962FE4B9C89C076AF7E10712CD7B990F192DB&profile=pass
-#EXTINF:-1 tvg-id="e146d890398ff5a4b714abfa3cae9583",Катунь 24
-http://95.189.230.8:9090/stream/channelid/282609377?ticket=8AC0342EF4A766A65FE77DAA1D68CAC54B81AEBE&profile=pass
-#EXTINF:-1 tvg-id="ea88f348453aaa23cdb37b954eebdf93",Кино ТВ HD
-http://95.189.230.8:9090/stream/channelid/1223919850?ticket=9F5BBC7EC43763846C0493465CC01F0D4ACA7794&profile=pass
-#EXTINF:-1 tvg-id="974f601940bf0d8961839bd1948a5979",Комедия
-http://95.189.230.8:9090/stream/channelid/425742231?ticket=8C11365EB042CD1DA01FDCE18596E6576717F7E4&profile=pass
-#EXTINF:-1 tvg-id="feec24675a4372a75ac33c25f5a8a84e",Конный мир
-http://95.189.230.8:9090/stream/channelid/1730473214?ticket=3193D5765B33470BDD7F3392E6321E0672F6B55D&profile=pass
-#EXTINF:-1 tvg-id="6fa04bccf7c0201a39d794cebdeeffe9",Курай ТВ
-http://95.189.230.8:9090/stream/channelid/1280024687?ticket=54613ED711AB1516D72C3D43A6D9355C7BB28D9F&profile=pass
-#EXTINF:-1 tvg-id="f9027f0dc8dbb2e78f35af9011966fe8",ЛОТ-Регион
-http://95.189.230.8:9090/stream/channelid/226427641?ticket=DF75719144DD7B1D321ED8104B84A0CA2EEAB071&profile=pass
-#EXTINF:-1 tvg-id="960cea5cf80a1b92185fe1b4ac9a7617",Любимое кино
-http://95.189.230.8:9090/stream/channelid/1558842518?ticket=617C780DD9B4D8571F154A6E195BB78D4F0679EF&profile=pass
-#EXTINF:-1 tvg-id="a199b0230ad1f3e9a2771a002a236e3d",МУЖСКОЕ КИНО HD
-http://95.189.230.8:9090/stream/channelid/598776225?ticket=DF467A0FA3DB26BA09E455095D6A0D8A1DEDE039&profile=pass
-#EXTINF:-1 tvg-id="61592e6a6c40deaded3b5d3132d28afd",МУЗ ТВ
-http://95.189.230.8:9090/stream/channelid/1781422433?ticket=5F64057F3B739D5BE4A94FD485BACA4D74B359EC&profile=pass
-#EXTINF:-1 tvg-id="f79517c5d8811894cd1d0bafe64f3ab0",Майдан
-http://95.189.230.8:9090/stream/channelid/1159173623?ticket=E2D7CD33A3EB7A695698D4F7A927D39C345E08FA&profile=pass
-#EXTINF:-1 tvg-id="9b68230f5f21439a3dbc5e601db4bca8",Матч Арена
-http://95.189.230.8:9090/stream/channelid/253978779?ticket=F5F13E3E4A16F0D9CB3E09E7AA4618EBB63E5893&profile=pass
-#EXTINF:-1 tvg-id="14a9d52b5aa8db6b4539cc3718d4a3c4",Матч Боец
-http://95.189.230.8:9090/stream/channelid/735422740?ticket=B09BB49FCDC76BDD9F838F4860B88F27185CB8E0&profile=pass
-#EXTINF:-1 tvg-id="66dc2f7b3edd92ca5a5278bc5c887282",Матч Игра
-http://95.189.230.8:9090/stream/channelid/2066734182?ticket=E2DD064F30FE7558885612F7A7A6B589D2B88C75&profile=pass
-#EXTINF:-1 tvg-id="b1bb4a7dc3d89519f634365c42ea8d36",Матч Страна
-http://95.189.230.8:9090/stream/channelid/2102049713?ticket=8C702A859F06F3708FE7D4E4F136FE9E43CF3085&profile=pass
-#EXTINF:-1 tvg-id="a26248d6696ced3c1351f17d58989591",Матч Футбол 1
-http://95.189.230.8:9090/stream/channelid/1447584418?ticket=187891FB4CE805C4E4BA267B95D17E757BA2CB94&profile=pass
-#EXTINF:-1 tvg-id="0d1348b78d146a40f86e7e8e868dbf93",Матч Футбол 2
-http://95.189.230.8:9090/stream/channelid/927470349?ticket=AF1704DFCEA2F043AA1AB4D592EAAEB971C55A2C&profile=pass
-#EXTINF:-1 tvg-id="d5483355aaecf030883474be669745e4",Матч Футбол 3
-http://95.189.230.8:9090/stream/channelid/1429424341?ticket=1BA9F577BBF0CA65F4B5EC0EEC2A637F02D10FC5&profile=pass
-#EXTINF:-1 tvg-id="4c52c6da78666a6912b829b7a6bb174f",Мир
-http://95.189.230.8:9090/stream/channelid/1522946636?ticket=FFA15C4136C647C3B361730C555B22677C5C1AA8&profile=pass
-#EXTINF:-1 tvg-id="949764c69f8a2fc414950671105486bd",Мир 24
-http://95.189.230.8:9090/stream/channelid/1180997524?ticket=D2F73337C4B8A9A1014DEEEC171A702C1C237718&profile=pass
-#EXTINF:-1 tvg-id="4bb64a59d0ff493116d727fbdaa380ce",Мир Сериала
-http://95.189.230.8:9090/stream/channelid/1498068555?ticket=EB7FCBB6A10C2420581E962B03B225BEA9350AFF&profile=pass
-#EXTINF:-1 tvg-id="2f18f785b82ca6c7eb6002178f7c2e4f",Мир Увлечений
-http://95.189.230.8:9090/stream/channelid/100079663?ticket=618F64A033241787BFEFB71B3F56EAD0A72F4F8B&profile=pass
-#EXTINF:-1 tvg-id="5f15c2a82f7ccd93a361733d8a3915ad",Москва 24
-http://95.189.230.8:9090/stream/channelid/683808095?ticket=7A4B4785B0FC9D8A26732B1B33A23CD4694772D0&profile=pass
-#EXTINF:-1 tvg-id="0cd8bfe2e25bad43a3e53aff6abaf439",Мосфильм
-http://95.189.230.8:9090/stream/channelid/1656739852?ticket=7B3F85637AC57112FA8A8A996BD06AAB90C87066&profile=pass
-#EXTINF:-1 tvg-id="eb5eebe1ac356eaa8cab49c7c6dabc96",Моя Планета HD
-http://95.189.230.8:9090/stream/channelid/1642815211?ticket=4E0AC69ED298F557B79456BE743C090839D36577&profile=pass
-#EXTINF:-1 tvg-id="bd77202329754ffc755550161ecc46cc",Мульт HD
-http://95.189.230.8:9090/stream/channelid/589330365?ticket=503A4B6B31E10C1EF3F2A6EB13A31566600CB11E&profile=pass
-#EXTINF:-1 tvg-id="9ee396cfbf01bfbdba5cc16091755533",МультиМузыка
-http://95.189.230.8:9090/stream/channelid/1335288734?ticket=56E3633D2172D1D85B8EEDDB5ECE639F2F24E2E6&profile=pass
-#EXTINF:-1 tvg-id="5c525dbded955d32f1784812ddbf7733",Мультиландия
-http://95.189.230.8:9090/stream/channelid/1029526108?ticket=5230684FC2F1CF8E1058572E3C7D5956EBC2A497&profile=pass
-#EXTINF:-1 tvg-id="91658a8d6403cb4b135313bd126cf3f2",НСК 49 (Новосибирск)
-http://95.189.230.8:9090/stream/channelid/227173777?ticket=94151DB5EC7C9FD38CDAE32983C2B71084DA9E0E&profile=pass
-#EXTINF:-1 tvg-id="e9a2d1c7f2876cb38a5c65fe8c91b761",НТВ (+2)
-http://95.189.230.8:9090/stream/channelid/1204921065?ticket=DCB2C827E5712CEC94355A80F7922918C090FC6D&profile=pass
-#EXTINF:-1 tvg-id="a257ebc2b4d4e0c9fffca57699ec3766",НТВ HD
-http://95.189.230.8:9090/stream/channelid/1122719650?ticket=17172C5C128E6E88D73B33D5DDE4C9A2D4116578&profile=pass
-#EXTINF:-1 tvg-id="bb16cc2c89c9d052270931f3418b1af6",НТВ Право
-http://95.189.230.8:9090/stream/channelid/751572667?ticket=0197D1116E197E24F5195309BBACB0FFE1A39B5D&profile=pass
-#EXTINF:-1 tvg-id="036cebc8282769ff90630478cb6bbe79",НТВ Сериал
-http://95.189.230.8:9090/stream/channelid/1223388163?ticket=740BBCD9F6ACD8D1131DF052738382141E23BD9B&profile=pass
-#EXTINF:-1 tvg-id="b40e2017f8a30a125666c5f574799bbd",НТВ Стиль
-http://95.189.230.8:9090/stream/channelid/387976884?ticket=267903DCE24B2BE8FDAFA2A99B15CDD446733041&profile=pass
-#EXTINF:-1 tvg-id="48f32d15eff65c332a9ce5873b5c8253",НТВ Хит
-http://95.189.230.8:9090/stream/channelid/355332936?ticket=141E2761056B9FF714FBB39CE7EBEF032C03272F&profile=pass
-#EXTINF:-1 tvg-id="f8e91bf15ea274bb3ded37cd9e9bdeba",Наш Дом (Пенза)
-http://95.189.230.8:9090/stream/channelid/1897654776?ticket=ABB43E37110AFFB147C828F7FC23EBC7FD788242&profile=pass
-#EXTINF:-1 tvg-id="a8b42840cfc7cc4805a333db243c24a0",Наше новое кино
-http://95.189.230.8:9090/stream/channelid/1076409512?ticket=FDDE1D24A9EC2E8A385CA016B7385590C1786DD7&profile=pass
-#EXTINF:-1 tvg-id="a55760d1021649680dd6a57cbd306e79",ОРТРК - 12 Канал
-http://95.189.230.8:9090/stream/channelid/1365268389?ticket=81CE0FE89B0F39455D5F595B681C91177A220B29&profile=pass
-#EXTINF:-1 tvg-id="3c00c94f5b3500a178cab60d25c18693",ОТВ (Екатеринбург)
-http://95.189.230.8:9090/stream/channelid/1338572860?ticket=64F5B36BAFE749BCF1B63D49617D57A3B2AF0CCA&profile=pass
-#EXTINF:-1 tvg-id="f2fa7de882d7c63aa100ef618ec3ac14",ОТВ Челябинск (БУЛАТ)
-http://95.189.230.8:9090/stream/channelid/1753086706?ticket=02DB79B3F6B3F1DCEBB927BE825DC6559BECAE53&profile=pass
-#EXTINF:-1 tvg-id="0a9a76b5e77ae1c274d4d3becdce13e1",Омское радио
-http://95.189.230.8:9090/stream/channelid/896965130?ticket=E6CDA0513569EDD4088E1A01027439464ADA1F66&profile=pass
-#EXTINF:-1 tvg-id="9b6c19511ca134892c2f68cb3e7e81d2",Охота и Рыбалка
-http://95.189.230.8:9090/stream/channelid/1360620699?ticket=D00765B0539049F7CF59CF383312447EBF5B0CCC&profile=pass
-#EXTINF:-1 tvg-id="d0c09b5f2ad4ac032bc2e8e52d098539",Первый Вегетариански
-http://95.189.230.8:9090/stream/channelid/1604042960?ticket=C4F0E905F273745A9EE6DC95E14630B435559BBD&profile=pass
-#EXTINF:-1 tvg-id="620baec58848fed9ec53dead9981579c",Первый Канал HD
-http://95.189.230.8:9090/stream/channelid/1169034082?ticket=44EBE7E82785D62E1D088C95A45ADA025B2F2B95&profile=pass
-#EXTINF:-1 tvg-id="8ce37b9a93f8c4330ca3274e9e21a98a",Первый Канал HD (+4)
-http://95.189.230.8:9090/stream/channelid/444326796?ticket=421166BAC74BDBBF44C65D4D603BB7FA2C83D4B4&profile=pass
-#EXTINF:-1 tvg-id="1a591c6bfd2c89ce507c73e73d80d686",Первый канал (+2)
-http://95.189.230.8:9090/stream/channelid/1797019930?ticket=6F5041757B212460510164A195E1FFBDF33E338C&profile=pass
-#EXTINF:-1 tvg-id="36530665e9d94fd861de4a4ad89eb28f",Первый канал (+4)
-http://95.189.230.8:9090/stream/channelid/1694913334?ticket=DDE97AA1C4D72C1D07352E96B59806E07E813015&profile=pass
-#EXTINF:-1 tvg-id="73edb55e4a960e8587fe37d7785fb643",Петербург 5 канал (+2)
-http://95.189.230.8:9090/stream/channelid/1588981107?ticket=066290F82E9E1EB9CB4CEC24140C3936158BFACF&profile=pass
-#EXTINF:-1 tvg-id="2b514533b5e790488b134dd8c180a44e",Премьерный показ
-http://95.189.230.8:9090/stream/channelid/860180779?ticket=1C5C1F893771671E6666221849405A283E797149&profile=pass
-#EXTINF:-1 tvg-id="580a8c5330813188134c244480778e63",Продвижение (Москва)
-http://95.189.230.8:9090/stream/channelid/1401686616?ticket=2A22C438CF303D05E1595CEDF1CDF2C9CA801FC2&profile=pass
-#EXTINF:-1 tvg-id="7bf4f16fac6b249c018dc558741d79a8",Продвижение (Сибирь)
-http://95.189.230.8:9090/stream/channelid/1878127739?ticket=13E47CEFE6BCFC321C2DE3F8DC2749800EC649F0&profile=pass
-#EXTINF:-1 tvg-id="3d7456b8db45f469889a2f7b24d43175",Пятница
-http://95.189.230.8:9090/stream/channelid/945189949?ticket=8C4707F80829B05C463ED1504989E61D787884EB&profile=pass
-#EXTINF:-1 tvg-id="33d0491cc6d21e725a4ab3cfa931b1de",РБК ТВ
-http://95.189.230.8:9090/stream/channelid/474599475?ticket=52C8E9ECFEEACD2498F87D8FF94B4E5852682752&profile=pass
-#EXTINF:-1 tvg-id="4d6594dfd3f56259bc3c9baf0502a3da",РЕН (+2)
-http://95.189.230.8:9090/stream/channelid/1603560781?ticket=72BCE49C65476143FBAEA53D401CB7B3FF9190D9&profile=pass
-#EXTINF:-1 tvg-id="971d06f2f7a58c0d72de45f94fcca4c5",Радио Ашкадар
-http://95.189.230.8:9090/stream/channelid/1913003415?ticket=9F9D52627AB31C7ED00A23E7F0916853688B93C1&profile=pass
-#EXTINF:-1 tvg-id="ff597ec9176e904336e395db95c64735",Радио Мир Белогорья
-http://95.189.230.8:9090/stream/channelid/1233017343?ticket=F03BCAE3D26E5784E41D3AA2793AD7044E6E5AEF&profile=pass
-#EXTINF:-1 tvg-id="84183548aba1027f97a9de3812849454",Радио Страна FM
-http://95.189.230.8:9090/stream/channelid/1211439236?ticket=F624B6007B1632BB77B1039CB3CC0397F293B1F6&profile=pass
-#EXTINF:-1 tvg-id="a0d9ffbbca5d30c903eaf34f055f6623",Родное Кино
-http://95.189.230.8:9090/stream/channelid/1006623136?ticket=3082EA8C849252A45C20CD655747AA81AA6C4320&profile=pass
-#EXTINF:-1 tvg-id="320de9c0c02f905701acca0a50573300",Россия 1 (+2)
-http://95.189.230.8:9090/stream/channelid/1089015090?ticket=2220A43A5072B132FBC429974691EFBC6B09A3BF&profile=pass
-#EXTINF:-1 tvg-id="b79078afb7b176cff389741635d977e6",Россия 1 (+4)
-http://95.189.230.8:9090/stream/channelid/796430519?ticket=6604B43DD45C138D48C1961444A1F3F6BC0A2C3D&profile=pass
-#EXTINF:-1 tvg-id="bc1a6c1d3d67bb87d82dc154c3fd7ca8",Россия HD
-http://95.189.230.8:9090/stream/channelid/493623996?ticket=81AA9BEB4647BE7D713775418A7367286A66BFE4&profile=pass
-#EXTINF:-1 tvg-id="f702ea2394d31aae349319ea7255e952",Русская ночь
-http://95.189.230.8:9090/stream/channelid/602538743?ticket=FF99B26DE5B1546E6D758E12C4BE92EBD48CEE1E&profile=pass
-#EXTINF:-1 tvg-id="19efaee88669a67480f392f4ccba7077",Русский Бестселлер
-http://95.189.230.8:9090/stream/channelid/1756294937?ticket=F8FFE5835C6BD6BEC1D90892E200A77F15A7DDD0&profile=pass
-#EXTINF:-1 tvg-id="abd272bf991ab6e327e14c671cbafe00",Русский Детектив
-http://95.189.230.8:9090/stream/channelid/1064489643?ticket=027DD2F17192F01EBAD72347C3A841B2452CC78B&profile=pass
-#EXTINF:-1 tvg-id="226ed7192a2049a08d84a01bca7ae585",Русский Иллюзион
-http://95.189.230.8:9090/stream/channelid/433548834?ticket=DB155FAFBD215BE76919787F4F9CB84A6FD8AA31&profile=pass
-#EXTINF:-1 tvg-id="aae7e34939327b6f0b9aaf57b8736e05",Русский Роман
-http://95.189.230.8:9090/stream/channelid/1239672746?ticket=6556CC63C48996E50589A1D6C525303092AC5B6F&profile=pass
-#EXTINF:-1 tvg-id="b93bf92b2167496b79b29466d13ef986",СТС (+2)
-http://95.189.230.8:9090/stream/channelid/737754041?ticket=25FC760AA58F6CE040F538077F830EDE3D22365C&profile=pass
-#EXTINF:-1 tvg-id="85e0dc9058cc7ccb183661ffe62fe7cd",СТС (+4)
-http://95.189.230.8:9090/stream/channelid/282910853?ticket=3B4B4A1AACD5CBE3D40FF9B33B4F4CB6282FDFCB&profile=pass
-#EXTINF:-1 tvg-id="6683273e5de58d6e2e871c8920b5a78f",СТС HD
-http://95.189.230.8:9090/stream/channelid/1042776934?ticket=670A0346EDB59AA963B8A94500304CD7D6E3ECED&profile=pass
-#EXTINF:-1 tvg-id="705c5ebc581eb7011685f7a55aacc5c2",СТС Kids
-http://95.189.230.8:9090/stream/channelid/1012817008?ticket=BF09410394FE349D67C8DAA66CF2E1797CEB6D46&profile=pass
-#EXTINF:-1 tvg-id="396f5540bf398e4b3ec206119e83d162",Славянскiй МIРЪ
-http://95.189.230.8:9090/stream/channelid/1079340857?ticket=47ED3F0C402558F6F8449583E22BED5DCE7287E0&profile=pass
-#EXTINF:-1 tvg-id="7573f040f86c7d309ab65b02c5499aef",Совершенно Секретно
-http://95.189.230.8:9090/stream/channelid/1089500021?ticket=8CFC339E3D43A25FD1C72F3C14931A6EF0BDA84C&profile=pass
-#EXTINF:-1 tvg-id="0d874967d8e218c655f2ca32a8b71918",Спас
-http://95.189.230.8:9090/stream/channelid/1732871949?ticket=FE346351A230D86C9083468D50AAAA5C1DC25246&profile=pass
-#EXTINF:-1 tvg-id="e99dbe446f24ec9de51993715513b929",Спутник ФМ
-http://95.189.230.8:9090/stream/channelid/1153342953?ticket=CC82208D540AE36375C2C3290432C9E765FBFFA0&profile=pass
-#EXTINF:-1 tvg-id="4fe6a2c683aca413e0931ee17b879858",ТВ-3
-http://95.189.230.8:9090/stream/channelid/1185080911?ticket=D2D7FB85B566ED37687225B62EEA0301FAA57FCC&profile=pass
-#EXTINF:-1 tvg-id="acb58fc171ba8754083bd6458574a151",ТНТ (+4)
-http://95.189.230.8:9090/stream/channelid/1099937196?ticket=4B56A7E1A1DF48D166B89B3D72D2B71187EC6217&profile=pass
-#EXTINF:-1 tvg-id="bff0b46e3c5b03d71a58b9c25a958a5d",ТНТ HD
-http://95.189.230.8:9090/stream/channelid/1857351871?ticket=CE2685397C15F9A754A378C0C6BE113528BADF47&profile=pass
-#EXTINF:-1 tvg-id="55aa6d3376cc954251abc9098e157d13",Татарстан Новый Век
-http://95.189.230.8:9090/stream/channelid/862825045?ticket=959FB0C0FF2D390AD7D964B7537A32AEAA4F3C02&profile=pass
-#EXTINF:-1 tvg-id="1a8036cc1555eab71ec52fdefc26c467",Театр
-http://95.189.230.8:9090/stream/channelid/1278640154?ticket=EBCD00905EFCA57328900DAB59631E744D58687D&profile=pass
-#EXTINF:-1 tvg-id="02432fc31db36ad3b10ea5b80812cbb4",Точка отрыва
-http://95.189.230.8:9090/stream/channelid/1127170818?ticket=D8B51369F72EEEC813DFF9CB14758D575AD72229&profile=pass
-#EXTINF:-1 tvg-id="4a0f1dd85879a2f3d84e0ad633e627e1",Удмуртия
-http://95.189.230.8:9090/stream/channelid/1478299466?ticket=1B7F41D73EAE2934CE7ABFFCEF6AD89F89B88947&profile=pass
-#EXTINF:-1 tvg-id="752ab00a5c974fa1257c6fc1282e6423",Футбол
-http://95.189.230.8:9090/stream/channelid/179317365?ticket=480AA8D74E6951FB1372340B5597539133FA8772&profile=pass
-#EXTINF:-1 tvg-id="fd283d222351d550e26b7322d5bfe515",Чаваш Ен
-http://95.189.230.8:9090/stream/channelid/574433533?ticket=030056768C5E30AA785B24E4EF442D443A596401&profile=pass
-#EXTINF:-1 tvg-id="37cc7c89f98881a362aa6db9832f31d1",Че
-http://95.189.230.8:9090/stream/channelid/159173687?ticket=F1F6D20269FFCBE9A1CB171722D74C85F86705F3&profile=pass
-#EXTINF:-1 tvg-id="57433406ac83205324715cd59e75833e",Шансон ТВ
-http://95.189.230.8:9090/stream/channelid/104088407?ticket=B680909587B49E4C271687798064224991D37103&profile=pass
-#EXTINF:-1 tvg-id="736c059985b30057d273c1d4316e0cb4",Юлдаш ФМ
-http://95.189.230.8:9090/stream/channelid/419785843?ticket=9C7B4F1E54EBA47150A85833F7EA7FEA83C0989A&profile=pass
-#EXTINF:-1 tvg-id="d2fd6bd99d1d322554d1bac76746800a",Юрган
-http://95.189.230.8:9090/stream/channelid/1500249554?ticket=F91937C8CB9FF53A6DA6096AEED923D098BF0A25&profile=pass
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTINF:-1,Бокс ТВ  for metroset
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.4:1234
+#EXTINF:-1,11 РЕН ТВ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.14:1234
+#EXTINF:-1,CTC-LOVE+2
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.15:1234
+#EXTINF:-1,MY PLANET HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.21:1234
+#EXTINF:-1,CHE+4
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.23:1234
+#EXTINF:-1,14 Домашний
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.24:1234
+#EXTINF:-1,RenTV HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.28:1234
+#EXTINF:-1,ДОЖДЬ HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.30:1234
+#EXTINF:-1,MIR +4
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.33:1234
+#EXTINF:-1,U (+2)
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.35:1234
+#EXTINF:-1,Disney (+2)
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.36:1234
+#EXTINF:-1,ЖИВАЯ ПРИРОДА HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.39:1234
+#EXTINF:-1,Bridge TV classic 
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.40:1234
+#EXTINF:-1,China TV
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.41:1234
+#EXTINF:-1,Подмосковье 360* HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.42:1234
+#EXTINF:-1,АВТО 24
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.43:1234
+#EXTINF:-1,ПРОДАЖНИК
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.45:1234
+#EXTINF:-1,MTV
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.47:1234
+#EXTINF:-1,БЕЛОРУСЬ 24
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.48:1234
+#EXTINF:-1,10 ФИЛЬМЫ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.49:1234
+#EXTINF:-1,О!2
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.61:1234
+#EXTINF:-1,А1 HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.62:1234
+#EXTINF:-1,RUTV HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.64:1234
+#EXTINF:-1,ЖАРПТИЦА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.71:1234
+#EXTINF:-1,Россия К
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.73:1234
+#EXTINF:-1,А HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.74:1234
+#EXTINF:-1,ПЛАНЕТА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.76:1234
+#EXTINF:-1,КАРУСЕЛЬ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.80:1234
+#EXTINF:-1,ТВЦ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.83:1234
+#EXTINF:-1,Shop AndShow
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.84:1234
+#EXTINF:-1,O
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.85:1234
+#EXTINF:-1,Paramount Movies Russia SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.90:1234
+#EXTINF:-1,Ani_SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.92:1234
+#EXTINF:-1,Еда
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.93:1234
+#EXTINF:-1,BRIDGE HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.95:1234
+#EXTINF:-1,blaeck
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.98:1234
+#EXTINF:-1,Clubbing TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.99:1234
+#EXTINF:-1,IZVESTIYA
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.101:1234
+#EXTINF:-1,EuropaPlusTV HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.106:1234
+#EXTINF:-1,ЧЕЧНЯ HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.114:1234
+#EXTINF:-1,ДИКИЙ
+http://5.53.17.213:7781/udp/239.72.4.115:1234
+#EXTINF:-1,Жара
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.116:1234
+#EXTINF:-1,NTV-HIT
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.118:1234
+#EXTINF:-1,В
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.119:1234
+#EXTINF:-1,FAN_SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.121:1234
+#EXTINF:-1,Doctor_HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.122:1234
+#EXTINF:-1,ТЕАТР
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.124:1234
+#EXTINF:-1,МАТУР ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.125:1234
+#EXTINF:-1,TV1000 HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.130:1234
+#EXTINF:-1,РАЗГОВОРЫ О РЫБАЛКЕ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.131:1234
+#EXTINF:-1,СТС KIDS
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.133:1234
+#EXTINF:-1,Kazakh TV HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.136:1234
+#EXTINF:-1,ДАГЕСТАН HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.151:1234
+#EXTINF:-1,А
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.161:1234
+#EXTINF:-1,МИР 24 HD
+http://5.53.17.213:7781/udp/239.72.4.162:1234
+#EXTINF:-1,RAI
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.166:1234
+#EXTINF:-1,ТНТ HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.171:1234
+#EXTINF:-1,Ратник HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.172:1234
+#EXTINF:-1,МУЗ СОЮЗ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.173:1234
+#EXTINF:-1,CTC+0 HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.202:1234
+#EXTINF:-1,DK Premium HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.218:1234
+#EXTINF:-1,МОСФИЛЬМ ЗОЛОТАЯ КОЛЕКЦИЯ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.223:1234
+#EXTINF:-1,Paramount Channel HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.4.252:1234
+#EXTINF:-1,ВМЕСТЕ-РФ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.4:1234
+#EXTINF:-1,Jivi
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.5:1234
+#EXTINF:-1,CHANSON
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.6:1234
+#EXTINF:-1,РОССИЯ К
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.15:1234
+#EXTINF:-1,365
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.16:1234
+#EXTINF:-1,5 КАНАЛ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.18:1234
+#EXTINF:-1,МАТЧ ТВ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.19:1234
+#EXTINF:-1,10 ТВ Центр
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.20:1234
+#EXTINF:-1,ЗВЕЗДА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.21:1234
+#EXTINF:-1,HGTV Russia HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.23:1234
+#EXTINF:-1,Любимое кино
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.26:1234
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.28:1234
+#EXTINF:-1,Discovery Science Europe HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.29:1234
+#EXTINF:-1,Dom Kino
+http://5.53.17.213:7781/udp/239.72.6.30:1234
+#EXTINF:-1,КИНОМИКС
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.31:1234
+#EXTINF:-1,МАТЧ! СТРАНА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.32:1234
+#EXTINF:-1,РОДНОЕ КИНО
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.34:1234
+#EXTINF:-1,СТС
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.35:1234
+#EXTINF:-1,РЕН ТВ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.38:1234
+#EXTINF:-1,ПРОДВИЖЕНИЕ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.41:1234
+#EXTINF:-1,ZEE TV
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.43:1234
+#EXTINF:-1,BRIDGE TV RU HIT
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.44:1234
+#EXTINF:-1,A HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.48:1234
+#EXTINF:-1,Eurosport Rus HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.50:1234
+#EXTINF:-1,Eurosport 2 Rus HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.51:1234
+#EXTINF:-1,ТНТ Music
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.53:1234
+#EXTINF:-1,Fenix+Kino
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.56:1234
+#EXTINF:-1,RusskiyRoman_HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.58:1234
+#EXTINF:-1,Усадьба
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.59:1234
+#EXTINF:-1,МАМА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.60:1234
+#EXTINF:-1,Mezzo SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.62:1234
+#EXTINF:-1,Komediya_SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.63:1234
+#EXTINF:-1,FOX Russia SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.70:1234
+#EXTINF:-1,Nayka HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.71:1234
+#EXTINF:-1,2Х2
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.72:1234
+#EXTINF:-1,Paramount Comedy
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.73:1234
+#EXTINF:-1,Zoo
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.77:1234
+#EXTINF:-1,Shopping Live
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.78:1234
+#EXTINF:-1,Kaleidoskop TV
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.79:1234
+#EXTINF:-1,CHE+2
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.90:1234
+#EXTINF:-1,КИНОСВИДАНИЕ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.95:1234
+#EXTINF:-1,МУЖСКОЕ КИНО
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.96:1234
+#EXTINF:-1,Travel Adventure HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.99:1234
+#EXTINF:-1,Евроновости
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.104:1234
+#EXTINF:-1,БОЕЦ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.105:1234
+#EXTINF:-1,КИНОКОМЕДИЯ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.107:1234
+#EXTINF:-1,МУЗ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.108:1234
+#EXTINF:-1,Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.113:1234
+#EXTINF:-1,КИНО ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.119:1234
+#EXTINF:-1,Telecafe
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.120:1234
+#EXTINF:-1,ПРОДАЖНИК
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.121:1234
+#EXTINF:-1,МУЗ  1
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.122:1234
+#EXTINF:-1,Poehali
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.126:1234
+#EXTINF:-1,Телеканал КХЛ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.133:1234
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.134:1234
+#EXTINF:-1,ID Xtra
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.138:1234
+#EXTINF:-1,Nat Geo Russia SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.139:1234
+#EXTINF:-1,DTX
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.140:1234
+#EXTINF:-1,TEST Russian Extreme TV MPEG4
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.143:1234
+#EXTINF:-1,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.146:1234
+#EXTINF:-1,САРАФАН
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.148:1234
+#EXTINF:-1,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.149:1234
+#EXTINF:-1,ТВ 3
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.152:1234
+#EXTINF:-1,Fox Life Russia SD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.153:1234
+#EXTINF:-1,Мультимузыка
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.155:1234
+#EXTINF:-1,Russkij illuzion
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.156:1234
+#EXTINF:-1,Матч! Арена
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.159:1234
+#EXTINF:-1,КИНОСЕРИЯ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.160:1234
+#EXTINF:-1,TiJi
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.161:1234
+#EXTINF:-1,ТНТ 4
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.162:1234
+#EXTINF:-1,2x2 (+4)
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.163:1234
+#EXTINF:-1,Detskii Mir
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.165:1234
+#EXTINF:-1,Discovery Russia HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.167:1234
+#EXTINF:-1,KHL HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.169:1234
+#EXTINF:-1,Bollywood HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.170:1234
+#EXTINF:-1,CINEMA
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.171:1234
+#EXTINF:-1,BRIDGE TV
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.175:1234
+#EXTINF:-1,ПЯТНИЦА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.177:1234
+#EXTINF:-1,Ugra okrug
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.181:1234
+#EXTINF:-1,ТЮМЕНСКОЕ ВРЕМЯ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.182:1234
+#EXTINF:-1,Yamal-Region
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.183:1234
+#EXTINF:-1,РБК
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.184:1234
+#EXTINF:-1,RADOST MOYA
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.185:1234
+#EXTINF:-1,Мультиландия
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.188:1234
+#EXTINF:-1,КУХНЯ ТВ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.192:1234
+#EXTINF:-1,HCT
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.195:1234
+#EXTINF:-1,HOLLYVUD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.197:1234
+#EXTINF:-1,Еда Премиум HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.199:1234
+#EXTINF:-1,T 24
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.201:1234
+#EXTINF:-1,ВРЕМЯ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.207:1234
+#EXTINF:-1,Ваш Успех
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.208:1234
+#EXTINF:-1,RTG HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.211:1234
+#EXTINF:-1,ФУТБОЛ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.214:1234
+#EXTINF:-1,HAHO
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.219:1234
+#EXTINF:-1,02 РОССИЯ-1
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.220:1234
+#EXTINF:-1,TNOMER
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.223:1234
+#EXTINF:-1,E TV
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.231:1234
+#EXTINF:-1,СОЮЗ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.232:1234
+#EXTINF:-1,Russkiy detectiv
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.233:1234
+#EXTINF:-1,СУББОТА
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.235:1234
+#EXTINF:-1,NHK WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.236:1234
+#EXTINF:-1,8 КАНАЛ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.237:1234
+#EXTINF:-1,RT Doc HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.240:1234
+#EXTINF:-1,THE 51%
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.243:1234
+#EXTINF:-1,ТНВ Планета
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.245:1234
+#EXTINF:-1,БЕЛ РОС
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.247:1234
+#EXTINF:-1,RT HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.250:1234
+#EXTINF:-1,БСТ
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.252:1234
+#EXTINF:-1,Bober
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.253:1234
+#EXTINF:-1,TLC Russia HD
+#EXTVLCOPT:network-caching=1000
+http://5.53.17.213:7781/udp/239.72.6.254:1234
 #EXTINF:-1 tvg-id="3d4d4032c33de02493d3f950e026aecd",4KANAL
 http://31.40.111.109:9981/stream/channelid/843074877?profile=pass
 #EXTINF:-1 tvg-id="9b0bb310e51ed2fb798071a08e12edce" tvg-chno="1",1+1
@@ -473,339 +615,3 @@ http://31.40.111.109:9981/stream/channelid/29382841?profile=pass
 http://31.40.111.109:9981/stream/channelid/382979837?profile=pass
 #EXTINF:-1 tvg-id="4835f19b188e10e9058c8fc481666329" tvg-chno="80",futbol 2
 http://31.40.111.109:9981/stream/channelid/468792648?profile=pass
-#EXTINF:-1,1 TV
-http://46.149.58.4:4000/play/a035/index.m3u8
-#EXTINF:-1,1 городской
-http://46.149.58.4:4000/play/a03q/index.m3u8
-#EXTINF:-1,1+1
-http://46.149.58.4:4000/play/a004/index.m3u8
-#EXTINF:-1,112 Украина
-http://46.149.58.4:4000/play/a017/index.m3u8
-#EXTINF:-1,112 Украина HD
-http://46.149.58.4:4000/play/a02y/index.m3u8
-#EXTINF:-1,2+2
-http://46.149.58.4:4000/play/a00h/index.m3u8
-#EXTINF:-1,2х2
-http://46.149.58.4:4000/play/a022/index.m3u8
-#EXTINF:-1,4 КАНАЛ
-http://46.149.58.4:4000/play/a01i/index.m3u8
-#EXTINF:-1,5 канал
-http://46.149.58.4:4000/play/a019/index.m3u8
-#EXTINF:-1,7 канал
-http://46.149.58.4:4000/play/a03w/index.m3u8
-#EXTINF:-1,8 канал
-http://46.149.58.4:4000/play/a00o/index.m3u8
-#EXTINF:-1,ANI
-http://46.149.58.4:4000/play/a02h/index.m3u8
-#EXTINF:-1,Ajara TV
-http://46.149.58.4:4000/play/a03a/index.m3u8
-#EXTINF:-1,Avtomobilnly
-http://46.149.58.4:4000/play/a04f/index.m3u8
-#EXTINF:-1,AТР
-http://46.149.58.4:4000/play/a00r/index.m3u8
-#EXTINF:-1,Boutique tv
-http://46.149.58.4:4000/play/a01x/index.m3u8
-#EXTINF:-1,CBC Sport
-http://46.149.58.4:4000/play/a03j/index.m3u8
-#EXTINF:-1,CCTV 4
-http://46.149.58.4:4000/play/a03m/index.m3u8
-#EXTINF:-1,CNL
-http://46.149.58.4:4000/play/a013/index.m3u8
-#EXTINF:-1,DALGA TV
-http://46.149.58.4:4000/play/a03f/index.m3u8
-#EXTINF:-1,Deutsche Welle
-http://46.149.58.4:4000/play/a033/index.m3u8
-#EXTINF:-1,Drama
-http://46.149.58.4:4000/play/a04n/index.m3u8
-#EXTINF:-1,Dunya TV
-http://46.149.58.4:4000/play/a03k/index.m3u8
-#EXTINF:-1,E TV
-http://46.149.58.4:4000/play/a01y/index.m3u8
-#EXTINF:-1,EU MUSIC
-http://46.149.58.4:4000/play/a02k/index.m3u8
-#EXTINF:-1,Eco TV
-http://46.149.58.4:4000/play/a027/index.m3u8
-#EXTINF:-1,Enter-фильм
-http://46.149.58.4:4000/play/a02p/index.m3u8
-#EXTINF:-1,Euronews
-http://46.149.58.4:4000/play/a01h/index.m3u8
-#EXTINF:-1,Extreme
-http://46.149.58.4:4000/play/a04m/index.m3u8
-#EXTINF:-1,Fashion TV
-http://46.149.58.4:4000/play/a01w/index.m3u8
-#EXTINF:-1,Fine_lining
-http://46.149.58.4:4000/play/a04j/index.m3u8
-#EXTINF:-1,G-News
-http://46.149.58.4:4000/play/a045/index.m3u8
-#EXTINF:-1,GDS TV
-http://46.149.58.4:4000/play/a03g/index.m3u8
-#EXTINF:-1,GTV
-http://46.149.58.4:4000/play/a044/index.m3u8
-#EXTINF:-1,HDFASHION
-http://46.149.58.4:4000/play/a031/index.m3u8
-#EXTINF:-1,ICTV
-http://46.149.58.4:4000/play/a00a/index.m3u8
-#EXTINF:-1,IMEDI TV
-http://46.149.58.4:4000/play/a03b/index.m3u8
-#EXTINF:-1,Jurnal TV
-http://46.149.58.4:4000/play/a03l/index.m3u8
-#EXTINF:-1,K1
-http://46.149.58.4:4000/play/a00c/index.m3u8
-#EXTINF:-1,K2
-http://46.149.58.4:4000/play/a00d/index.m3u8
-#EXTINF:-1,Kino1
-http://46.149.58.4:4000/play/a04o/index.m3u8
-#EXTINF:-1,KРТ
-http://46.149.58.4:4000/play/a01v/index.m3u8
-#EXTINF:-1,Lider TV
-http://46.149.58.4:4000/play/a03i/index.m3u8
-#EXTINF:-1,M1
-http://46.149.58.4:4000/play/a02i/index.m3u8
-#EXTINF:-1,M2
-http://46.149.58.4:4000/play/a02j/index.m3u8
-#EXTINF:-1,MUSIC BOX
-http://46.149.58.4:4000/play/a02m/index.m3u8
-#EXTINF:-1,Maestro
-http://46.149.58.4:4000/play/a037/index.m3u8
-#EXTINF:-1,Marneuli.TV
-http://46.149.58.4:4000/play/a036/index.m3u8
-#EXTINF:-1,Milady
-http://46.149.58.4:4000/play/a01p/index.m3u8
-#EXTINF:-1,NewsOne
-http://46.149.58.4:4000/play/a01a/index.m3u8
-#EXTINF:-1,ODESSA FASHION
-http://46.149.58.4:4000/play/a032/index.m3u8
-#EXTINF:-1,OLVIA
-http://46.149.58.4:4000/play/a048/index.m3u8
-#EXTINF:-1,OTV
-http://46.149.58.4:4000/play/a02l/index.m3u8
-#EXTINF:-1,Obiieqtivi TV
-http://46.149.58.4:4000/play/a038/index.m3u8
-#EXTINF:-1,Odessa int
-http://46.149.58.4:4000/play/a049/index.m3u8
-#EXTINF:-1,Ost West
-http://46.149.58.4:4000/play/a01e/index.m3u8
-#EXTINF:-1,PRIME TIME
-http://46.149.58.4:4000/play/a040/index.m3u8
-#EXTINF:-1,RADA
-http://46.149.58.4:4000/play/a002/index.m3u8
-#EXTINF:-1,REAL TV
-http://46.149.58.4:4000/play/a03e/index.m3u8
-#EXTINF:-1,Shant Tv
-http://46.149.58.4:4000/play/a034/index.m3u8
-#EXTINF:-1,Space TV
-http://46.149.58.4:4000/play/a03h/index.m3u8
-#EXTINF:-1,Sport_1
-http://46.149.58.4:4000/play/a04g/index.m3u8
-#EXTINF:-1,Sport_2
-http://46.149.58.4:4000/play/a04h/index.m3u8
-#EXTINF:-1,TET
-http://46.149.58.4:4000/play/a006/index.m3u8
-#EXTINF:-1,TV 5
-http://46.149.58.4:4000/play/a00x/index.m3u8
-#EXTINF:-1,TV PIRVELI
-http://46.149.58.4:4000/play/a03d/index.m3u8
-#EXTINF:-1,Trialeti TV
-http://46.149.58.4:4000/play/a039/index.m3u8
-#EXTINF:-1,Tv 25
-http://46.149.58.4:4000/play/a03c/index.m3u8
-#EXTINF:-1,UA:ЗАКАРПАТТЯ
-http://46.149.58.4:4000/play/a00k/index.m3u8
-#EXTINF:-1,UA:КУЛЬТУРА
-http://46.149.58.4:4000/play/a00e/index.m3u8
-#EXTINF:-1,UA:Крим
-http://46.149.58.4:4000/play/a014/index.m3u8
-#EXTINF:-1,UA:ОДЕСА
-http://46.149.58.4:4000/play/a03p/index.m3u8
-#EXTINF:-1,UA:Перший
-http://46.149.58.4:4000/play/a001/index.m3u8
-#EXTINF:-1,XSPORT
-http://46.149.58.4:4000/play/a02o/index.m3u8
-#EXTINF:-1,Z
-http://46.149.58.4:4000/play/a01u/index.m3u8
-#EXTINF:-1,ZEE_TV
-http://46.149.58.4:4000/play/a04i/index.m3u8
-#EXTINF:-1,Zoom
-http://46.149.58.4:4000/play/a026/index.m3u8
-#EXTINF:-1,А1
-http://46.149.58.4:4000/play/a03r/index.m3u8
-#EXTINF:-1,А2
-http://46.149.58.4:4000/play/a03x/index.m3u8
-#EXTINF:-1,АРТ 24
-http://46.149.58.4:4000/play/a042/index.m3u8
-#EXTINF:-1,Академия
-http://46.149.58.4:4000/play/a03u/index.m3u8
-#EXTINF:-1,Бамбарбия ТВ
-http://46.149.58.4:4000/play/a01z/index.m3u8
-#EXTINF:-1,Беларусь 24
-http://46.149.58.4:4000/play/a01g/index.m3u8
-#EXTINF:-1,Бигуди
-http://46.149.58.4:4000/play/a02x/index.m3u8
-#EXTINF:-1,Вiдкритий
-http://46.149.58.4:4000/play/a00v/index.m3u8
-#EXTINF:-1,Возрождение
-http://46.149.58.4:4000/play/a00z/index.m3u8
-#EXTINF:-1,ВN?нтаж
-http://46.149.58.4:4000/play/a01r/index.m3u8
-#EXTINF:-1,ГКТВ Одесса
-http://46.149.58.4:4000/play/a03y/index.m3u8
-#EXTINF:-1,Глас
-http://46.149.58.4:4000/play/a03s/index.m3u8
-#EXTINF:-1,Глас религиозный
-http://46.149.58.4:4000/play/a010/index.m3u8
-#EXTINF:-1,Глас религиозный
-http://46.149.58.4:4000/play/a011/index.m3u8
-#EXTINF:-1,Град
-http://46.149.58.4:4000/play/a03o/index.m3u8
-#EXTINF:-1,Громадське ТВ
-http://46.149.58.4:4000/play/a00t/index.m3u8
-#EXTINF:-1,ДОТБ
-http://46.149.58.4:4000/play/a00s/index.m3u8
-#EXTINF:-1,Дача
-http://46.149.58.4:4000/play/a04l/index.m3u8
-#EXTINF:-1,Детектив 
-http://46.149.58.4:4000/play/a02v/index.m3u8
-#EXTINF:-1,Диалоги о рыбалке
-http://46.149.58.4:4000/play/a029/index.m3u8
-#EXTINF:-1,Дикий
-http://46.149.58.4:4000/play/a02a/index.m3u8
-#EXTINF:-1,Донбасс
-http://46.149.58.4:4000/play/a00l/index.m3u8
-#EXTINF:-1,Другий канал-ПромN?нь
-http://46.149.58.4:4000/play/a04d/index.m3u8
-#EXTINF:-1,Думская ТВ
-http://46.149.58.4:4000/play/a04a/index.m3u8
-#EXTINF:-1,Еспресо 
-http://46.149.58.4:4000/play/a018/index.m3u8
-#EXTINF:-1,Жара
-http://46.149.58.4:4000/play/a020/index.m3u8
-#EXTINF:-1,Живи
-http://46.149.58.4:4000/play/a02b/index.m3u8
-#EXTINF:-1,Здоровье
-http://46.149.58.4:4000/play/a043/index.m3u8
-#EXTINF:-1,Индиго ТВ
-http://46.149.58.4:4000/play/a01l/index.m3u8
-#EXTINF:-1,Интер
-http://46.149.58.4:4000/play/a003/index.m3u8
-#EXTINF:-1,Интер+
-http://46.149.58.4:4000/play/a007/index.m3u8
-#EXTINF:-1,Калейдоскоп
-http://46.149.58.4:4000/play/a01n/index.m3u8
-#EXTINF:-1,Караван
-http://46.149.58.4:4000/play/a00y/index.m3u8
-#EXTINF:-1,Киев
-http://46.149.58.4:4000/play/a00i/index.m3u8
-#EXTINF:-1,Кино ТВ
-http://46.149.58.4:4000/play/a02q/index.m3u8
-#EXTINF:-1,Киносемья
-http://46.149.58.4:4000/play/a02t/index.m3u8
-#EXTINF:-1,Кинохит 
-http://46.149.58.4:4000/play/a02r/index.m3u8
-#EXTINF:-1,Круг
-http://46.149.58.4:4000/play/a046/index.m3u8
-#EXTINF:-1,МСТ г.Марганец
-http://46.149.58.4:4000/play/a00n/index.m3u8
-#EXTINF:-1,Максi TV
-http://46.149.58.4:4000/play/a01q/index.m3u8
-#EXTINF:-1,Малятко TV
-http://46.149.58.4:4000/play/a02e/index.m3u8
-#EXTINF:-1,Матч!Игра
-http://46.149.58.4:4000/play/a02n/index.m3u8
-#EXTINF:-1,Мега
-http://46.149.58.4:4000/play/a025/index.m3u8
-#EXTINF:-1,Медиа Информ
-http://46.149.58.4:4000/play/a041/index.m3u8
-#EXTINF:-1,Мужское кино 
-http://46.149.58.4:4000/play/a02s/index.m3u8
-#EXTINF:-1,Мульт
-http://46.149.58.4:4000/play/a02f/index.m3u8
-#EXTINF:-1,Мульт и музыка
-http://46.149.58.4:4000/play/a02g/index.m3u8
-#EXTINF:-1,НЛО ТВ
-http://46.149.58.4:4000/play/a01o/index.m3u8
-#EXTINF:-1,НТН
-http://46.149.58.4:4000/play/a008/index.m3u8
-#EXTINF:-1,Навигатор TV
-http://46.149.58.4:4000/play/a023/index.m3u8
-#EXTINF:-1,НадN?я
-http://46.149.58.4:4000/play/a00q/index.m3u8
-#EXTINF:-1,Настоящее время
-http://46.149.58.4:4000/play/a024/index.m3u8
-#EXTINF:-1,Натали
-http://46.149.58.4:4000/play/a00u/index.m3u8
-#EXTINF:-1,Новости 24
-http://46.149.58.4:4000/play/a016/index.m3u8
-#EXTINF:-1,Новости 24 HD
-http://46.149.58.4:4000/play/a030/index.m3u8
-#EXTINF:-1,Новый канал
-http://46.149.58.4:4000/play/a00b/index.m3u8
-#EXTINF:-1,Новый христианский
-http://46.149.58.4:4000/play/a012/index.m3u8
-#EXTINF:-1,ОДЕССА PLUS
-http://46.149.58.4:4000/play/a03t/index.m3u8
-#EXTINF:-1,Обоз ТВ
-http://46.149.58.4:4000/play/a01f/index.m3u8
-#EXTINF:-1,Оце
-http://46.149.58.4:4000/play/a01k/index.m3u8
-#EXTINF:-1,Первый деловой
-http://46.149.58.4:4000/play/a01b/index.m3u8
-#EXTINF:-1,Перший Киiвский
-http://46.149.58.4:4000/play/a00w/index.m3u8
-#EXTINF:-1,Перший захiдний
-http://46.149.58.4:4000/play/a00j/index.m3u8
-#EXTINF:-1,Перший канал Укр радN?о
-http://46.149.58.4:4000/play/a04c/index.m3u8
-#EXTINF:-1,Пес и Ко
-http://46.149.58.4:4000/play/a028/index.m3u8
-#EXTINF:-1,Пиксель ТВ
-http://46.149.58.4:4000/play/a02d/index.m3u8
-#EXTINF:-1,ПлюсПлюс
-http://46.149.58.4:4000/play/a02c/index.m3u8
-#EXTINF:-1,Правда ТУТ
-http://46.149.58.4:4000/play/a01t/index.m3u8
-#EXTINF:-1,Прямий
-http://46.149.58.4:4000/play/a00f/index.m3u8
-#EXTINF:-1,Прямий HD
-http://46.149.58.4:4000/play/a02z/index.m3u8
-#EXTINF:-1,Рабинович ТВ
-http://46.149.58.4:4000/play/a01d/index.m3u8
-#EXTINF:-1,РадN?о Культура
-http://46.149.58.4:4000/play/a04e/index.m3u8
-#EXTINF:-1,Репортр
-http://46.149.58.4:4000/play/a03v/index.m3u8
-#EXTINF:-1,Русский роман 
-http://46.149.58.4:4000/play/a02w/index.m3u8
-#EXTINF:-1,СТБ
-http://46.149.58.4:4000/play/a009/index.m3u8
-#EXTINF:-1,Сварожичи
-http://46.149.58.4:4000/play/a00p/index.m3u8
-#EXTINF:-1,Солнце
-http://46.149.58.4:4000/play/a00g/index.m3u8
-#EXTINF:-1,ТВ Дом
-http://46.149.58.4:4000/play/a03n/index.m3u8
-#EXTINF:-1,ТВ-3
-http://46.149.58.4:4000/play/a02u/index.m3u8
-#EXTINF:-1,ТРК Украина
-http://46.149.58.4:4000/play/a005/index.m3u8
-#EXTINF:-1,Телевсесвiт
-http://46.149.58.4:4000/play/a00m/index.m3u8
-#EXTINF:-1,Точка отрыва
-http://46.149.58.4:4000/play/a021/index.m3u8
-#EXTINF:-1,Точка тв
-http://46.149.58.4:4000/play/a01m/index.m3u8
-#EXTINF:-1,Третий цифровой
-http://46.149.58.4:4000/play/a03z/index.m3u8
-#EXTINF:-1,УНИАН
-http://46.149.58.4:4000/play/a015/index.m3u8
-#EXTINF:-1,УТВ
-http://46.149.58.4:4000/play/a04b/index.m3u8
-#EXTINF:-1,Украина 24
-http://46.149.58.4:4000/play/a01j/index.m3u8
-#EXTINF:-1,ЧП.ИНФО
-http://46.149.58.4:4000/play/a01c/index.m3u8
-#EXTINF:-1,Черноморська ТРК
-http://46.149.58.4:4000/play/a01s/index.m3u8
-#EXTINF:-1,Эпоха
-http://46.149.58.4:4000/play/a04k/index.m3u8
-#EXTINF:-1,Южная волна
-http://46.149.58.4:4000/play/a047/index.m3u8
