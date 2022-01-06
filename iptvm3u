@@ -306,104 +306,175 @@ http://31.173.178.110:8004/play/a0c3/index.m3u8
 http://31.173.178.110:8004/play/a0ac/index.m3u8
 #EXTINF:-1,ЖИВИ!
 http://31.133.50.89:4022/udp/225.15.3.202:2345
-#EXTINF:-1 tvg-id="3d4d4032c33de02493d3f950e026aecd",4KANAL
-http://31.40.111.109:9981/stream/channelid/843074877?profile=pass
-#EXTINF:-1 tvg-id="9b0bb310e51ed2fb798071a08e12edce" tvg-chno="1",1+1
-http://31.40.111.109:9981/stream/channelid/280169371?profile=pass
-#EXTINF:-1 tvg-id="4b7d22b6da0e6ea452ecc95637f97418" tvg-chno="2",УкраN?на
-http://31.40.111.109:9981/stream/channelid/908229963?profile=pass
-#EXTINF:-1 tvg-id="89cdbd5261bc5cf22d9d5fa447cd4081" tvg-chno="3",??нтер
-http://31.40.111.109:9981/stream/channelid/1388170633?profile=pass
-#EXTINF:-1 tvg-id="bd7ed5108c26123353652d7da379ab6c" tvg-chno="4",ICTV
-http://31.40.111.109:9981/stream/channelid/282427069?profile=pass
-#EXTINF:-1 tvg-id="b433228fb9f10a9d92a963b43e67d9ff" tvg-chno="5",НТН
-http://31.40.111.109:9981/stream/channelid/253899700?profile=pass
-#EXTINF:-1 tvg-id="0404563746a4f8d1f0e9d40617e2e516" tvg-chno="6",СТБ
-http://31.40.111.109:9981/stream/channelid/928384004?profile=pass
-#EXTINF:-1 tvg-id="485fea284faa6961820e97ecd7fc86e9" tvg-chno="7",UA: ПЕРШИЙ
-http://31.40.111.109:9981/stream/channelid/686448456?profile=pass
-#EXTINF:-1 tvg-id="d5069a5fadececf814d95f85e538e18e" tvg-chno="8",K-1
-http://31.40.111.109:9981/stream/channelid/1603929813?profile=pass
-#EXTINF:-1 tvg-id="a5ef945edd2de6cde6678ff14c586ff6" tvg-chno="9",2+2
-http://31.40.111.109:9981/stream/channelid/1586818981?profile=pass
-#EXTINF:-1 tvg-id="fc534ad7cdc2a725640c336da811c436" tvg-chno="10",5 канал
-http://31.40.111.109:9981/stream/channelid/1464488956?profile=pass
-#EXTINF:-1 tvg-id="0d079946a8a8be50f811263f960275ba" tvg-chno="11",Enter-фN?льм
-http://31.40.111.109:9981/stream/channelid/1184433933?profile=pass
-#EXTINF:-1 tvg-id="b60e5e2751c006f739cd100ab538c694" tvg-chno="12",УкраN?на 24
-http://31.40.111.109:9981/stream/channelid/660475574?profile=pass
-#EXTINF:-1 tvg-id="6e53467f40dbe4eb8e14cf300c5a9f85" tvg-chno="13",ZOOM
-http://31.40.111.109:9981/stream/channelid/2135315310?profile=pass
-#EXTINF:-1 tvg-id="0db0d4f3c07ca05fa74e570cdddfe011" tvg-chno="14",Новий канал
-http://31.40.111.109:9981/stream/channelid/1943318541?profile=pass
-#EXTINF:-1 tvg-id="11a52e7a08fecbe35b973283578ae0d5" tvg-chno="15",UA: КИ??В
-http://31.40.111.109:9981/stream/channelid/2049877265?profile=pass
-#EXTINF:-1 tvg-id="dce2f592b3949eecf6a874c1aa8b1372" tvg-chno="16",TET
-http://31.40.111.109:9981/stream/channelid/318104284?profile=pass
-#EXTINF:-1 tvg-id="398b419c8ed6981fe66332671e9bc758" tvg-chno="17",K-2
-http://31.40.111.109:9981/stream/channelid/474057529?profile=pass
-#EXTINF:-1 tvg-id="6762013d780e6f032c04bbca41748741" tvg-chno="18",ПРЯМИЙ
-http://31.40.111.109:9981/stream/channelid/1023500903?profile=pass
-#EXTINF:-1 tvg-id="ccd054380e84828444cfb392faee657c" tvg-chno="19",Мега
-http://31.40.111.109:9981/stream/channelid/945082572?profile=pass
-#EXTINF:-1 tvg-id="28de9c3e15a1675eb1a2ef49653097dd" tvg-chno="20",Pixel
-http://31.40.111.109:9981/stream/channelid/1050467880?profile=pass
-#EXTINF:-1 tvg-id="05101bbd36bfee576566e9073be6cf90" tvg-chno="21",KYIV LIVE
-http://31.40.111.109:9981/stream/channelid/1025183749?profile=pass
-#EXTINF:-1 tvg-id="6a7b91f23c7356ca7bad0c76f8bf80b9" tvg-chno="22",КиN?в TV
-http://31.40.111.109:9981/stream/channelid/1922136938?profile=pass
-#EXTINF:-1 tvg-id="fa86a3ad84fa4e700d88ae46250e6183" tvg-chno="23",ZIK
-http://31.40.111.109:9981/stream/channelid/765691642?profile=pass
-#EXTINF:-1 tvg-id="111b8196eea6e07f90ab155da824ac1e" tvg-chno="24",ПЛЮСПЛЮС
-http://31.40.111.109:9981/stream/channelid/377559825?profile=pass
-#EXTINF:-1 tvg-id="31ec059b24edd043b40696ea5cde0cac" tvg-chno="25",ЕСПРЕСО TV
-http://31.40.111.109:9981/stream/channelid/453372977?profile=pass
-#EXTINF:-1 tvg-id="c8dddbfcc8edcc7fb11c83e359efbea2" tvg-chno="26",UA: КУЛЬТУРА
-http://31.40.111.109:9981/stream/channelid/2094783944?profile=pass
-#EXTINF:-1 tvg-id="9ff4e34c630f16a06e6035e63c426966" tvg-chno="27",РАДА
-http://31.40.111.109:9981/stream/channelid/1290007711?profile=pass
-#EXTINF:-1 tvg-id="c9164b89f517a0c389a74a7915af0b37" tvg-chno="28",??ндиго
-http://31.40.111.109:9981/stream/channelid/155915977?profile=pass
-#EXTINF:-1 tvg-id="6e4b69fb5c78e09539c71b3f94b80de9" tvg-chno="29",4 канал
-http://31.40.111.109:9981/stream/channelid/2070498158?profile=pass
-#EXTINF:-1 tvg-id="3f380e388cda164399fa93bcf4f75bad" tvg-chno="32",XSPORT
-http://31.40.111.109:9981/stream/channelid/940455999?profile=pass
-#EXTINF:-1 tvg-id="73693372b4877bf4c9ca4e867c358b5a" tvg-chno="32",НЛО ТБ
-http://31.40.111.109:9981/stream/channelid/1915971955?profile=pass
-#EXTINF:-1 tvg-id="b6ae4a0c380ebeb1df2c254ca7915df9" tvg-chno="33",M-1
-http://31.40.111.109:9981/stream/channelid/206220982?profile=pass
-#EXTINF:-1 tvg-id="f610e8b82d5503660d958ba7e61f864f" tvg-chno="60",TYPOVYI KYIV
-http://31.40.111.109:9981/stream/channelid/954732790?profile=pass
-#EXTINF:-1 tvg-id="ab3b8c3ed4fbea4e02e1dec022da97c3" tvg-chno="61",APOSTROPHE TV
-http://31.40.111.109:9981/stream/channelid/1049377707?profile=pass
-#EXTINF:-1 tvg-id="8a74b243ece94037079ba8c49bb3bdc7" tvg-chno="63",CENTRAL
-http://31.40.111.109:9981/stream/channelid/1135768714?profile=pass
-#EXTINF:-1 tvg-id="d85b23c7974324a43b29df2d79cf5212" tvg-chno="64",EKO TV
-http://31.40.111.109:9981/stream/channelid/1193499608?profile=pass
-#EXTINF:-1 tvg-id="fa4382988cc933d82a740a64a7ea15ef" tvg-chno="65",Viasat History HD
-http://31.40.111.109:9981/stream/channelid/411190266?profile=pass
-#EXTINF:-1 tvg-id="541faa8359af20debd7e27c37576c1a8" tvg-chno="66",Viasat Nature HD
-http://31.40.111.109:9981/stream/channelid/61480788?profile=pass
-#EXTINF:-1 tvg-id="9209f076e347e1407ad0431d6b2e8c02" tvg-chno="67",Viasat Explore HD
-http://31.40.111.109:9981/stream/channelid/1995442578?profile=pass
-#EXTINF:-1 tvg-id="7f74ee483eae079c05527ef91e117216" tvg-chno="68",NG Wild Russia HD
-http://31.40.111.109:9981/stream/channelid/1223586943?profile=pass
-#EXTINF:-1 tvg-id="97f44f6491426695bae2255e74629064" tvg-chno="70",VIP Megahit HD
-http://31.40.111.109:9981/stream/channelid/1682961559?profile=pass
-#EXTINF:-1 tvg-id="351dd708808e1f524f4e8d3cf28f120a" tvg-chno="71",VIP Premiere HD
-http://31.40.111.109:9981/stream/channelid/148315445?profile=pass
-#EXTINF:-1 tvg-id="c3ac58bec3fe3dc6beeaa5ec3bf34f8b" tvg-chno="74",TV1000 HD
-http://31.40.111.109:9981/stream/channelid/1045998787?profile=pass
-#EXTINF:-1 tvg-id="99f94d4991cfb2948c276c37dee0919b" tvg-chno="75",FOX Russia HD
-http://31.40.111.109:9981/stream/channelid/1229846937?profile=pass
-#EXTINF:-1 tvg-id="baeed2e7a72f6242ab4a408da33b3b90" tvg-chno="76",TV1000 Action HD
-http://31.40.111.109:9981/stream/channelid/1741876922?profile=pass
-#EXTINF:-1 tvg-id="970c0b82d29561572b8e9dd33c7601cd" tvg-chno="77",Dom kino
-http://31.40.111.109:9981/stream/channelid/34278551?profile=pass
-#EXTINF:-1 tvg-id="b958c081a49e8e73519e7f84dffbe646" tvg-chno="78",TV1000 Ru Kino HD
-http://31.40.111.109:9981/stream/channelid/29382841?profile=pass
-#EXTINF:-1 tvg-id="fdced316bb591adafaa9e0a6aa7498fc" tvg-chno="79",1+1 Sport
-http://31.40.111.109:9981/stream/channelid/382979837?profile=pass
-#EXTINF:-1 tvg-id="4835f19b188e10e9058c8fc481666329" tvg-chno="80",futbol 2
-http://31.40.111.109:9981/stream/channelid/468792648?profile=pass
-
+#EXTINF:-1,1 :0=0; #:@0N?=AL:>3> @04N?>
+http://185.185.253.125:8000/play/a001/index.m3u8
+#EXTINF:-1,@0240"#" 8N?2
+http://185.185.253.125:8000/play/a002/index.m3u8
+#EXTINF:-1, 040 UA
+http://185.185.253.125:8000/play/a003/index.m3u8
+#EXTINF:-1,2 :0=0; @04N?> @><N?=L
+http://185.185.253.125:8000/play/a004/index.m3u8
+#EXTINF:-1, 04N?> C;LBC@0
+http://185.185.253.125:8000/play/a005/index.m3u8
+#EXTINF:-1,"  852
+http://185.185.253.125:8000/play/a006/index.m3u8
+#EXTINF:-1,"8?>289 8N?2
+http://185.185.253.125:8000/play/a007/index.m3u8
+#EXTINF:-1,UA:852
+http://185.185.253.125:8000/play/a008/index.m3u8
+#EXTINF:-1,UA:@8<
+http://185.185.253.125:8000/play/a009/index.m3u8
+#EXTINF:-1,UA:C;LBC@0
+http://185.185.253.125:8000/play/a00a/index.m3u8
+#EXTINF:-1,UA:5@H89
+http://185.185.253.125:8000/play/a00b/index.m3u8
+#EXTINF:-1,""
+http://185.185.253.125:8000/play/a00c/index.m3u8
+#EXTINF:-1,2+2
+http://185.185.253.125:8000/play/a00d/index.m3u8
+#EXTINF:-1,OCE HD
+http://185.185.253.125:8000/play/a00e/index.m3u8
+#EXTINF:-1,!"
+http://185.185.253.125:8000/play/a00f/index.m3u8
+#EXTINF:-1,ICTV HD
+http://185.185.253.125:8000/play/a00g/index.m3u8
+#EXTINF:-1,>2K9 :0=0;
+http://185.185.253.125:8000/play/a00h/index.m3u8
+#EXTINF:-1,1+1
+http://185.185.253.125:8000/play/a00i/index.m3u8
+#EXTINF:-1,Inter
+http://185.185.253.125:8000/play/a00j/index.m3u8
+#EXTINF:-1,K1
+http://185.185.253.125:8000/play/a00k/index.m3u8
+#EXTINF:-1,K2
+http://185.185.253.125:8000/play/a00l/index.m3u8
+#EXTINF:-1,"
+http://185.185.253.125:8000/play/a00m/index.m3u8
+#EXTINF:-1,83C48
+http://185.185.253.125:8000/play/a00o/index.m3u8
+#EXTINF:-1,Sport 1
+http://185.185.253.125:8000/play/a00p/index.m3u8
+#EXTINF:-1,Sport 2
+http://185.185.253.125:8000/play/a00q/index.m3u8
+#EXTINF:-1,8 :0=0; (C:@.)
+http://185.185.253.125:8000/play/a00r/index.m3u8
+#EXTINF:-1,;0A
+http://185.185.253.125:8000/play/a00s/index.m3u8
+#EXTINF:-1,Kino 1
+http://185.185.253.125:8000/play/a00t/index.m3u8
+#EXTINF:-1,Nickelodeon Europe
+http://185.185.253.125:8000/play/a00u/index.m3u8
+#EXTINF:-1,0H5 ;N18<>5 :8=>
+http://185.185.253.125:8000/play/a00v/index.m3u8
+#EXTINF:-1,English club
+http://185.185.253.125:8000/play/a00w/index.m3u8
+#EXTINF:-1,Film.Ua Drama
+http://185.185.253.125:8000/play/a00x/index.m3u8
+#EXTINF:-1,Bolt
+http://185.185.253.125:8000/play/a00y/index.m3u8
+#EXTINF:-1,FilmBox
+http://185.185.253.125:8000/play/a00z/index.m3u8
+#EXTINF:-1,Paramount channel
+http://185.185.253.125:8000/play/a010/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://185.185.253.125:8000/play/a011/index.m3u8
+#EXTINF:-1,Star Cinema
+http://185.185.253.125:8000/play/a012/index.m3u8
+#EXTINF:-1,Star Family
+http://185.185.253.125:8000/play/a013/index.m3u8
+#EXTINF:-1,Enter Film
+http://185.185.253.125:8000/play/a014/index.m3u8
+#EXTINF:-1,Zoom
+http://185.185.253.125:8000/play/a015/index.m3u8
+#EXTINF:-1,530
+http://185.185.253.125:8000/play/a016/index.m3u8
+#EXTINF:-1,Trofey
+http://185.185.253.125:8000/play/a017/index.m3u8
+#EXTINF:-1,0G0
+http://185.185.253.125:8000/play/a018/index.m3u8
+#EXTINF:-1,Epoque
+http://185.185.253.125:8000/play/a019/index.m3u8
+#EXTINF:-1,20@B0; "
+http://185.185.253.125:8000/play/a01a/index.m3u8
+#EXTINF:-1,History
+http://185.185.253.125:8000/play/a01b/index.m3u8
+#EXTINF:-1,!>=F5
+http://185.185.253.125:8000/play/a01c/index.m3u8
+#EXTINF:-1,;NA;NA
+http://185.185.253.125:8000/play/a01d/index.m3u8
+#EXTINF:-1,0;OB:> TV
+http://185.185.253.125:8000/play/a01e/index.m3u8
+#EXTINF:-1,8:A5;L
+http://185.185.253.125:8000/play/a01f/index.m3u8
+#EXTINF:-1,#:@0N?=024 HD
+http://185.185.253.125:8000/play/a01g/index.m3u8
+#EXTINF:-1,Niki Kids
+http://185.185.253.125:8000/play/a01n/index.m3u8
+#EXTINF:-1,Niki Junior
+http://185.185.253.125:8000/play/a01h/index.m3u8
+#EXTINF:-1,5BA:89 <8@
+http://185.185.253.125:8000/play/a01i/index.m3u8
+#EXTINF:-1,EU Music
+http://185.185.253.125:8000/play/a01k/index.m3u8
+#EXTINF:-1,>@87>=B
+http://185.185.253.125:8000/play/a01m/index.m3u8
+#EXTINF:-1,'.INFO
+http://185.185.253.125:8000/play/a01o/index.m3u8
+#EXTINF:-1,5 :0=0;
+http://185.185.253.125:8000/play/a01p/index.m3u8
+#EXTINF:-1,@O<89
+http://185.185.253.125:8000/play/a01r/index.m3u8
+#EXTINF:-1,A?@5A> TV HD
+http://185.185.253.125:8000/play/a01s/index.m3u8
+#EXTINF:-1,#=80=
+http://185.185.253.125:8000/play/a01u/index.m3u8
+#EXTINF:-1,24 =>28=8
+http://185.185.253.125:8000/play/a01t/index.m3u8
+#EXTINF:-1,1 45AA0
+http://185.185.253.125:8000/play/a01v/index.m3u8
+#EXTINF:-1,Genuine TV HD
+http://185.185.253.125:8000/play/a01z/index.m3u8
+#EXTINF:-1,ATR HD
+http://185.185.253.125:8000/play/a01w/index.m3u8
+#EXTINF:-1,LIVE HD
+http://185.185.253.125:8000/play/a01x/index.m3u8
+#EXTINF:-1,5@2K9 5;>2>9
+http://185.185.253.125:8000/play/a01y/index.m3u8
+#EXTINF:-1,M2
+http://185.185.253.125:8000/play/a029/index.m3u8
+#EXTINF:-1,4ever music HD
+http://185.185.253.125:8000/play/a02a/index.m3u8
+#EXTINF:-1,OTV
+http://185.185.253.125:8000/play/a02b/index.m3u8
+#EXTINF:-1,'5@=><>@A:0O " 
+http://185.185.253.125:8000/play/a02c/index.m3u8
+#EXTINF:-1,#:@0N?=0 HD
+http://185.185.253.125:8000/play/a02d/index.m3u8
+#EXTINF:-1,Nauka
+http://185.185.253.125:8000/play/a02e/index.m3u8
+#EXTINF:-1,Terra
+http://185.185.253.125:8000/play/a02f/index.m3u8
+#EXTINF:-1,Fauna
+http://185.185.253.125:8000/play/a02g/index.m3u8
+#EXTINF:-1,0AB>OI55 2@5<O
+http://185.185.253.125:8000/play/a02h/index.m3u8
+#EXTINF:-1,Megogo Live
+http://185.185.253.125:8000/play/a02i/index.m3u8
+#EXTINF:-1,XSport
+http://185.185.253.125:8000/play/a02k/index.m3u8
+#EXTINF:-1,M1
+http://185.185.253.125:8000/play/a02s/index.m3u8
+#EXTINF:-1,_Kont_Mason HD
+http://185.185.253.125:8000/play/a02z/index.m3u8
+#EXTINF:-1,_Kont_Zakon HD
+http://185.185.253.125:8000/play/a02y/index.m3u8
+#EXTINF:-1,_MG_Ukraine_FishingTV HD
+http://185.185.253.125:8000/play/a02u/index.m3u8
+#EXTINF:-1,_MG_Ukraine_Indigo HD
+http://185.185.253.125:8000/play/a02w/index.m3u8
+#EXTINF:-1,_MG_Ukraine_Ukraine HD
+http://185.185.253.125:8000/play/a02v/index.m3u8
+#EXTINF:-1,_MG_Ukraine_Ukraine24 HD
+http://185.185.253.125:8000/play/a02t/index.m3u8
+#EXTINF:-1,0BG! $CB1>; 1
+http://185.185.253.125:8000/play/a02r/index.m3u8
