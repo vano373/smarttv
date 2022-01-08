@@ -4,8 +4,8 @@ http://31.173.178.110:8004/play/a05q/index.m3u8
 #EXTINF:-1,Россия 1 +2
 http://31.173.178.110:8004/play/a09w/index.m3u8
 #EXTINF:0,DTX
-#EXTVLCOPT:network-caching=5000
-http://178.49.2.94:81/udp/239.1.5.2:1234
+#EXTVLCOPT:network-caching=3000
+http://5.128.3.247:81/udp/239.1.5.2:1234
 #EXTINF:-1,МАТЧ!
 http://31.173.178.110:8004/play/a0a0/index.m3u8
 #EXTINF:-1,HTB +2
