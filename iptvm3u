@@ -1,8 +1,38 @@
 #EXTM3U
-#EXTINF:26,ВСЕ ТВ 12.06.22 iptv.org.ua
+#EXTINF:26,ВСЕ ТВ 28.06.22 iptv.org.ua
 #EXTVLCOPT:network-caching=1000
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-#EXTINF:6470,Shorta.2020.1080p.BluRay.ELEKTRI4KA.UNIONGANG.
+#EXTINF:0,Финч /Finch 2021
+#EXTVLCOPT:network-caching=1000
+http://kinoteatr.kg/video3/Filmu/7Finch.2021.mp4
+#EXTINF:0,Кодекс киллера/The Protégé
+#EXTVLCOPT:network-caching=1000
+http://kinoteatr.kg/video3/Filmu/7Kodeks%20killera.2021.mp4
+#EXTINF:0,Морской бой/Battleship 2012
+#EXTVLCOPT:network-caching=1000
+http://kinoteatr.kg/video/Filmu/=7Morskoy.Boy.2012.mp4
+#EXTINF:0,Морской бой 60 FPS/Battleship
+#EXTVLCOPT:network-caching=1000
+http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
+#EXTINF:0,Полицейская академия 1
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/videos/ch38847/240920201526_51150/video.mp4
+#EXTINF:0,Полицейская академия 3
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/videos/ch38847/240920201531_51154/video.mp4
+#EXTINF:0,Полицейская академия 4
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/videos/ch38847/240920201534_51156/video.mp4
+#EXTINF:0,Полицейская академия 5
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/videos/ch38847/240920201537_51157/video.mp4
+#EXTINF:0,Полицейская академия 6
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/videos/ch38847/240920201545_51158/video.mp4
+#EXTINF:0,Полицейская академия 7
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/videos/ch38847/240920201559_51165/video.mp4
+#EXTINF:0,Патруль по законам улиц 
 #EXTVLCOPT:network-caching=1000
 https://kinotv.net/uploads/files/2021-03/1615987176_patrul-po-zakonam-ulic-2020-kinotv_net.mp4
 #EXTINF:0,Все мульты
@@ -65,218 +95,6 @@ https://tv.2222.one/ch19.m3u8
 #EXTINF:0,Детективы
 #EXTVLCOPT:network-caching=1000
 https://tv.2222.one/ch20.m3u8
-#EXTINF:0,KBC_В.О.В.
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8810/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_comics
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8811/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_elite comedy's
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8812/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_fantastic
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8813/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_history
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8814/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_Russian Комедия
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8817/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_VIDAK
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8818/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_ГАЙ Ritchie & Tarantino
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8819/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_drama tic
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8820/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_kinoteatr
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8821/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_koshmarnoe
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8822/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC Strana sssr
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8824/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_Криминальный Serial
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8825/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_Шпионское
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8826/BF963183F1725E8/video.m3u8
-#EXTINF:0,KBC_Light Сериал RU
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8828/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Grand
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8779/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV VHS
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8778/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Русские фильмы
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8776/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Советские фильмы
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8775/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV New Кино
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8773/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Трагичное
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8770/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Забавное
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8780/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV BEST
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8781/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Ковбойское
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8782/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Adrenaline
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8783/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Adventure
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8769/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV OBLIVION
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8784/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO TV Thriller
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8785/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO-4K
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8766/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO-C-INQUEST
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8767/BF963183F1725E8/video.m3u8
-#EXTINF:0,YOSSO-C-COMEDY
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8768/BF963183F1725E8/video.m3u8
-#EXTINF:0,С-Marvel
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8764/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Action
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6676/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Comedy
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6672/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Family
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6678/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Galaxy
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6674/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Horror
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6673/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Karate
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6671/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Love
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6679/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic Thriller
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6677/BF963183F1725E8/video.m3u8
-#EXTINF:0,Magic VHS
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/6670/BF963183F1725E8/video.m3u8
-#EXTINF:0,Киноджем 1 HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8846/BF963183F1725E8/video.m3u8
-#EXTINF:0,Киноджем 2 HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/8847/BF963183F1725E8/video.m3u8
-#EXTINF:0,tvg-logo="https://iptv.online/epg/icon/BCU/BCUActionHD.png",BCU Action HD
-#EXTVLCOPT:network-caching=1000
-https://tva.in.ua:443/iptv/s/tvg-logo=%22https:/iptv.online/epg/icon/BCU/BCUActionHD.png%22,BCU%20Action%20HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7100/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Catastrophe HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7101/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Comedyhttp://195.158.222.7:8050//index.m3u8 HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7103/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Cinema HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7102/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU CINEMA+ HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7122/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7104/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU STARS HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7123/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU FilMystic HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7105/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Reality HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7136/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU History HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7106/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Kinorating HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7107/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Marvel
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7108/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7109/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Romantic HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7110/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Russian HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7111/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU VHS HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7112/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU TruMotion HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7139/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Кинозал Premiere 1 HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7113/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Кинозал Premiere 2 HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7114/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Кинозал Premiere 3 HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7115/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU СВАТЫ HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7127/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Ruserial HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7119/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7120/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Cosmo HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7137/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Criminal HD
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7128/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Ultra 4K
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7125/BF963183F1725E8/video.m3u8
-#EXTINF:0,BCU Premiere Ultra 4K
-#EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/7140/BF963183F1725E8/video.m3u8
 #EXTINF:0,TV VSE
 #EXTVLCOPT:network-caching=1000
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd3-shou.wmv
@@ -286,6 +104,24 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Видеокассета
 #EXTVLCOPT:network-caching=1000
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,Видеосалон
+#EXTVLCOPT:network-caching=1000
+https://s.catcast.tv/content/34375/index.m3u8?token=4409aae2804b021e8d7a0f59b3c44297
+#EXTINF:0,Малдер ТВ  Ужасы
+#EXTVLCOPT:network-caching=1000
+https://autopilot.catcast.tv/content/41598/index.m3u8?token=iptv.org.ua
+#EXTINF:0,Малдер ТВ  Комедия
+#EXTVLCOPT:network-caching=1000
+https://autopilot.catcast.tv/content/39876/index.m3u8?token=iptv.org.ua
+#EXTINF:0,MARS TV
+#EXTVLCOPT:network-caching=1000
+https://v2.catcast.tv/content/37033/index.m3u8?token=iptv.org.ua
+#EXTINF:0,Классика индийского кино
+#EXTVLCOPT:network-caching=1000
+https://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:0,Современное индийское кино
+#EXTVLCOPT:network-caching=1000
+https://autopilot.catcast.tv/content/41458/index.m3u8
 #EXTINF:0,Киноклуб
 #EXTVLCOPT:network-caching=1000
 http://autopilot.catcast.tv/content/39005/index.m3u8
@@ -328,45 +164,45 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0,К-ПРЕМЬЕРА
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0,К-ПРЕМЬЕРА r
+#EXTINF:0,КИНОПРЕМЬЕРА
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/premiera/index.m3u8
+http://persik.tv/stream/1234/3//34.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА HD
 #EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/183/BF963183F1725E8/video.m3u8
+http://188.93.94.140/kinopremyerahd/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:0,Кинохит 
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/Kinohit_hd.m3u8
 #EXTINF:0,КИНОХИТ HD
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/kinohit/index.m3u8
+http://84.17.61.200:8085/udp/238.2.0.33:1234
 #EXTINF:0,Кинохит iptv.org.ua
 #EXTVLCOPT:network-caching=1000
 http://128.0.27.41:8080/239.211.211.142/mpegts
 #EXTINF:0,Киномикс HD
 #EXTVLCOPT:network-caching=1000
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0,Киномикс
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/kinomix/index.m3u8
+http://84.17.61.200:8085/udp/238.2.0.167:1234
 #EXTINF:0,Киносемья
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 #EXTINF:0,Киносемья HD
 #EXTVLCOPT:network-caching=1000
-http://178.217.72.66:8080/225.201.2.54/video.m3u8
+http://persik.tv/stream/1234/3//590.m3u8
 #EXTINF:0,Киносвидание 
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:0,Киносвидание HD
 #EXTVLCOPT:network-caching=1000
-http://178.217.72.66:8080/225.201.2.55/video.m3u8
+http://persik.tv/stream/1234/3//30.m3u8
 #EXTINF:0,Киносвидание r
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/kinosvidanie/index.m3u8
+http://84.17.61.200:8085/udp/238.2.0.11:1234
 #EXTINF:0,Кинокомедия 
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/komediya/index.m3u8
+http://84.17.61.200:8085/udp/238.2.0.26:1234
 #EXTINF:0,Кинокомедия HD
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
@@ -378,13 +214,13 @@ https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 http://128.0.27.41:8080/239.211.211.89/mpegts
 #EXTINF:0,Мужское Кино
 #EXTVLCOPT:network-caching=1000
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8?token=iptv.org.ua
 #EXTINF:0,Мужское Кино iptv.org.ua
 #EXTVLCOPT:network-caching=1000
 http://128.0.27.41:8080/239.211.200.31/mpegts
 #EXTINF:0,Мужское кино HD
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/muzhskoe-kino_hd/index.m3u8
+http://84.17.61.200:8085/udp/238.2.0.209:1234
 #EXTINF:0,КИНОСЕРИЯ
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/Kinoseriya_hd.m3u8
@@ -393,31 +229,34 @@ https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTVLCOPT:network-caching=1000
-http://live-1.otcnet.ru/kinotvsd/mono.m3u8
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5092
 #EXTINF:0,Кинопоказ
 #EXTVLCOPT:network-caching=1000
 http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
 #EXTINF:0,TV1000 Action HD
 #EXTVLCOPT:network-caching=1000
-http://cdnua06.hls.tv/476/hls/xpgdtwukj3blyc7oz508vn2msi9ahf6q/308/stream.m3u8
+https://cdnua03.hls.tv/178/hls/6k5qwg1e34vch8xrt2zuspbmonldyai0/308/stream.m3u8
 #EXTINF:0,TV1000
 #EXTVLCOPT:network-caching=1000
 http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
+#EXTINF:0,ТВ1000 World Kino
+#EXTVLCOPT:network-caching=1000
+https://cdnua03.hls.tv/178/hls/kfsnjgbmwuoxtdq7218lz5yv3ap6h9i4/4816/stream.m3u8
 #EXTINF:0,ТВ World Kino
 #EXTVLCOPT:network-caching=1000
-http://cdnua06.hls.tv/476/hls/mwr8n6z0axeqbouj9l2fgkdvh5i4sp31/3684/stream.m3u8
+http://85.206.57.253:8981/l85/mono.m3u8?token=iptv.org.ua
 #EXTINF:0,TV 10 Р кино
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
 #EXTINF:0,V-Comedy
 #EXTVLCOPT:network-caching=1000
-http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
+https://cdnua03.hls.tv/178/hls/z2yud4kicp85sjeh61xmw0n9fogvrblq/309/stream.m3u8
 #EXTINF:0,V-Megahit
 #EXTVLCOPT:network-caching=1000
-http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
+https://cdnua03.hls.tv/178/hls/3f8uve5ltk2pyw0rin9xo67js4g1hdma/3981/stream.m3u8
 #EXTINF:0,V-Premiere
 #EXTVLCOPT:network-caching=1000
-http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
+https://cdnua03.hls.tv/178/hls/pahckw53v4ry76tmxbz0doe9gf1n8uq2/3980/stream.m3u8
 #EXTINF:0,V-Serial
 #EXTVLCOPT:network-caching=1000
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
@@ -432,16 +271,19 @@ http://185.37.150.46/Kinopokaz2_HD/tracks-v1a1/index.m3u8
 http://193.233.9.49/streams/media/EVROKINO/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTVLCOPT:network-caching=1000
-http://195.161.68.71:8000/play/a001/index.m3u8
+http://195.2.74.99/channel/4e8098b0/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
 #EXTINF:0,Любимое HD
 #EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/342/BF963183F1725E8/video.m3u8
+http://streamer.crimea-tv.net/Lubimoe_kino/video.m3u8?token=9d3cc59e
 #EXTINF:0,Шокирующее HD
 #EXTVLCOPT:network-caching=1000
-http://195.161.68.71:8000/play/a003/index.m3u8
+http://185.10.211.11:10128/play/a03v?token=iptv.org.ua
 #EXTINF:0,Остросюжетное HD
 #EXTVLCOPT:network-caching=1000
 http://213.172.73.133:8081/nimble_live/9009_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8
+#EXTINF:0,Премиальное HD
+#EXTVLCOPT:network-caching=1000
+http://185.10.211.11:10128/play/a03s?token=iptv.org.ua
 #EXTINF:0,TV XXI
 #EXTVLCOPT:network-caching=1000
 http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
@@ -468,16 +310,16 @@ https://sc.id-tv.kz/NSTV.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:0,НСТ
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/nstv/index.m3u8
+http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
 #EXTINF:0,Киноужас 
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:0,Киноужас HD
 #EXTVLCOPT:network-caching=1000
-http://195.161.68.71:8000/play/a005/index.m3u8
+http://188.227.44.167:8080/kinouzhas/index.m3u8
 #EXTINF:0,Страшное HD
 #EXTVLCOPT:network-caching=1000
-http://nl4.iptv.monster/play/371/BF963183F1725E8/video.m3u8
+http://128.0.27.41:8080/239.211.211.107/mpegts
 #EXTINF:0,Страшное HD r
 #EXTVLCOPT:network-caching=1000
 http://stream.backustv.ru/live/btv2/index.m3u8
@@ -498,31 +340,40 @@ https://edge-01.kino.watch/docu/index.m3u8
 http://193.233.9.49/streams/media/A1/index.m3u8
 #EXTINF:0,A 1
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/amedia/index.m3u8
+http://streamer.crimea-tv.net/a1/video.m3u8?token=9d3cc59e
 #EXTINF:0,A 2
 #EXTVLCOPT:network-caching=1000
-https://sc.id-tv.kz/A2_36_37.m3u8
+http://streamer.crimea-tv.net/A2/video.m3u8?token=9d3cc59e
 #EXTINF:0,Amedia Hit
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:0,Amedia Hit HD
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/amedia_hit_hd/index.m3u8
+http://streamer.crimea-tv.net/Amedia_Hit/video.m3u8?token=9d3cc59e
 #EXTINF:0,Amedia Premium HD
 #EXTVLCOPT:network-caching=1000
 http://193.233.9.49/streams/media/Amedia_Premium_HD/index.m3u8
 #EXTINF:0,Sci-Fi
 #EXTVLCOPT:network-caching=1000
+http://streamer.crimea-tv.net/Sony_Sci_Fi/video.m3u8?token=9d3cc59e
+#EXTINF:0,Sci-Fi r
+#EXTVLCOPT:network-caching=1000
 http://185.235.187.11:8888/play/a04b/index.m3u8
+#EXTINF:0,sci-fi
+#EXTVLCOPT:network-caching=1000
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5061
 #EXTINF:0,red
 #EXTVLCOPT:network-caching=1000
-http://185.235.187.11:8888/play/a04t/index.m3u8
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5084
+#EXTINF:0,red hd
+#EXTVLCOPT:network-caching=1000
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5107
 #EXTINF:0,black
 #EXTVLCOPT:network-caching=1000
-http://185.235.187.11:8888/play/a05q/index.m3u8
+http://streamer.crimea-tv.net/Sony_Turbo/video.m3u8?token=9d3cc59e
 #EXTINF:0,Hollywood
 #EXTVLCOPT:network-caching=1000
-https://sc.id-tv.kz:443/Hollywood_34_35.m3u8
+https://sc.id-tv.kz:443/Hollywood_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0,Hollywood HD
 #EXTVLCOPT:network-caching=1000
 http://cdnua06.hls.tv/476/hls/k9isqw04yxcjau7zm5efglnrotdvpb31/262/stream.m3u8
@@ -534,13 +385,13 @@ http://cdnua06.hls.tv/476/hls/z1xvfodu2b6qneact95mgr8yjwlpis30/577/stream.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fox
 #EXTINF:0,FOX HD
 #EXTVLCOPT:network-caching=1000
-https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8?token=iptv.org.ua
 #EXTINF:0,FOX Life
 #EXTVLCOPT:network-caching=1000
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fox
 #EXTINF:0,FOX Life HD
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/fox_life_hd/index.m3u8
+http://193.111.244.35:8001/foxlife/index.m3u8
 #EXTINF:0,FOX ABAZA TV
 #EXTVLCOPT:network-caching=1000
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
@@ -595,7 +446,19 @@ http://cdnua06.hls.tv/476/hls/cfrmx4eus5don93zbhqlwt170a8yi2kv/4248/stream.m3u8
 #EXTINF:0,Золотая коллекция HD
 #EXTVLCOPT:network-caching=1000
 http://128.0.27.41:8080/239.211.200.42/mpegts
-#EXTINF:0,UA Перший 12.06.22 tva.in.ua
+#EXTINF:0,YOSSO TV New Кино
+#EXTVLCOPT:network-caching=1000
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/227..m3u8
+#EXTINF:0,VHS
+#EXTVLCOPT:network-caching=1000
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/224..m3u8
+#EXTINF:0,YOSSO TV Thriller
+#EXTVLCOPT:network-caching=1000
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/235..m3u8
+#EXTINF:0,UZ Боевики HD
+#EXTVLCOPT:network-caching=1000
+http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/1230..m3u8
+#EXTINF:0,UA Перший 28.06.22 tva.in.ua
 #EXTVLCOPT:network-caching=1000
 http://saveukraine.only4.tv/0196/video.m3u8?token=saveUkrain
 #EXTINF:0,Интер HD
@@ -736,12 +599,15 @@ http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:0,UA TV HD
 #EXTVLCOPT:network-caching=1000
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:0,I-UA TV
-#EXTVLCOPT:network-caching=1000
-https://kie2.cdn.i-ua.tv/hlsme/iuatv_720p.m3u8
 #EXTINF:0,I-UA TV HD
 #EXTVLCOPT:network-caching=1000
 http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:0,НЛО TV
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/rmi57qnzsgcweohdk9yj8tvpx6b324fa/126/stream.m3u8
+#EXTINF:0,ОЦЕ
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/mr09ntzupcyiko4flax7qs5bew32d18v/3593/stream.m3u8
 #EXTINF:0,К1
 #EXTVLCOPT:network-caching=1000
 http://109.68.40.67/life/k1.m3u8?cur=tva.org.ua&key=3i277
@@ -754,6 +620,15 @@ http://edge1.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:0,НТН r
 #EXTVLCOPT:network-caching=1000
 http://lb1.macc.com.ua/img/ntn_2/index.m3u8?key=iptv.org.ua
+#EXTINF:0,Indigo TV
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/84uvilpxmyna65dz3et21wfgkojsc9hb/109/stream.m3u8
+#EXTINF:0,Еко ТВ
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/t1826djoghiwcbaknf9lmyuzx430eqrs/165/stream.m3u8
+#EXTINF:0,Бігуді
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/c9zd3b81uafxsny2wimvopjg7ltke654/96/stream.m3u8
 #EXTINF:0,366 TV HD
 #EXTVLCOPT:network-caching=1000
 http://cdnua06.hls.tv/476/hls/3zi9d20mb8fuxynja461s75cotvqpkwg/4721/stream.m3u8
@@ -811,6 +686,9 @@ http://194.242.100.24:6666
 #EXTINF:0,Сміла
 #EXTVLCOPT:network-caching=1000
 http://195.95.171.15/hls/stream.m3u8?key=iptv.org.ua
+#EXTINF:0,Ethno Channel HD
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/ziudreglbf8y9c521wjto36smhnqak4p/456/stream.m3u8
 #EXTINF:0,Тернополь 1
 #EXTVLCOPT:network-caching=1000
 http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
@@ -1090,36 +968,144 @@ https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
 #EXTINF:0,CH_7
 #EXTVLCOPT:network-caching=1000
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:0,ARB 24
+#EXTVLCOPT:network-caching=1000
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:0,ARB
+#EXTVLCOPT:network-caching=1000
+http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:0,ATV 1
 #EXTVLCOPT:network-caching=1000
 http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:0,ATV 1
+#EXTVLCOPT:network-caching=1000
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:0,ATV 2
 #EXTVLCOPT:network-caching=1000
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:0,ATV 4
 #EXTVLCOPT:network-caching=1000
 http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:0,ARB 24
-#EXTVLCOPT:network-caching=1000
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:0,ARB iptv.org.ua
-#EXTVLCOPT:network-caching=1000
-http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:0,AL ZAHRA TV
+#EXTINF:0,Al Zahra TV
 #EXTVLCOPT:network-caching=1000
 http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:0,Salyam
+#EXTINF:0,Arb Kpz1
 #EXTVLCOPT:network-caching=1000
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EL TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0,Arb TV1
 #EXTVLCOPT:network-caching=1000
-http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+http://109.205.166.68/server124/arb/index.m3u8
+#EXTINF:0,Arb24 (1)
+#EXTVLCOPT:network-caching=1000
+http://149.255.155.142/ARB24/index.m3u8
+#EXTINF:0,Az News TV1
+#EXTVLCOPT:network-caching=1000
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:0,Az News TV2
+#EXTVLCOPT:network-caching=1000
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:0,Az Star TV
+#EXTVLCOPT:network-caching=1000
+http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
+#EXTINF:0,AzTV1
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68/server124/aztv/index.m3u8
 #EXTINF:0,BAKU TV
 #EXTVLCOPT:network-caching=1000
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:0,Kэpэz TV
+#EXTINF:0,CBC1
 #EXTVLCOPT:network-caching=1000
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1852085117.m3u8
+#EXTINF:0,CBC2
+#EXTVLCOPT:network-caching=1000
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1736682904.m3u8
+#EXTINF:0,CBC3
+#EXTVLCOPT:network-caching=1000
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:0,EL TV
+#EXTVLCOPT:network-caching=1000
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:0,EL TV1
+#EXTVLCOPT:network-caching=1000
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:0,EL TV3
+#EXTVLCOPT:network-caching=1000
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:0,Hadi TV3 (azrbaycanca)1
+#EXTVLCOPT:network-caching=1000
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:0,Hadi TV3 (azrbaycanca)3
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.31:9981/play/a04v
+#EXTINF:0,Ictimai TV1
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68/server124/ictimai_tv/index.m3u8
+#EXTINF:0,Ictimai TV2
+#EXTVLCOPT:network-caching=1000
+http://149.255.155.142/Ictimai/index.m3u8
+#EXTINF:0,Idman TV1
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:0,InterAz2
+#EXTVLCOPT:network-caching=1000
+http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
+#EXTINF:0,Kanal 12 (1)
+#EXTVLCOPT:network-caching=1000
+https://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:0,Kanal 12 (2)
+#EXTVLCOPT:network-caching=1000
+http://waw2.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:0,Kanal 12 (3)
+#EXTVLCOPT:network-caching=1000
+https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8
+#EXTINF:0,Kanal S HD
+#EXTVLCOPT:network-caching=1000
+https://hasan.tvcag.live/str.yodacdn.net/start/mono.m3u8?token=fac1ac4ce145a6d626bd313bb51992f65596ce4e-a0c6abcd2bc68b42b106d5cbdd7b1661-1639875497-1639864697
+#EXTINF:0,Mdniyyt TV1
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
+#EXTINF:0,Muan TV
+#EXTVLCOPT:network-caching=1000
+https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w1756628838.m3u8
+#EXTINF:0,Naxvan TV
+#EXTVLCOPT:network-caching=1000
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:0,STAR TV
+#EXTVLCOPT:network-caching=1000
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0,Salyam
+#EXTVLCOPT:network-caching=1000
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Shr TV (azrbaycanca)2
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.31:9981/play/a02l
+#EXTINF:0,Space TV1
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68/server124/space_tv/index.m3u8
+#EXTINF:0,Ss TV1
+#EXTVLCOPT:network-caching=1000
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:0,Ss TV2
+#EXTVLCOPT:network-caching=1000
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF:0,Turan TV1
+#EXTVLCOPT:network-caching=1000
+https://donvolga.com/Turan-TV/index.m3u8
+#EXTINF:0,QBL TV
+#EXTVLCOPT:network-caching=1000
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:0,ViP TV Azerbaijan
+#EXTVLCOPT:network-caching=1000
+https://hasan.tvcag.live/str.yodacdn.net/vip/mono.m3u8?token=bcecd566aee44f65532f9ea3ac2b4e7ccc45024f-66e23b2cdf90475bb3c4ca8ed62e039c-1648474682-1648463882
+#EXTINF:0,Xzr TV1
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68/server124/xazar_tv/index.m3u8
+#EXTINF:0,Xzr TV2
+#EXTVLCOPT:network-caching=1000
+http://149.255.155.142/Xazar/index.m3u8
+#EXTINF:0,Zhra TV (azrbaycanca)
+#EXTVLCOPT:network-caching=1000
+https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:0,H1 International
 #EXTVLCOPT:network-caching=1000
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
@@ -1153,6 +1139,198 @@ https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
 #EXTINF:0,2 Radio
 #EXTVLCOPT:network-caching=1000
 https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:0,1 TV Ganatleba
+#EXTVLCOPT:network-caching=1000
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,1TVGeorgia
+#EXTVLCOPT:network-caching=1000
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Abkhaz
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/abkhaz/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Agrotv HD
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/argotv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Ajara TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/adjara/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Artarea
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/artarea/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Batumi TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/batumitv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Borjomi tv
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/borjomitv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Cisartkela
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/cisartkela/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Dia
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/diatv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Dro TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/drotv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Egrisi TV
+#EXTVLCOPT:network-caching=1000
+https://tbs01-edge11.itdc.ge/egrisitv/tracks-v1a1/mono.m3u8?token=1V1jOw9TkJ_kNfWpxQ-e_LCWSdMfrnI_KsfAupYyCqf8mnk8fRf4EWXUNMoz4t7GdHQAFePWdpWMMEhN9inTSubI27A7AZDImAvYtTXlV2OgXyRJe_VZ080ynYxNQ_Ygutgh7oFMNXsyAJfOv28G1MWf9H1npNsehoXwbt6N0dARmfbxTUmUrxMt3ow8sbCCVY-yegzRt-K2h6zdWbB7VQbVjvOWjSNQdJEKU2o5qhOsVu6PJKlO0nbfkdB5QTESA32lgrENr-eol1mczpNqr87SWHH0Ljuh-n0SMvrQlkH1H3zVHpTR3CArhrFzjHRc
+#EXTINF:0,Enkibenki
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/enkibenki/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,EuroNews Georgia
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/euronewsgeorgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Food TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/foodtv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Formula TV HD
+#EXTVLCOPT:network-caching=1000
+https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
+#EXTINF:0,Formula
+#EXTVLCOPT:network-caching=1000
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:0,GDS TV GE
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/gdstv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,GMS
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/gms/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,GTTV
+#EXTVLCOPT:network-caching=1000
+https://tbs01-edge11.itdc.ge/gttv/tracks-v1a1/mono.m3u8?token=o5H6rvns1o4Ewxb58M0Rb9sqQ5iqnWgQhrtRxYK50ajRmmXsz8XiSZrmD9cokbEWyf2w3OJnEj_T_OoXmzvjqJv_FERIFTDz4HEAaa9Rz7mpP30DI908nQcPcRfHZd9GOHCkQ8LuniaEXe5-dRd_uSRQx_mO1ZDkHqehM5E_OKxBGB2SUEOypyRmfmzpZs2Hb6XgFrL_Vsz9SY7Pco1alyWWx2IS16CBeD85DzooeIjUUfgXOMJ8emCLZptVxnF1fEJwnqkydmpS9jLsCxzKawE0ADBrXoOqPdUcBSlN3zVRYFyLC1ljmC-jtaxi8x5G
+#EXTINF:0,Girchi TV HD
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/girchitv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Green tv
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/greentv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Guriatv HD
+#EXTVLCOPT:network-caching=1000
+https://tbs01-edge11.itdc.ge/guriatv/tracks-v1a1/mono.m3u8?token=HyUfGFfvuv3SkBXjO128LyXbGnaCNJowS4RMrr4gpTqApq3I1rVZHvNgonBloNuJFq9C_pclADDg1-DFqpTqk9GMOVB6aRSc76aBF9rbfd57fgt0Ogk0yBgZaGRD6bTZit91InA_r2kMm3QCKVXwrH-SuiT7RQ1vT7vvO-SBFX_3LB4zsAPtZySrV-6dwG71IWi_iVdTkYOZq2EbN_ptqEYpCkYaS_oE-Z_41Z8wKaiIcK_oM0pUVgOLS5dSZyBE9hKJNOdquHPGSoxA_w2_vCFprDwVduhOWIZlzWzoiBZKTwG7anRWh4e0F2XVQHZe
+#EXTINF:0,Ilioni
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/ilontv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,LiLO TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/lilotv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Marneuli
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/mzareulitv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Mecxre talxa
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/nwbctv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Mexute arxi
+#EXTVLCOPT:network-caching=1000
+https://tbs01-edge11.itdc.ge/tv5geo/tracks-v1a1/mono.m3u8?token=n3VS6t3Na94oM8NWywoGf-MD-yTlYaKA0BlLt-5_r-VarlLVAxOjYQ3oEmP4R_MYXlX3iM5e-YfgGMLyRPFavasrJYwuwyJf88yU8dIr6juYjEErUDnvNwd1Xy4DccUQLhRpmff8vPs9H4s1asggkPTTiOVTVs3khNGtjzUEXeUTjKMuelgD-NAS1R-_JS2ExbaED5Nua21DhiJ8TyqME_7rBusM-9mqoxZ75nAwY_3eRLEh-3Z-MfstkdGIG0dj8AwNT2ZeL8a8IctFgG4h9l7CA6JpY2_nSZ07RcmMMgHEwycuRgM-Mrb52MgJM0Ww
+#EXTINF:0,MusicBox GE
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/musicbox/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,O2
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/o2/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Odishi HD
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/odishi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Palitra news
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/palitra/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Palitranews
+#EXTVLCOPT:network-caching=1000
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:0,Pk
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/pktv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Puls GE
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/puls/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Rioni 2
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/rioni2/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Rioni
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/rioni/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Setanta Sports 1 Georgia HD
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Setanta Sports 2 Georgia HD
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Shoni TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/shonitv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Smartnet TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/smartnet/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Stereo+
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/stereoplus/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,TV 12
+#EXTVLCOPT:network-caching=1000
+https://tbs01-edge11.itdc.ge/tv12/tracks-v1a1/mono.m3u8?token=0WP-JXmI2dEoUsMqkGfnnlB5-Duoq6rtwX592-jZ8kyGuB01wP_RtI3vIZDAJq2A_os-T4R4sJVknlWWDjnpxB4sLYsDdSSvj_ynpU12hko5le1LX9qSD04ZZMNs_43n2KjXDQGNVcXEjfR0mKEjoKH6QxImCGJYGEesL2zOrSqQRMRpSj0Iu1-C6sqf928WTe5XjX45RCIcmBPyBvwt_scv0csKV1x_Ei1qYP3YqiTn-cDK2xM9YRZ6OyaqwJ29Km25CvBIdNWcBNPxp345a76l6ss1jqJ_LHaMqY640xgeJ5tmL0xLUfipw5-ROjYN
+#EXTINF:0,TV 25
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tv25/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,TV 4
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/qvemoqartli/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,TV Max
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tvmax/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,TV monitoring
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tvmonitoring/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,TV24
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tv24/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,TV9
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tv9/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Tanamgzavri
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tanamgzavri/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Tavisufali arxi
+#EXTVLCOPT:network-caching=1000
+https://tbs01-edge11.itdc.ge/ilontv/tracks-v1a1/mono.m3u8?token=2kH2xFsIQJBASVnw0Oax1Kovux_YSvihDbEkysZSli77IlEK3zeAub_gpYQcRjAr63h2jqBKDivnVFaOOkNvP-fXG_SzRtqW_dq_bxAnJWITFKqb38YRqI3X-FaJ9sMmXMzr8FG64QDE2tGWxLBg7rGSxftx6MAEgClnLRlRJaog6j13OYoorMl29jeEjYEbG60B5jOQnEXIPytKSYhhKyE129LdP2At3I3smMZ_9L27RxtZoG-eeh1zVqGQtHModxjh9wuDOEEeqtaA69q9EGCgUV5GNfiYj_cnWftqhpDcZjwVfXSMEwO-uLCkVZb9
+#EXTINF:0,Tiflis
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tiflistv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,VIP Family
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/tv5/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,VIP HIT
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/healthtv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,YOU TV
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/youtv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,kolkheti89
+#EXTVLCOPT:network-caching=1000
+http://188.93.94.140/kolkheti89/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,Latvijas Radio 1 
+#EXTVLCOPT:network-caching=1000
+https://5a44e5b800a41.streamlock.net/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:0,Latvijas Radio 2 
+#EXTVLCOPT:network-caching=1000
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+#EXTINF:0,Latvijas Radio 3 Klasika 
+#EXTVLCOPT:network-caching=1000
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:0,TV Net
+#EXTVLCOPT:network-caching=1000
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:0,Tvnet 
+#EXTVLCOPT:network-caching=1000
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:0,LRT Lituanica 
+#EXTVLCOPT:network-caching=1000
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:0,M-1 
+#EXTVLCOPT:network-caching=1000
+http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
+#EXTINF:0,Power Hit Radio 
+#EXTVLCOPT:network-caching=1000
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
 #EXTINF:0,TV Kujawy (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
@@ -1219,9 +1397,465 @@ http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
 #EXTINF:0,TV Regionalna
 #EXTVLCOPT:network-caching=1000
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
-#EXTINF:0,TV Trwam
+#EXTINF:0,23 ABC (KERO) (720p)
 #EXTVLCOPT:network-caching=1000
-https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:0,30A Investment Pitch
+#EXTVLCOPT:network-caching=1000
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:0,30A The Beach Show
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/beachy.m3u8
+#EXTINF:0,3ABN KIDS TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:0,3ABN Latino (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:0,3News Now (KMTV-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:0,7News Boston (WHDH) (540p)
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:0,ABC 15 (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+#EXTINF:0,ABC News (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,AFV (720p)
+#EXTVLCOPT:network-caching=1000
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:0,AMG TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:0,Akaku 53 (Hawaii)
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,Akaku 54 (Hawaii)
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:0,Akaku 55 (Hawaii)
+#EXTVLCOPT:network-caching=1000
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:0,Al Horreya TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:0,Al Horreya TV
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:0,Albany CBS 6 WRGB (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:0,Aliento Vision
+#EXTVLCOPT:network-caching=1000
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Australia (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Family (1080p)
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Middle East (1080p)
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Praise (1080p)
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Talmaza (Discipleship) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:0,American Classics
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:0,American Horrors (480p)
+#EXTVLCOPT:network-caching=1000
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0,Amgtv
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:0,Atlanta Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:0,BUTV10 (Boston University)
+#EXTVLCOPT:network-caching=1000
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0,Beach TV (30A) (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0,Beach TV (Csulb) (720P)
+#EXTVLCOPT:network-caching=1000
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:0,Beach TV (Panama City) (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:0,Beach TV (Pawleys Island) (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0,Bek Sports East (720p)
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:0,Bek Sports West (720p)
+#EXTVLCOPT:network-caching=1000
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:0,Bible Explorations (480p)
+#EXTVLCOPT:network-caching=1000
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:0,Big Life TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,BlazeTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:0,Buzzr (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:0,CBSN (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+#EXTINF:0,CBSN Bay Area (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:0,CBSN New York (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:0,CC-TV
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:0,CCX1
+#EXTVLCOPT:network-caching=1000
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0,CMC-USA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:0,CNN International
+#EXTVLCOPT:network-caching=1000
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,CONtv (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:0,CSat TV
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:0,CTN (404p)
+#EXTVLCOPT:network-caching=1000
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:0,CTN
+#EXTVLCOPT:network-caching=1000
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
+#EXTINF:0,Cheddar (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.chdrstatic.com/cheddar/primary/index.m3u8
+#EXTINF:0,Cheddar Big News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.chdrstatic.com/cbn/primary/index.m3u8
+#EXTINF:0,Chive TV
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:0,Christian Youth Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:0,Cloudflare TV
+#EXTVLCOPT:network-caching=1000
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:0,Cornerstone TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8
+#EXTINF:0,Denver 8 TV
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:0,Divine Vision (480p)
+#EXTVLCOPT:network-caching=1000
+https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:0,Dove Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:0,Elbeshara Tv
+#EXTVLCOPT:network-caching=1000
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:0,Everyday Heroes
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
+#EXTINF:0,FOX 28 Savannah GA (WTGS) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:0,Fail Army (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:0,Filmrise Classics
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0,Filmrise Crime
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:0,Filmrise Family
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0,Filmrise Movies
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0,Folk TV (480p)
+#EXTVLCOPT:network-caching=1000
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:0,Futurism (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:0,Glendale 11 (360p)
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:0,Glewed TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+#EXTINF:0,Golf Network
+#EXTVLCOPT:network-caching=1000
+http://203.162.235.41:16924
+#EXTINF:0,Gravitas Movies
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:0,Hallmark Movies & More
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:0,Hi-Yah
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:0,Honor TV
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:0,IDG
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:0,IGN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Infowars
+#EXTVLCOPT:network-caching=1000
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:0,JBS
+#EXTVLCOPT:network-caching=1000
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:0,KBSV/AssyriaSat
+#EXTVLCOPT:network-caching=1000
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:0,KOMO News (KOMO-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0,KTLA 5 (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:0,KVVB-TV 33 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:0,Key TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:0,La Mega Mundial (720p)
+#EXTVLCOPT:network-caching=1000
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0,Las Vegas - 13 Action News (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+#EXTINF:0,Law & Crime (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:0,Law And Crime Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:0,Leominster TV Educational (1080p)
+#EXTVLCOPT:network-caching=1000
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:0,Leominster TV Government (1080p)
+#EXTVLCOPT:network-caching=1000
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:0,Leominster TV Public (1080p)
+#EXTVLCOPT:network-caching=1000
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:0,Lex TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:0,LifevisionTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0,Love Nature (1080p)
+#EXTVLCOPT:network-caching=1000
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,MLS
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:0,MMN
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:0,Magellan TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:0,Miami TV Jenny Live
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:0,Monarch
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
+#EXTINF:0,Movie Kingdom
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0,Movies Kingdom
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0,NASA TV (504p)
+#EXTVLCOPT:network-caching=1000
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:0,NASA TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0,NASA TV Media (720p)
+#EXTVLCOPT:network-caching=1000
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:0,NASA TV Public (720p)
+#EXTVLCOPT:network-caching=1000
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,NBC 26 (WGBA) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:0,Nat Geo Wild HD Russia
+#EXTVLCOPT:network-caching=1000
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0,Nbc 15 Madison Wi (Wmtvnbc) (720P)
+#EXTVLCOPT:network-caching=1000
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:0,New Orleans TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,Newsmax (1080p)
+#EXTVLCOPT:network-caching=1000
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,Newsy (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:0,Nothing Scripted
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:0,Nrbtv (480P)
+#EXTVLCOPT:network-caching=1000
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0,OANN One America News Network (720p)
+#EXTVLCOPT:network-caching=1000
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:0,Olelo 54
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:0,Olelo 55
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:0,Orange TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:0,Outdoor America (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:0,PBS KET (720p)
+#EXTVLCOPT:network-caching=1000
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+#EXTINF:0,PIX11 (New York) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:0,Pop
+#EXTVLCOPT:network-caching=1000
+http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
+#EXTINF:0,Qello Concerts (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:0,Radio Tele Boston (480p)
+#EXTVLCOPT:network-caching=1000
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0,Shop HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
+#EXTINF:0,Shout Factory TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:0,Stadium (720p)
+#EXTVLCOPT:network-caching=1000
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0,Stingray Karaoke (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:0,Stingray Naturescape (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:0,Stirr City (720P)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:0,Stirr Movies (720P)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:0,Stirr Westerns (720P)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:0,TBD (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0,TBD. (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:0,TMZ
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,TSTV
+#EXTVLCOPT:network-caching=1000
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0,Tastemade (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:0,Tempe 11
+#EXTVLCOPT:network-caching=1000
+https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:0,The 360 Channel
+#EXTVLCOPT:network-caching=1000
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:0,The Asylum
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:0,The Film Detective (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:0,The Monarch Channel
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:0,The Now Network (480p)
+#EXTVLCOPT:network-caching=1000
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:0,The Pet Collective
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,The Southeastern Channel
+#EXTVLCOPT:network-caching=1000
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0,Trinity Channel
+#EXTVLCOPT:network-caching=1000
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:0,WCCA-TV (Worcester)
+#EXTVLCOPT:network-caching=1000
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0,WOW TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,WPEC CBS12 News (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:0,Waypoint (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:0,White Plains Community Media (360p)
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:0,World Poker Tour (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:0,World of Free Sports
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:0,Young Hollywood
+#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 #EXTINF:0,Music 24
 #EXTVLCOPT:network-caching=1000
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
@@ -1279,9 +1913,6 @@ https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
 #EXTINF:0,Finest TV
 #EXTVLCOPT:network-caching=1000
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:0,BRT 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:0,FTV Türk
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -1365,10 +1996,16 @@ https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
 https://sc.id-tv.kz:443/hdl_34_35.m3u8
 #EXTINF:0,HD Life r
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/hd-life/index.m3u8
+http://streamer.crimea-tv.net/HD_Life/video.m3u8?token=9d3cc59e
 #EXTINF:0,RTG 
 #EXTVLCOPT:network-caching=1000
-http://89.104.114.26:8080/rtg/index.m3u8
+http://streamer.crimea-tv.net/RTGHD/video.m3u8?token=9d3cc59e
+#EXTINF:0,Ocean TV
+#EXTVLCOPT:network-caching=1000
+http://streamer.crimea-tv.net/Ocean_TV/video.m3u8?token=9d3cc59e
+#EXTINF:0,Охота и рыбалка
+#EXTVLCOPT:network-caching=1000
+http://streamer.crimea-tv.net/Ohota_i_rybalka/video.m3u8?token=9d3cc59e
 #EXTINF:0,Da Vinci Learning
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz:443/DaVinci_34_35.m3u8
@@ -1465,6 +2102,9 @@ http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:0,Бокс ТВ iptv.org.ua
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
+#EXTINF:0,Футбол 3 HD
+#EXTVLCOPT:network-caching=1000
+https://cdnua03.hls.tv/178/hls/e8dgpr3omnk5acl0iwu791fhqy6v2x4t/4204/stream.m3u8
 #EXTINF:0,Setanta Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 https://livetv.mylifeisgood.ml/channels/setantahd
@@ -1489,9 +2129,6 @@ https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 #EXTINF:0,Fuel_TV
 #EXTVLCOPT:network-caching=1000
 https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8
-#EXTINF:0,World Of Free Sports TV
-#EXTVLCOPT:network-caching=1000
-https://tva.in.ua:443/iptv/s/ht
 #EXTINF:0,Olelo 54 (720p)
 #EXTVLCOPT:network-caching=1000
 https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/playlist.m3u8
@@ -1513,27 +2150,6 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #EXTINF:0,Wrestling
 #EXTVLCOPT:network-caching=1000
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0,BEIN SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-1-stop/index.m3u8
-#EXTINF:0,BEIN SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:0,BEIN SPORTS 3
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:0,BEIN SPORTS 4
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
-#EXTINF:0,BEIN SPORTS 5
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-5-stop/index.m3u8
-#EXTINF:0,BEIN SPORTS 6
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
-#EXTINF:0,BEIN SPORTS 7
-#EXTVLCOPT:network-caching=1000
-http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
 #EXTINF:0,Lale
 #EXTVLCOPT:network-caching=1000
 http://stream.atr.ua/lale//live/index.m3u8?token=iptv.org.ua
@@ -1573,9 +2189,18 @@ https://hls.kinokrad.co/hls/Belki.v.Dele2015.HDRip/playlist.m3u8
 #EXTINF:0,Бобик в гостях у Барбоса 1977
 #EXTVLCOPT:network-caching=1000
 https://vs46.vcdn.biz/b8dd805689ecbc347014b35d40a27afa_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid551791129-b2000000.m3u8
-#EXTINF:0,Modern Talking
+#EXTINF:0,Kronehit tv HD
 #EXTVLCOPT:network-caching=1000
-http://140.238.127.147/streams/7.m3u8
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:0,Eurodance-90
+#EXTVLCOPT:network-caching=1000
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:0,НАШЕ Music HD
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/ivrd65lgtzfosay7bc13hkx2mup4nwe8/550/stream.m3u8
+#EXTINF:0,НАШЕ HD
+#EXTVLCOPT:network-caching=1000
+http://cdnua06.hls.tv/476/hls/6gra3p1odt0sfcvjwhu8457ixlqzynm9/3699/stream.m3u8
 #EXTINF:0,BACKUS TV Russian music
 #EXTVLCOPT:network-caching=1000
 https://stream.backustv.ru/live/forilooktv/index.m3u8
@@ -1720,21 +2345,6 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0,Mezzo Live HD
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:0,DANSE HITS OF THE 90S
-#EXTVLCOPT:network-caching=1000
-http://140.238.127.147/streams/1.m3u8?token=iptv.org.ua
-#EXTINF:0,BEST IPTV.ORG.UA
-#EXTVLCOPT:network-caching=1000
-http://140.238.127.147/streams/3.m3u8?token=iptv.org.ua
-#EXTINF:0,RDH90S
-#EXTVLCOPT:network-caching=1000
-http://140.238.127.147/streams/4.m3u8?token=iptv.org.ua
-#EXTINF:0,Русская попса 80х-90х
-#EXTVLCOPT:network-caching=1000
-http://140.238.127.147/streams/6.m3u8?token=iptv.org.ua
-#EXTINF:0,IPTV.ORG.UA
-#EXTVLCOPT:network-caching=1000
-http://140.238.127.147/streams/7.m3u8?token=iptv.org.ua
 #EXTINF:0,Sonus FM
 #EXTVLCOPT:network-caching=1000
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
@@ -1810,9 +2420,6 @@ https://sc.id-tv.kz:443/EdaHD_34_35.m3u8
 #EXTINF:0,Телекафе
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
-#EXTINF:0,24 Kitchen
-#EXTVLCOPT:network-caching=1000
-http://catchup.iptv.iinet.rs/playlist.m3u8?id=63&token=y_sel
 #EXTINF:0,Animal Live
 #EXTVLCOPT:network-caching=1000
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -1843,6 +2450,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 #EXTINF:0,Дождь
 #EXTVLCOPT:network-caching=1000
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
+#EXTINF:0,Дождь r
+#EXTVLCOPT:network-caching=1000
+http://84.17.61.200:8085/udp/238.2.0.151:1234
 #EXTINF:0,IZ.RU HD
 #EXTVLCOPT:network-caching=1000
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
@@ -1858,9 +2468,6 @@ https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:0,Luxury HD
 #EXTVLCOPT:network-caching=1000
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:0,Silence TV WORLD HD
-#EXTVLCOPT:network-caching=1000
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:0,Santhora Short Film (720p)
 #EXTVLCOPT:network-caching=1000
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
@@ -1945,9 +2552,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:0,MDF.1 (1080p)
 #EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
-#EXTINF:0,n-tv Event (540p)
-#EXTVLCOPT:network-caching=1000
-https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
 #EXTINF:0,NDR Event 1 (720p)
 #EXTVLCOPT:network-caching=1000
 https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
@@ -2005,15 +2609,9 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:0,VISIT-X r
 #EXTVLCOPT:network-caching=1000
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:0,ExtasY
-#EXTVLCOPT:network-caching=1000
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:0,ExtasY HD
 #EXTVLCOPT:network-caching=1000
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:0,REDLIGHT HD
-#EXTVLCOPT:network-caching=1000
-http://catchup.iptv.iinet.rs/playlist.m3u8?id=215&token=y_sel
 #EXTINF:0,REDLIGHT
 #EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
