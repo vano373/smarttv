@@ -1,4 +1,72 @@
 #EXTM3U
+#EXTINF:-1,DeepRadio
+http://31.21.123.21:8000/DeepRadio
+#EXTINF:-1,MNM
+http://31.21.123.21:8000/MNM
+#EXTINF:-1,MNM - 90s And 00s
+http://31.21.123.21:8000/MNM-90-00
+#EXTINF:-1,MNM Hits
+http://31.21.123.21:8000/MNM-Hits
+#EXTINF:-1,NPO Radio 2
+http://31.21.123.21:8000/NPO2
+#EXTINF:-1,NPO 3FM
+http://31.21.123.21:8000/NPO3FM
+#EXTINF:-1,NPO Radio 5
+http://31.21.123.21:8000/NPO5
+#EXTINF:-1,Radio FG - Belgium
+http://31.21.123.21:8000/RadioFG-BE
+#EXTINF:-1,Sunshine Live - Trance
+http://31.21.123.21:8000/SS
+#EXTINF:-1,Sunshine Live
+http://31.21.123.21:8000/SSH
+#EXTINF:-1,Sunshine Live - Die 2000er
+http://31.21.123.21:8000/SSH-00
+#EXTINF:-1,Sunshine Live - Die 80er
+http://31.21.123.21:8000/SSH-80
+#EXTINF:-1,Sunshine Live - Die 90er
+http://31.21.123.21:8000/SSH-90
+#EXTINF:-1,SSH-Bunker
+http://31.21.123.21:8000/SSH-Bunker
+#EXTINF:-1,Sunshine Live - A
+http://31.21.123.21:8000/SSH-Club
+#EXTINF:-1,Sunshine Live - A
+http://31.21.123.21:8000/SSH-Dance
+#EXTINF:-1,Sunshine Live - Drum And Bass
+http://31.21.123.21:8000/SSH-DNB
+#EXTINF:-1,Sunshine Live - EDM
+http://31.21.123.21:8000/SSH-EDM
+#EXTINF:-1,Sunshine Live - Festival
+http://31.21.123.21:8000/SSH-Festival
+#EXTINF:-1,Sunshine Live - Hard
+http://31.21.123.21:8000/SSH-Hard
+#EXTINF:-1,Sunshine Live - House
+http://31.21.123.21:8000/SSH-House
+#EXTINF:-1,Sunshine Live - Ibiza
+http://31.21.123.21:8000/SSH-Ibiza
+#EXTINF:-1,Sunshine Live - Lounge
+http://31.21.123.21:8000/SSH-Lounge
+#EXTINF:-1,Sunshine Live - Mix Mission
+http://31.21.123.21:8000/SSH-Mix
+#EXTINF:-1,Sunshine Live - New Hits
+http://31.21.123.21:8000/SSH-New
+#EXTINF:-1,Sunshine Live - The Prodigy
+http://31.21.123.21:8000/SSH-Prodigy
+#EXTINF:-1,Sunshine Live - PSY
+http://31.21.123.21:8000/SSH-PSY
+#EXTINF:-1,Sunshine Live - Relax
+http://31.21.123.21:8000/SSH-Relax
+#EXTINF:-1,Sunshine Live - Remix
+http://31.21.123.21:8000/SSH-Remix
+#EXTINF:-1,Sunshine Live - Tech House
+http://31.21.123.21:8000/SSH-Techhouse
+#EXTINF:-1,Sunshine Live - Techno
+http://31.21.123.21:8000/SSH-Techno
+#EXTINF:-1,Studio Brussel
+http://31.21.123.21:8000/StuBru
+#EXTINF:-1,Studio Brussel - Tijdloze
+http://31.21.123.21:8000/StuBru-TL
+#EXTINF:-1,LenFM
+http://31.21.123.21:8000/test3
 #EXTINF:-1,1+1 HD
 http://176.9.48.60:23055/play/a001
 #EXTINF:-1,2+2 HD
