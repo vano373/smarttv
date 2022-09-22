@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - ХИТ
+https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Свежаки
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Документальные
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Ужастик
+http://edge-01.kino.watch/horror/index.m3u8
 #EXTINF:-1,boguslav
 http://93.171.240.20:8011/boguslav
 #EXTINF:-1,music
