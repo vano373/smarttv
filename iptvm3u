@@ -1,824 +1,160 @@
 #EXTM3U
 #EXTINF:-1,312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1,Техно 24
+http://185.26.186.133:80/24_Tekhno/index.m3u8
 #EXTINF:-1,2x2
-http://178.217.72.66:8080/2x2/video.m3u8
-#EXTINF:-1,Amedia 1 HD
-http://178.217.72.66:8080/A1/video.m3u8
-#EXTINF:-1,Amedia 2 HD
-http://178.217.72.66:8080/A2/video.m3u8
-#EXTINF:-1,Amedia Hit HD
-http://178.217.72.66:8080/Amedia_Hit/video.m3u8
+http://185.26.186.133:80/2x2/index.m3u8
+#EXTINF:-1,365 дней
+http://185.26.186.133:80/365_dnej/index.m3u8
+#EXTINF:-1,Amedia 1
+http://185.26.186.133:80/Amedia_1/index.m3u8
+#EXTINF:-1,Amedia 2
+http://185.26.186.133:80/Amedia_2/index.m3u8
+#EXTINF:-1,Amedia Hit
+http://185.26.186.133:80/Amedia_Hit/index.m3u8
+#EXTINF:-1,Amedia Premium
+http://185.26.186.133:80/Amedia_Premium/index.m3u8
 #EXTINF:-1,Amedia Premium HD
-http://178.217.72.66:8080/Amedia_Premium_HD/video.m3u8
-#EXTINF:-1,Ani
-http://178.217.72.66:8080/Ani/video.m3u8
+http://185.26.186.133:80/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1,Animal Planet
+http://185.26.186.133:80/Animal_Planet/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://178.217.72.66:8080/Animal_Planet_HD/video.m3u8
-#EXTINF:-1,Арсенал HD
-http://178.217.72.66:8080/arsenalhd/video.m3u8
+http://185.26.186.133:80/Animal_Planet_HD/index.m3u8
 #EXTINF:-1,Авто 24
-http://178.217.72.66:8080/Avto_24/video.m3u8
-#EXTINF:-1,Беларусь 24
-http://178.217.72.66:8080/belarus24/video.m3u8
-#EXTINF:-1,Бобр
-http://178.217.72.66:8080/Bober/video.m3u8
-#EXTINF:-1,Бокс ТВ
-http://178.217.72.66:8080/Boks_TV/video.m3u8
-#EXTINF:-1,Болт HD
-http://178.217.72.66:8080/bolt/video.m3u8
-#EXTINF:-1,Bridge TV Deluxe
-http://178.217.72.66:8080/Bridge_HD/video.m3u8
-#EXTINF:-1,Bridge TV
-http://178.217.72.66:8080/Bridge_TV/video.m3u8
-#EXTINF:-1,Че
-http://178.217.72.66:8080/Che/video.m3u8
-#EXTINF:-1,Cinema
-http://178.217.72.66:8080/cinema/video.m3u8
-#EXTINF:-1,СТС KIds HD
-http://178.217.72.66:8080/ctc_kids_hd/video.m3u8
-#EXTINF:-1,Bridge TV Hits
-http://178.217.72.66:8080/Dange_TV/video.m3u8
-#EXTINF:-1,Уникум
-http://178.217.72.66:8080/Detskiy/video.m3u8
-#EXTINF:-1,Детский мир
-http://178.217.72.66:8080/Detskiy_Mir/video.m3u8
+http://185.26.186.133:80/Avto_24/index.m3u8
 #EXTINF:-1,Дикий
-http://178.217.72.66:8080/Dikiy/video.m3u8
-#EXTINF:-1,Discovery channel HD
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1,Discovery Science HD
-http://178.217.72.66:8080/Discovery_Science/video.m3u8
-#EXTINF:-1,Disney
-http://178.217.72.66:8080/Disney_Channel/video.m3u8
+http://185.26.186.133:80/Dikij/index.m3u8
+#EXTINF:-1,Discovery Science
+http://185.26.186.133:80/Discovery_Science/index.m3u8
 #EXTINF:-1,Дом кино
-http://178.217.72.66:8080/Dom_Kino/video.m3u8
+http://185.26.186.133:80/Dom_kino/index.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
-http://178.217.72.66:8080/Dom_Kino_Premium_HD/video.m3u8
-#EXTINF:-1,Домашний HD
-http://178.217.72.66:8080/Domashniy/video.m3u8
-#EXTINF:-1,Дорама HD
-http://178.217.72.66:8080/Dorama/video.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://178.217.72.66:8080/Eurosport_HD/video.m3u8
-#EXTINF:-1,Fan
-http://178.217.72.66:8080/fan/video.m3u8
-#EXTINF:-1,Flixsnip HD
-http://178.217.72.66:8080/flixsnip/video.m3u8
-#EXTINF:-1,Food network
-http://178.217.72.66:8080/food_network/video.m3u8
-#EXTINF:-1,Fox
-http://178.217.72.66:8080/Fox/video.m3u8
-#EXTINF:-1,Fox HD
-http://178.217.72.66:8080/Fox_HD/video.m3u8
-#EXTINF:-1,Глазами туриста HD
-http://178.217.72.66:8080/glazamiturista/video.m3u8
-#EXTINF:-1,Gulli
-http://178.217.72.66:8080/Gulli/video.m3u8
-#EXTINF:-1,HD Life
-http://178.217.72.66:8080/HDL/video.m3u8
-#EXTINF:-1,Хит HD
-http://178.217.72.66:8080/hithd/video.m3u8
+http://185.26.186.133:80/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1,Домашние животные
+http://185.26.186.133:80/Domashnie_zhivotnye/index.m3u8
+#EXTINF:-1,Домашний
+http://185.26.186.133:80/Domashnij/index.m3u8
+#EXTINF:-1,Еврокино
+http://185.26.186.133:80/Evrokino/index.m3u8
+#EXTINF:-1,Сапфир
+http://185.26.186.133:80/Fox_Life/index.m3u8
 #EXTINF:-1,Hollywood
-http://178.217.72.66:8080/hollywood/video.m3u8
+http://185.26.186.133:80/Hollywood/index.m3u8
 #EXTINF:-1,Hollywood HD
-http://178.217.72.66:8080/hollywoodhd/video.m3u8
+http://185.26.186.133:80/Hollywood_HD/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://185.26.186.133:80/Illyuzion/index.m3u8
 #EXTINF:-1,Investigation Discovery
-http://178.217.72.66:8080/ID_Xtra/video.m3u8
-#EXTINF:-1,Insight HD
-http://178.217.72.66:8080/insight/video.m3u8
+http://185.26.186.133:80/Investigation_Discovery/index.m3u8
 #EXTINF:-1,История
-http://178.217.72.66:8080/Istoriya/video.m3u8
-#EXTINF:-1,Известия
-http://178.217.72.66:8080/Izvestiya/video.m3u8
-#EXTINF:-1,JimJam
-http://178.217.72.66:8080/JimJam/video.m3u8
-#EXTINF:-1,Карусель
-http://178.217.72.66:8080/Karusel/video.m3u8
+http://185.26.186.133:80/Istoriya/index.m3u8
 #EXTINF:-1,Кино ТВ
-http://178.217.72.66:8080/Kino_TV/video.m3u8
+http://185.26.186.133:80/Kino_TV/index.m3u8
+#EXTINF:-1,Кино ТВ HD
+http://185.26.186.133:80/Kino_TV_HD/index.m3u8
 #EXTINF:-1,Кинохит
-http://178.217.72.66:8080/Kinokhit/video.m3u8
+http://185.26.186.133:80/Kinohit/index.m3u8
 #EXTINF:-1,Кинокомедия
-http://178.217.72.66:8080/Kinokomediya/video.m3u8
+http://185.26.186.133:80/Kinokomediya/index.m3u8
 #EXTINF:-1,Киномикс
-http://178.217.72.66:8080/Kinomiks/video.m3u8
-#EXTINF:-1,Кинопоказ HD
-http://178.217.72.66:8080/kinopokazhd/video.m3u8
-#EXTINF:-1,Кинопремиум HD
-http://178.217.72.66:8080/kinopremium/video.m3u8
+http://185.26.186.133:80/Kinomiks/index.m3u8
+#EXTINF:-1,Киномикс HD
+http://185.26.186.133:80/Kinomiks_HD/index.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://185.26.186.133:80/Kinopremera_HD/index.m3u8
 #EXTINF:-1,Киносемья
-http://178.217.72.66:8080/Kinosemya/video.m3u8
+http://185.26.186.133:80/Kinosemya/index.m3u8
 #EXTINF:-1,Киносерия
-http://178.217.72.66:8080/kinoseriya/video.m3u8
+http://185.26.186.133:80/Kinoseriya/index.m3u8
 #EXTINF:-1,Киносвидание
-http://178.217.72.66:8080/Kinosvidanie/video.m3u8
-#EXTINF:-1,Киноужас
-http://178.217.72.66:8080/kinoujas/video.m3u8
-#EXTINF:-1,Комедия
-http://178.217.72.66:8080/Komediya/video.m3u8
-#EXTINF:-1,Комедийное HD
-http://178.217.72.66:8080/komediynoe/video.m3u8
-#EXTINF:-1,КВН ТВ
-http://178.217.72.66:8080/KVN_TV/video.m3u8
-#EXTINF:-1,СуперГерои
-http://178.217.72.66:8080/Malysh/video.m3u8
-#EXTINF:-1,Мама
-http://178.217.72.66:8080/Mama/video.m3u8
-#EXTINF:-1,Матч! Арена HD
-http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
-#EXTINF:-1,Матч! Футбол 3 HD
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:-1,Матч HD
-http://178.217.72.66:8080/Match_HD/video.m3u8
-#EXTINF:-1,Матч! Игра HD
-http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
-#EXTINF:-1,Матч! Страна HD
-http://178.217.72.66:8080/Match_Nash_Sport/video.m3u8
-#EXTINF:-1,Mezzo
-http://178.217.72.66:8080/Mezzo/video.m3u8
-#EXTINF:-1,Mezzo Live HD
-http://178.217.72.66:8080/Mezzo_Live_HD/video.m3u8
-#EXTINF:-1,Мир 24
-http://178.217.72.66:8080/Mir_24/video.m3u8
-#EXTINF:-1,Мир баскетбола
-http://178.217.72.66:8080/mir_basketbola/video.m3u8
-#EXTINF:-1,Морской
-http://178.217.72.66:8080/Morskoy/video.m3u8
-#EXTINF:-1,Мосфильм
-http://178.217.72.66:8080/mosfilm/video.m3u8
-#EXTINF:-1,Москва 24
-http://178.217.72.66:8080/Moskva_24/video.m3u8
-#EXTINF:-1,Моторспорт ТВ
-http://178.217.72.66:8080/motorsport/video.m3u8
+http://185.26.186.133:80/Kinosvidanie/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://185.26.186.133:80/Mir_seriala/index.m3u8
 #EXTINF:-1,Моя планета
-http://178.217.72.66:8080/Moya_Planeta/video.m3u8
-#EXTINF:-1,Мульт HD
-http://178.217.72.66:8080/Mult/video.m3u8
-#EXTINF:-1,Мультимузыка
-http://178.217.72.66:8080/Multimuzyka/video.m3u8
-#EXTINF:-1,Музыка первого
-http://178.217.72.66:8080/Muzyka_Pervogo/video.m3u8
-#EXTINF:-1,Нано ТВ HD
-http://178.217.72.66:8080/NANO_HD/video.m3u8
+http://185.26.186.133:80/Moya_Planeta/index.m3u8
+#EXTINF:-1,Мужское кино HD
+http://185.26.186.133:80/Mujskoe_Kino_HD/index.m3u8
+#EXTINF:-1,Мужское кино
+http://185.26.186.133:80/Muzhskoe_kino/index.m3u8
 #EXTINF:-1,Наше новое кино
-http://178.217.72.66:8080/Nashe_Novoe_Kino/video.m3u8
-#EXTINF:-1,Наше крутое HD
-http://178.217.72.66:8080/nashekrutoe/video.m3u8
-#EXTINF:-1,Наш кинопоказ HD
-http://178.217.72.66:8080/nashkinopokazhd/video.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://178.217.72.66:8080/Nat_Geo_Wild/video.m3u8
+http://185.26.186.133:80/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
-http://178.217.72.66:8080/Nat_Geo_Wild_HD/video.m3u8
-#EXTINF:-1,National Geographic
-http://178.217.72.66:8080/National_Geographic/video.m3u8
+http://185.26.186.133:80/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1,TERRA
+http://185.26.186.133:80/National_Geographic/index.m3u8
 #EXTINF:-1,National Geographic HD
-http://178.217.72.66:8080/National_Geographic_HD/video.m3u8
+http://185.26.186.133:80/National_Geographic_HD/index.m3u8
 #EXTINF:-1,Наука 2
-http://178.217.72.66:8080/Nauka_2_0/video.m3u8
+http://185.26.186.133:80/Nauka_2_0/index.m3u8
 #EXTINF:-1,Ностальгия
-http://178.217.72.66:8080/Nostalgiya/video.m3u8
+http://185.26.186.133:80/Nostalgiya/index.m3u8
 #EXTINF:-1,НСТ
-http://178.217.72.66:8080/NSTV/video.m3u8
+http://185.26.186.133:80/NSTV/index.m3u8
+#EXTINF:-1,НТВ
+http://185.26.186.133:80/NTV/index.m3u8
 #EXTINF:-1,НТВ HD
-http://178.217.72.66:8080/NTV_HD/video.m3u8
-#EXTINF:-1,НТВ Право
-http://178.217.72.66:8080/NTV_Pravo/video.m3u8
-#EXTINF:-1,НТВ Стиль
-http://178.217.72.66:8080/NTV_Stil/video.m3u8
-#EXTINF:-1,О!
-http://178.217.72.66:8080/O/video.m3u8
-#EXTINF:-1,Ocean TV
-http://178.217.72.66:8080/Ocean_TV/video.m3u8
-#EXTINF:-1,Оружие
-http://178.217.72.66:8080/orujie/video.m3u8
-#EXTINF:-1,ОТР
-http://178.217.72.66:8080/OTR/video.m3u8
-#EXTINF:-1,Победа
-http://178.217.72.66:8080/pobeda/video.m3u8
-#EXTINF:-1,Поехали!
-http://178.217.72.66:8080/Poehali/video.m3u8
-#EXTINF:-1,Пятница HD
-http://178.217.72.66:8080/Pyatnitsa/video.m3u8
-#EXTINF:-1,РБК
-http://178.217.72.66:8080/RBK/video.m3u8
-#EXTINF:-1,РЕН ТВ HD
-http://178.217.72.66:8080/REN_TV/video.m3u8
-#EXTINF:-1,Ретро
-http://178.217.72.66:8080/Retro/video.m3u8
+http://185.26.186.133:80/NTV_HD/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://185.26.186.133:80/Ohota_i_rybalka/index.m3u8
+#EXTINF:-1,Первый канал HD
+http://185.26.186.133:80/Pervyj_HD/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://185.26.186.133:80/REN_TV/index.m3u8
+#EXTINF:-1,Родное кино
+http://185.26.186.133:80/Rodnoe_kino/index.m3u8
+#EXTINF:-1,Россия 1
+http://185.26.186.133:80/Rossiya_1/index.m3u8
 #EXTINF:-1,Россия 24
-http://178.217.72.66:8080/Rossiya_24/video.m3u8
+http://185.26.186.133:80/Rossiya_24/index.m3u8
 #EXTINF:-1,Россия HD
-http://178.217.72.66:8080/Rossiya_HD/video.m3u8
+http://185.26.186.133:80/Rossiya_HD/index.m3u8
 #EXTINF:-1,Россия К
-http://178.217.72.66:8080/Rossiya_Kultura/video.m3u8
+http://185.26.186.133:80/Rossiya_Kultura/index.m3u8
+#EXTINF:-1,RTG TV
+http://185.26.186.133:80/RTG/index.m3u8
 #EXTINF:-1,RTG HD
-http://178.217.72.66:8080/RTG_HD/video.m3u8
-#EXTINF:-1,Русский бестселлер
-http://178.217.72.66:8080/russkiy_bestseller/video.m3u8
-#EXTINF:-1,Сарафан
-http://178.217.72.66:8080/Sarafan/video.m3u8
-#EXTINF:-1,Шансон ТВ
-http://178.217.72.66:8080/Shanson_TV/video.m3u8
-#EXTINF:-1,Shot TV
-http://178.217.72.66:8080/shottv/video.m3u8
+http://185.26.186.133:80/RTG_HD/index.m3u8
+#EXTINF:-1,Планета РТР
+http://185.26.186.133:80/RTR_Planeta/index.m3u8
+#EXTINF:-1,Русский детектив
+http://185.26.186.133:80/Russkij_Detektiv/index.m3u8
+#EXTINF:-1,Русский роман
+http://185.26.186.133:80/Russkij_Roman/index.m3u8
 #EXTINF:-1,N/A
-http://178.217.72.66:8080/Sony_Sci_Fi/video.m3u8
-#EXTINF:-1,N/A
-http://178.217.72.66:8080/Sony_Turbo/video.m3u8
-#EXTINF:-1,Совершенно секретно
-http://178.217.72.66:8080/Sovershenno_Sekretno/video.m3u8
-#EXTINF:-1,СТС HD
-http://178.217.72.66:8080/STS/video.m3u8
+http://185.26.186.133:80/Sony_Turbo/index.m3u8
+#EXTINF:-1,СТС
+http://185.26.186.133:80/STS/index.m3u8
 #EXTINF:-1,СТС Love
-http://178.217.72.66:8080/STS_Love/video.m3u8
-#EXTINF:-1,Суббота
-http://178.217.72.66:8080/super/video.m3u8
-#EXTINF:-1,Телекафе
-http://178.217.72.66:8080/Telekafe/video.m3u8
-#EXTINF:-1,Телепутешествия
-http://178.217.72.66:8080/teleputeshestviya/video.m3u8
-#EXTINF:-1,TiJi
-http://178.217.72.66:8080/TiJi/video.m3u8
-#EXTINF:-1,Тномер
-http://178.217.72.66:8080/tnomer/video.m3u8
+http://185.26.186.133:80/STS_Love/index.m3u8
+#EXTINF:-1,ТНТ
+http://185.26.186.133:80/TNT/index.m3u8
 #EXTINF:-1,ТНТ HD
-http://178.217.72.66:8080/TNT_HD/video.m3u8
-#EXTINF:-1,ТНТ4
-http://178.217.72.66:8080/TNT4/video.m3u8
-#EXTINF:-1,Точка ТВ
-http://178.217.72.66:8080/Tochka_TV/video.m3u8
-#EXTINF:-1,Travel+Adventure HD
-http://178.217.72.66:8080/Travel_And_Adventure/video.m3u8
-#EXTINF:-1,Travel Channel
-http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:-1,TV1000
-http://178.217.72.66:8080/TV_1000/video.m3u8
+http://185.26.186.133:80/TNT_HD/index.m3u8
 #EXTINF:-1,TV XXI
-http://178.217.72.66:8080/TV_XXI/video.m3u8
-#EXTINF:-1,ТВ3
-http://178.217.72.66:8080/TV3/video.m3u8
-#EXTINF:-1,Усадьба
-http://178.217.72.66:8080/Usadba/video.m3u8
-#EXTINF:-1,Viasat_Explorer
-http://178.217.72.66:8080/Viasat_Explorer/video.m3u8
+http://185.26.186.133:80/TV_XXI/index.m3u8
+#EXTINF:-1,TV1000
+http://185.26.186.133:80/TV1000/index.m3u8
+#EXTINF:-1,TV1000 Action
+http://185.26.186.133:80/TV1000_Action/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://185.26.186.133:80/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://185.26.186.133:80/Viasat_Explorer/index.m3u8
 #EXTINF:-1,Viasat History
-http://178.217.72.66:8080/Viasat_History/video.m3u8
+http://185.26.186.133:80/Viasat_History/index.m3u8
 #EXTINF:-1,Viasat Nature
-http://178.217.72.66:8080/Viasat_Nature/video.m3u8
-#EXTINF:-1,VIP comedy HD
-http://178.217.72.66:8080/vip_comedy/video.m3u8
-#EXTINF:-1,VIP megahit HD
-http://178.217.72.66:8080/vip_megahit/video.m3u8
-#EXTINF:-1,VIP Premiere HD
-http://178.217.72.66:8080/vip_premiere/video.m3u8
-#EXTINF:-1,Время
-http://178.217.72.66:8080/Vremya/video.m3u8
-#EXTINF:-1,Загородная жизнь
-http://178.217.72.66:8080/Zagorodnaya_Zhizn/video.m3u8
+http://185.26.186.133:80/Viasat_Nature/index.m3u8
+#EXTINF:-1,Viasat Nature HD
+http://185.26.186.133:80/Viasat_Nature_HD/index.m3u8
 #EXTINF:-1,Живая планета
-http://178.217.72.66:8080/Zhivaya_Planeta/video.m3u8
-#EXTINF:-1,Зоопарк
-http://178.217.72.66:8080/Zoopark/video.m3u8
-#EXTINF:-1,Zoo TV
-http://178.217.72.66:8080/zootv/video.m3u8
-#EXTINF:-1,Звезда
-http://178.217.72.66:8080/Zvezda/video.m3u8
+http://185.26.186.133:80/ZHivaya_Planeta/index.m3u8
 #EXTINF:-1,Хабар 24
 http://5.254.16.186:80/Khabar24/index.m3u8
 #EXTINF:-1,Мир Белогорья
 http://5.254.16.186:80/MirBelogorya/index.m3u8
 #EXTINF:-1,Москва 24
 http://5.254.16.186:80/Moskva24/index.m3u8
-#EXTINF:-1,Моя планета
-http://77.72.22.42:8080/9050/index.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://77.72.22.42:8080/9053/index.m3u8
-#EXTINF:-1,Investigation Discovery HD
-http://77.72.22.42:8080/9054/index.m3u8
-#EXTINF:-1,Конный мир HD
-http://77.72.22.42:8080/9055/index.m3u8
-#EXTINF:-1,Stingray iconcert
-http://77.72.22.42:8080/9056/index.m3u8
-#EXTINF:-1,TV1000 Action HD
-http://77.72.22.42:8080/9057/index.m3u8
-#EXTINF:-1,TV1000 HD
-http://77.72.22.42:8080/9058/index.m3u8
-#EXTINF:-1,TV1000 Русское кино HD
-http://77.72.22.42:8080/9059/index.m3u8
-#EXTINF:-1,Viasat History HD
-http://77.72.22.42:8080/9060/index.m3u8
-#EXTINF:-1,Глазами туриста HD
-http://77.72.22.42:8080/9061/index.m3u8
-#EXTINF:-1,Любимое HD
-http://77.72.22.42:8080/9062/index.m3u8
-#EXTINF:-1,СТС Kids HD
-http://77.72.22.42:8080/9063/index.m3u8
-#EXTINF:-1,Amedia 1 HD
-http://77.72.22.42:8080/9069/index.m3u8
-#EXTINF:-1,Viasat Explore HD
-http://77.72.22.42:8080/9075/index.m3u8
-#EXTINF:-1,Еврокино HD
-http://77.72.22.42:8080/9078/index.m3u8
-#EXTINF:-1,Иллюзион HD
-http://77.72.22.42:8080/9079/index.m3u8
-#EXTINF:-1,Русский Иллюзион HD
-http://77.72.22.42:8080/9080/index.m3u8
-#EXTINF:-1,Дикая охота HD
-http://77.72.22.42:8080/9081/index.m3u8
-#EXTINF:-1,Дикая рыбалка HD
-http://77.72.22.42:8080/9082/index.m3u8
-#EXTINF:-1,Старт HD
-http://77.72.22.42:8080/9083/index.m3u8
-#EXTINF:-1,Наука HD
-http://77.72.22.42:8080/9084/index.m3u8
-#EXTINF:-1,AIVA HD
-http://77.72.22.42:8080/9085/index.m3u8
-#EXTINF:-1,Наш кинопоказ HD
-http://77.72.22.42:8080/9086/index.m3u8
-#EXTINF:-1,Блокбастер HD
-http://77.72.22.42:8080/9087/index.m3u8
-#EXTINF:-1,Наше мужское HD
-http://77.72.22.42:8080/9088/index.m3u8
-#EXTINF:-1,Про любовь HD
-http://77.72.22.42:8080/9089/index.m3u8
-#EXTINF:-1,Хит HD
-http://77.72.22.42:8080/9090/index.m3u8
-#EXTINF:-1,Камеди HD
-http://77.72.22.42:8080/9091/index.m3u8
-#EXTINF:-1,Кинопоказ HD
-http://77.72.22.42:8080/9092/index.m3u8
-#EXTINF:-1,Shant Kids HD
-http://77.72.22.42:8080/9093/index.m3u8
-#EXTINF:-1,Insport HD
-http://77.72.22.42:8080/9094/index.m3u8
-#EXTINF:-1,ТВЦ
-http://77.72.22.42:8080/9095/index.m3u8
-#EXTINF:-1,Звезда
-http://77.72.22.42:8080/9098/index.m3u8
-#EXTINF:-1,СТС Love
-http://77.72.22.42:8080/9099/index.m3u8
-#EXTINF:-1,ОТР
-http://77.72.22.42:8080/9100/index.m3u8
-#EXTINF:-1,Че
-http://77.72.22.42:8080/9101/index.m3u8
-#EXTINF:-1,RTVI
-http://77.72.22.42:8080/9102/index.m3u8
-#EXTINF:-1,Суббота
-http://77.72.22.42:8080/9103/index.m3u8
-#EXTINF:-1,Домашний
-http://77.72.22.42:8080/9104/index.m3u8
-#EXTINF:-1,Ю
-http://77.72.22.42:8080/9107/index.m3u8
-#EXTINF:-1,КВН ТВ
-http://77.72.22.42:8080/9108/index.m3u8
-#EXTINF:-1,Сарафан
-http://77.72.22.42:8080/9109/index.m3u8
-#EXTINF:-1,Точка ТВ
-http://77.72.22.42:8080/9110/index.m3u8
-#EXTINF:-1,Спас
-http://77.72.22.42:8080/9111/index.m3u8
-#EXTINF:-1,Союз
-http://77.72.22.42:8080/9112/index.m3u8
-#EXTINF:-1,Здоровое ТВ
-http://77.72.22.42:8080/9113/index.m3u8
-#EXTINF:-1,Психология 21
-http://77.72.22.42:8080/9114/index.m3u8
-#EXTINF:-1,Кто есть кто
-http://77.72.22.42:8080/9116/index.m3u8
-#EXTINF:-1,Открытый мир
-http://77.72.22.42:8080/9117/index.m3u8
-#EXTINF:-1,Красная линия
-http://77.72.22.42:8080/9119/index.m3u8
-#EXTINF:-1,ЛДПР ТВ
-http://77.72.22.42:8080/9120/index.m3u8
-#EXTINF:-1,Хузур
-http://77.72.22.42:8080/9121/index.m3u8
-#EXTINF:-1,Дождь
-http://77.72.22.42:8080/9122/index.m3u8
-#EXTINF:-1,ТБН HD
-http://77.72.22.42:8080/9123/index.m3u8
-#EXTINF:-1,Вместе-РФ
-http://77.72.22.42:8080/9124/index.m3u8
-#EXTINF:-1,N/A
-http://77.72.22.42:8080/9125/index.m3u8
-#EXTINF:-1,Киномикс
-http://77.72.22.42:8080/9126/index.m3u8
-#EXTINF:-1,Родное кино
-http://77.72.22.42:8080/9127/index.m3u8
-#EXTINF:-1,Кинохит
-http://77.72.22.42:8080/9128/index.m3u8
-#EXTINF:-1,Amedia 2
-http://77.72.22.42:8080/9129/index.m3u8
-#EXTINF:-1,TV XXI
-http://77.72.22.42:8080/9130/index.m3u8
-#EXTINF:-1,Индийское кино
-http://77.72.22.42:8080/9131/index.m3u8
-#EXTINF:-1,Киносерия
-http://77.72.22.42:8080/9132/index.m3u8
-#EXTINF:-1,Fox
-http://77.72.22.42:8080/9135/index.m3u8
-#EXTINF:-1,Дом кино
-http://77.72.22.42:8080/9136/index.m3u8
-#EXTINF:-1,Amedia 1
-http://77.72.22.42:8080/9137/index.m3u8
-#EXTINF:-1,Мужское кино HD
-http://77.72.22.42:8080/9138/index.m3u8
-#EXTINF:-1,2х2
-http://77.72.22.42:8080/9139/index.m3u8
-#EXTINF:-1,N/A
-http://77.72.22.42:8080/9140/index.m3u8
-#EXTINF:-1,Русский бестселлер
-http://77.72.22.42:8080/9141/index.m3u8
-#EXTINF:-1,Русский детектив
-http://77.72.22.42:8080/9142/index.m3u8
-#EXTINF:-1,Любимое кино
-http://77.72.22.42:8080/9143/index.m3u8
-#EXTINF:-1,Комедийное
-http://77.72.22.42:8080/9144/index.m3u8
-#EXTINF:-1,Fan
-http://77.72.22.42:8080/9145/index.m3u8
-#EXTINF:-1,НТВ Хит
-http://77.72.22.42:8080/9146/index.m3u8
-#EXTINF:-1,НСТ
-http://77.72.22.42:8080/9148/index.m3u8
-#EXTINF:-1,Zee TV
-http://77.72.22.42:8080/9149/index.m3u8
-#EXTINF:-1,Filmbox Arthouse
-http://77.72.22.42:8080/9150/index.m3u8
-#EXTINF:-1,Мир сериала
-http://77.72.22.42:8080/9151/index.m3u8
-#EXTINF:-1,Ретро
-http://77.72.22.42:8080/9152/index.m3u8
-#EXTINF:-1,Киносат
-http://77.72.22.42:8080/9154/index.m3u8
-#EXTINF:-1,Paramount Comedy
-http://77.72.22.42:8080/9155/index.m3u8
-#EXTINF:-1,Мосфильм
-http://77.72.22.42:8080/9156/index.m3u8
-#EXTINF:-1,Матч! Страна
-http://77.72.22.42:8080/9157/index.m3u8
-#EXTINF:-1,Матч! Боец
-http://77.72.22.42:8080/9159/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://77.72.22.42:8080/9160/index.m3u8
-#EXTINF:-1,Бокс ТВ
-http://77.72.22.42:8080/9162/index.m3u8
-#EXTINF:-1,Драйв
-http://77.72.22.42:8080/9163/index.m3u8
-#EXTINF:-1,Живи
-http://77.72.22.42:8080/9164/index.m3u8
-#EXTINF:-1,Жар птица
-http://77.72.22.42:8080/9165/index.m3u8
-#EXTINF:-1,Музыка первого
-http://77.72.22.42:8080/9166/index.m3u8
-#EXTINF:-1,Russian Music box
-http://77.72.22.42:8080/9168/index.m3u8
-#EXTINF:-1,МузТВ
-http://77.72.22.42:8080/9169/index.m3u8
-#EXTINF:-1,Mezzo
-http://77.72.22.42:8080/9170/index.m3u8
-#EXTINF:-1,Шансон ТВ
-http://77.72.22.42:8080/9173/index.m3u8
-#EXTINF:-1,Ля-Минор
-http://77.72.22.42:8080/9174/index.m3u8
-#EXTINF:-1,MCM TOP
-http://77.72.22.42:8080/9175/index.m3u8
-#EXTINF:-1,Bridge TV Русский Хит
-http://77.72.22.42:8080/9176/index.m3u8
-#EXTINF:-1,Жара
-http://77.72.22.42:8080/9177/index.m3u8
-#EXTINF:-1,ТНТ Music
-http://77.72.22.42:8080/9178/index.m3u8
-#EXTINF:-1,RU
-http://77.72.22.42:8080/9179/index.m3u8
-#EXTINF:-1,Tiji
-http://77.72.22.42:8080/9180/index.m3u8
-#EXTINF:-1,Gulli Girl
-http://77.72.22.42:8080/9181/index.m3u8
-#EXTINF:-1,Nick Jr
-http://77.72.22.42:8080/9182/index.m3u8
-#EXTINF:-1,Disney
-http://77.72.22.42:8080/9183/index.m3u8
-#EXTINF:-1,Детский мир
-http://77.72.22.42:8080/9184/index.m3u8
-#EXTINF:-1,JimJam
-http://77.72.22.42:8080/9185/index.m3u8
-#EXTINF:-1,Карусель
-http://77.72.22.42:8080/9186/index.m3u8
-#EXTINF:-1,Ani
-http://77.72.22.42:8080/9187/index.m3u8
-#EXTINF:-1,Мульт
-http://77.72.22.42:8080/9188/index.m3u8
-#EXTINF:-1,Boomerang
-http://77.72.22.42:8080/9189/index.m3u8
-#EXTINF:-1,О!
-http://77.72.22.42:8080/9190/index.m3u8
-#EXTINF:-1,Уникум HD
-http://77.72.22.42:8080/9191/index.m3u8
-#EXTINF:-1,СуперГерои
-http://77.72.22.42:8080/9193/index.m3u8
-#EXTINF:-1,Рыжий
-http://77.72.22.42:8080/9195/index.m3u8
-#EXTINF:-1,Капитан Фантастика HD
-http://77.72.22.42:8080/9196/index.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-http://77.72.22.42:8080/9199/index.m3u8
-#EXTINF:-1,Мультиландия
-http://77.72.22.42:8080/9200/index.m3u8
-#EXTINF:-1,Первый канал
-http://77.72.22.42:8080/9201/index.m3u8
-#EXTINF:-1,Россия 1
-http://77.72.22.42:8080/9202/index.m3u8
-#EXTINF:-1,НТВ
-http://77.72.22.42:8080/9203/index.m3u8
-#EXTINF:-1,ТНТ
-http://77.72.22.42:8080/9204/index.m3u8
-#EXTINF:-1,РЕН ТВ
-http://77.72.22.42:8080/9205/index.m3u8
-#EXTINF:-1,ТВ3
-http://77.72.22.42:8080/9206/index.m3u8
-#EXTINF:-1,Пятница!
-http://77.72.22.42:8080/9207/index.m3u8
-#EXTINF:-1,ТНТ4
-http://77.72.22.42:8080/9208/index.m3u8
-#EXTINF:-1,360
-http://77.72.22.42:8080/9209/index.m3u8
-#EXTINF:-1,Три Ангела
-http://77.72.22.42:8080/9210/index.m3u8
-#EXTINF:-1,Загородный
-http://77.72.22.42:8080/9212/index.m3u8
-#EXTINF:-1,РБК
-http://77.72.22.42:8080/9213/index.m3u8
-#EXTINF:-1,Euronews
-http://77.72.22.42:8080/9215/index.m3u8
-#EXTINF:-1,Москва 24
-http://77.72.22.42:8080/9218/index.m3u8
-#EXTINF:-1,Дорама HD
-http://77.72.22.42:8080/9224/index.m3u8
-#EXTINF:-1,Bollywood HD
-http://77.72.22.42:8080/9225/index.m3u8
-#EXTINF:-1,Победа
-http://77.72.22.42:8080/9226/index.m3u8
-#EXTINF:-1,TV1000 Русское кино
-http://77.72.22.42:8080/9227/index.m3u8
-#EXTINF:-1,Киносемья HD
-http://77.72.22.42:8080/9228/index.m3u8
-#EXTINF:-1,TV1000 Action
-http://77.72.22.42:8080/9229/index.m3u8
-#EXTINF:-1,Наше новое кино
-http://77.72.22.42:8080/9230/index.m3u8
-#EXTINF:-1,Кинокомедия
-http://77.72.22.42:8080/9231/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://77.72.22.42:8080/9233/index.m3u8
-#EXTINF:-1,Amedia Hit
-http://77.72.22.42:8080/9234/index.m3u8
-#EXTINF:-1,TV1000
-http://77.72.22.42:8080/9235/index.m3u8
-#EXTINF:-1,Hollywood
-http://77.72.22.42:8080/9236/index.m3u8
-#EXTINF:-1,N/A
-http://77.72.22.42:8080/9237/index.m3u8
-#EXTINF:-1,Киносвидание
-http://77.72.22.42:8080/9238/index.m3u8
-#EXTINF:-1,Русский роман
-http://77.72.22.42:8080/9240/index.m3u8
-#EXTINF:-1,Кино ТВ HD
-http://77.72.22.42:8080/9244/index.m3u8
-#EXTINF:-1,VIP Serial HD
-http://77.72.22.42:8080/9245/index.m3u8
-#EXTINF:-1,Матч Премьер
-http://77.72.22.42:8080/9246/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://77.72.22.42:8080/9247/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://77.72.22.42:8080/9249/index.m3u8
-#EXTINF:-1,KHL
-http://77.72.22.42:8080/9250/index.m3u8
-#EXTINF:-1,Телеканал Футбол
-http://77.72.22.42:8080/9251/index.m3u8
-#EXTINF:-1,Bridge TV
-http://77.72.22.42:8080/9253/index.m3u8
-#EXTINF:-1,O!2 HD
-http://77.72.22.42:8080/9254/index.m3u8
-#EXTINF:-1,Курай ТВ HD
-http://77.72.22.42:8080/9255/index.m3u8
-#EXTINF:-1,Европа плюс ТВ
-http://77.72.22.42:8080/9257/index.m3u8
-#EXTINF:-1,Bridge TV Classic
-http://77.72.22.42:8080/9259/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://77.72.22.42:8080/9260/index.m3u8
-#EXTINF:-1,Мультимузыка
-http://77.72.22.42:8080/9262/index.m3u8
-#EXTINF:-1,В гостях у сказки
-http://77.72.22.42:8080/9263/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://77.72.22.42:8080/9264/index.m3u8
-#EXTINF:-1,Discovery Science
-http://77.72.22.42:8080/9265/index.m3u8
-#EXTINF:-1,Animal Planet
-http://77.72.22.42:8080/9266/index.m3u8
-#EXTINF:-1,Большая азия HD
-http://77.72.22.42:8080/9267/index.m3u8
-#EXTINF:-1,Загородный Int HD
-http://77.72.22.42:8080/9268/index.m3u8
-#EXTINF:-1,Авто Плюс
-http://77.72.22.42:8080/9269/index.m3u8
-#EXTINF:-1,Кухня ТВ
-http://77.72.22.42:8080/9270/index.m3u8
-#EXTINF:-1,Нано ТВ HD
-http://77.72.22.42:8080/9271/index.m3u8
-#EXTINF:-1,Точка отрыва
-http://77.72.22.42:8080/9272/index.m3u8
-#EXTINF:-1,Viasat Explore
-http://77.72.22.42:8080/9275/index.m3u8
-#EXTINF:-1,Зоопарк
-http://77.72.22.42:8080/9276/index.m3u8
-#EXTINF:-1,Моя стихия
-http://77.72.22.42:8080/9277/index.m3u8
-#EXTINF:-1,Телекафе
-http://77.72.22.42:8080/9278/index.m3u8
-#EXTINF:-1,Усадьба
-http://77.72.22.42:8080/9279/index.m3u8
-#EXTINF:-1,RTG TV
-http://77.72.22.42:8080/9280/index.m3u8
-#EXTINF:-1,Дикий
-http://77.72.22.42:8080/9282/index.m3u8
-#EXTINF:-1,Охота и рыбалка
-http://77.72.22.42:8080/9284/index.m3u8
-#EXTINF:-1,Наша тема
-http://77.72.22.42:8080/9286/index.m3u8
-#EXTINF:-1,Мама
-http://77.72.22.42:8080/9288/index.m3u8
-#EXTINF:-1,Связист ТВ HD
-http://77.72.22.42:8080/9291/index.m3u8
-#EXTINF:-1,24 техно
-http://77.72.22.42:8080/9292/index.m3u8
-#EXTINF:-1,Тномер
-http://77.72.22.42:8080/9293/index.m3u8
-#EXTINF:-1,Доктор
-http://77.72.22.42:8080/9294/index.m3u8
-#EXTINF:-1,Viasat Nature
-http://77.72.22.42:8080/9295/index.m3u8
-#EXTINF:-1,Домашние животные
-http://77.72.22.42:8080/9296/index.m3u8
-#EXTINF:-1,Вопросы и ответы
-http://77.72.22.42:8080/9297/index.m3u8
-#EXTINF:-1,Время
-http://77.72.22.42:8080/9298/index.m3u8
-#EXTINF:-1,Travel+Adventure
-http://77.72.22.42:8080/9301/index.m3u8
-#EXTINF:-1,365 Дней
-http://77.72.22.42:8080/9303/index.m3u8
-#EXTINF:-1,Совершенно секретно
-http://77.72.22.42:8080/9305/index.m3u8
-#EXTINF:-1,Мужской
-http://77.72.22.42:8080/9306/index.m3u8
-#EXTINF:-1,Телепутешествия
-http://77.72.22.42:8080/9307/index.m3u8
-#EXTINF:-1,Тонус
-http://77.72.22.42:8080/9308/index.m3u8
-#EXTINF:-1,Дон 24
-http://77.72.22.42:8080/9309/index.m3u8
-#EXTINF:-1,Flix Snip
-http://77.72.22.42:8080/9311/index.m3u8
-#EXTINF:-1,Ocean TV
-http://77.72.22.42:8080/9312/index.m3u8
-#EXTINF:-1,History HD
-http://77.72.22.42:8080/9313/index.m3u8
-#EXTINF:-1,История
-http://77.72.22.42:8080/9315/index.m3u8
-#EXTINF:-1,Ключ
-http://77.72.22.42:8080/9316/index.m3u8
-#EXTINF:-1,Galaxy
-http://77.72.22.42:8080/9317/index.m3u8
-#EXTINF:-1,Поехали!
-http://77.72.22.42:8080/9318/index.m3u8
-#EXTINF:-1,Первый вегетарианский
-http://77.72.22.42:8080/9320/index.m3u8
-#EXTINF:-1,Оружие
-http://77.72.22.42:8080/9323/index.m3u8
-#EXTINF:-1,Zoo TV
-http://77.72.22.42:8080/9324/index.m3u8
-#EXTINF:-1,Discovery Science HD
-http://77.72.22.42:8080/9326/index.m3u8
-#EXTINF:-1,НТВ Стиль
-http://77.72.22.42:8080/9328/index.m3u8
-#EXTINF:-1,Кто куда
-http://77.72.22.42:8080/9329/index.m3u8
-#EXTINF:-1,Наша Сибирь HD
-http://77.72.22.42:8080/9330/index.m3u8
-#EXTINF:-1,Продвижение
-http://77.72.22.42:8080/9331/index.m3u8
-#EXTINF:-1,9 волна
-http://77.72.22.42:8080/9332/index.m3u8
-#EXTINF:-1,Арсенал HD
-http://77.72.22.42:8080/9336/index.m3u8
-#EXTINF:-1,Театр
-http://77.72.22.42:8080/9337/index.m3u8
-#EXTINF:-1,Крым 24
-http://77.72.22.42:8080/9338/index.m3u8
-#EXTINF:-1,БСТ HD
-http://77.72.22.42:8080/9341/index.m3u8
-#EXTINF:-1,Shot TV
-http://77.72.22.42:8080/9347/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://95.217.196.109:8081/russia/amedia_premium_hd/chunks.m3u8
-#EXTINF:-1,Ani
-http://95.217.196.109:8081/russia/ani/chunks.m3u8
-#EXTINF:-1,Авто 24
-http://95.217.196.109:8081/russia/avto24/chunks.m3u8
-#EXTINF:-1,Сartoon Network
-http://95.217.196.109:8081/russia/cartoon_network/chunks.m3u8
-#EXTINF:-1,Disney
-http://95.217.196.109:8081/russia/disney/chunks.m3u8
-#EXTINF:-1,Дорама
-http://95.217.196.109:8081/russia/dorama/chunks.m3u8
-#EXTINF:-1,Душевное HD
-http://95.217.196.109:8081/russia/dushevnoe/chunks.m3u8
-#EXTINF:-1,Eurosport 2
-http://95.217.196.109:8081/russia/eurosport2/chunks.m3u8
-#EXTINF:-1,Extreme sports
-http://95.217.196.109:8081/russia/extreme_sports/chunks.m3u8
-#EXTINF:-1,Телеканал Футбол
-http://95.217.196.109:8081/russia/futbol/chunks.m3u8
-#EXTINF:-1,Galaxy
-http://95.217.196.109:8081/russia/galaxy/chunks.m3u8
-#EXTINF:-1,History HD
-http://95.217.196.109:8081/russia/history/chunks.m3u8
-#EXTINF:-1,Иллюзион+
-http://95.217.196.109:8081/russia/illuzion_plus/chunks.m3u8
-#EXTINF:-1,История
-http://95.217.196.109:8081/russia/istoriya/chunks.m3u8
-#EXTINF:-1,Известия
-http://95.217.196.109:8081/russia/izvestiya/chunks.m3u8
-#EXTINF:-1,jimjam
-http://95.217.196.109:8081/russia/jimjam/chunks.m3u8
-#EXTINF:-1,Кинокомедия
-http://95.217.196.109:8081/russia/kinokomediya/chunks.m3u8
-#EXTINF:-1,Киномикс
-http://95.217.196.109:8081/russia/kinomix/chunks.m3u8
-#EXTINF:-1,Кинопоказ
-http://95.217.196.109:8081/russia/kinopokaz/chunks.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://95.217.196.109:8081/russia/kinopremyera/chunks.m3u8
-#EXTINF:-1,КВН ТВ
-http://95.217.196.109:8081/russia/kvn/chunks.m3u8
-#EXTINF:-1,СуперГерои
-http://95.217.196.109:8081/russia/malish/chunks.m3u8
-#EXTINF:-1,Мама
-http://95.217.196.109:8081/russia/mama/chunks.m3u8
-#EXTINF:-1,Матч Премьер
-http://95.217.196.109:8081/russia/match_premier/chunks.m3u8
-#EXTINF:-1,Матч! Страна
-http://95.217.196.109:8081/russia/match_strana/chunks.m3u8
-#EXTINF:-1,Мир
-http://95.217.196.109:8081/russia/mir/chunks.m3u8
-#EXTINF:-1,Мир баскетбола
-http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
-#EXTINF:-1,МИР 24
-http://95.217.196.109:8081/russia/mir24/chunks.m3u8
-#EXTINF:-1,МОСКВА ДОВЕРИЕ
-http://95.217.196.109:8081/russia/moskva_dov/chunks.m3u8
-#EXTINF:-1,Москва 24
-http://95.217.196.109:8081/russia/moskva24/chunks.m3u8
-#EXTINF:-1,Моя планета
-http://95.217.196.109:8081/russia/moya_planeta/chunks.m3u8
-#EXTINF:-1,Первый канал
-http://95.217.196.109:8081/russia/mtv/chunks.m3u8
-#EXTINF:-1,МузТВ
-http://95.217.196.109:8081/russia/muz_tv/chunks.m3u8
-#EXTINF:-1,Nickelodeon
-http://95.217.196.109:8081/russia/nickelodeon/chunks.m3u8
-#EXTINF:-1,НТВ Хит
-http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
-#EXTINF:-1,НТВ Хит
-http://95.217.196.109:8081/russia/ntv_mir/chunks.m3u8
-#EXTINF:-1,НТВ право
-http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
-#EXTINF:-1,Поехали!
-http://95.217.196.109:8081/russia/poehali/chunks.m3u8
-#EXTINF:-1,RTVI
-http://95.217.196.109:8081/russia/rtvi/chunks.m3u8
-#EXTINF:-1,Русский бестселлер
-http://95.217.196.109:8081/russia/russkij_bestseller/chunks.m3u8
-#EXTINF:-1,N/A
-http://95.217.196.109:8081/russia/sci_fi/chunks.m3u8
-#EXTINF:-1,Телекафе
-http://95.217.196.109:8081/russia/telekafe/chunks.m3u8
-#EXTINF:-1,ТНТ Music
-http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
-#EXTINF:-1,Viasat explore
-http://95.217.196.109:8081/russia/viasat_explorer/chunks.m3u8
-#EXTINF:-1,Жара
-http://95.217.196.109:8081/russia/zhara/chunks.m3u8
 #EXTINF:-1,Кулинар ТВ
 http://api.alpaca.t62a.com:80/hls/9110/stream0.m3u8
 #EXTINF:-1,Kaufbei TV
@@ -836,310 +172,310 @@ https://d2p372oxiwmcn1.cloudfront.net:443/hls/main.m3u8
 #EXTINF:-1,Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net:443/playlist2160p.m3u8
 #EXTINF:-1,НТВ HD
-https://de2.tprk.tv:443/live/coder/ru_ntv_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/coder/ru_ntv_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Первый канал HD
-https://de2.tprk.tv:443/live/coder/ru_pervij_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/coder/ru_pervij_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Россия 1 HD
-https://de2.tprk.tv:443/live/coder/ru_rossija_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/coder/ru_rossija_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,iConcerts HD
-https://de2.tprk.tv:443/live/en_iconcerts_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/en_iconcerts_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Mezzo
-https://de2.tprk.tv:443/live/en_mezzo/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/en_mezzo/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Mezzo Live HD
-https://de2.tprk.tv:443/live/en_mezzo_live_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/en_mezzo_live_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,9 Канал
-https://de2.tprk.tv:443/live/il_9kanal_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/il_9kanal_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,1HD
-https://de2.tprk.tv:443/live/ru_1hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_1hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,2x2
-https://de2.tprk.tv:443/live/ru_2x2/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_2x2/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,360°
-https://de2.tprk.tv:443/live/ru_360_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_360_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,365 дней
-https://de2.tprk.tv:443/live/ru_365dnej/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_365dnej/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,AIVA HD
-https://de2.tprk.tv:443/live/ru_aiva_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_aiva_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,START World HD
-https://de2.tprk.tv:443/live/ru_animal_planet/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_animal_planet/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Авто 24
-https://de2.tprk.tv:443/live/ru_auto24_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_auto24_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Авто Плюс
-https://de2.tprk.tv:443/live/ru_avto_plus/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_avto_plus/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Беларусь 24
-https://de2.tprk.tv:443/live/ru_belarus24_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_belarus24_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Матч! Боец HD
-https://de2.tprk.tv:443/live/ru_boec/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_boec/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Бокс ТВ
-https://de2.tprk.tv:443/live/ru_boks_tv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_boks_tv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Bollywood HD
-https://de2.tprk.tv:443/live/ru_bollywood_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_bollywood_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Boomerang
-https://de2.tprk.tv:443/live/ru_boomerang/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_boomerang/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Bridge TV Classic
-https://de2.tprk.tv:443/live/ru_bridge_classic/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_bridge_classic/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,BRIDGE TV Deluxe
-https://de2.tprk.tv:443/live/ru_bridge_deluxe_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_bridge_deluxe_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,BRIDGE TV Русский Хит
-https://de2.tprk.tv:443/live/ru_bridge_ruhit/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_bridge_ruhit/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Bridge TV
-https://de2.tprk.tv:443/live/ru_bridge_tv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_bridge_tv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Че
-https://de2.tprk.tv:443/live/ru_che/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_che/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Настоящее время
-https://de2.tprk.tv:443/live/ru_curtime_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_curtime_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Уникум
-https://de2.tprk.tv:443/live/ru_detskij/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_detskij/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Детское кино
-https://de2.tprk.tv:443/live/ru_detskoe_kino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_detskoe_kino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Discovery Channel HD
-https://de2.tprk.tv:443/live/ru_discovery_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_discovery_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Discovery Science HD
-https://de2.tprk.tv:443/live/ru_discovery_science/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_discovery_science/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,DocuBOX HD
-https://de2.tprk.tv:443/live/ru_docubox/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_docubox/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Дом Кино
-https://de2.tprk.tv:443/live/ru_dom_kino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_dom_kino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Дом Кино Премиум HD
-https://de2.tprk.tv:443/live/ru_dom_kino_prem_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_dom_kino_prem_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Домашний HD
-https://de2.tprk.tv:443/live/ru_domashnij_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_domashnij_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Дорама HD
-https://de2.tprk.tv:443/live/ru_dorama_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_dorama_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Драйв
-https://de2.tprk.tv:443/live/ru_drive/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_drive/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Еда Премиум
-https://de2.tprk.tv:443/live/ru_eda_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_eda_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Euronews
-https://de2.tprk.tv:443/live/ru_euronews/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_euronews/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Europa Plus TV HD
-https://de2.tprk.tv:443/live/ru_europa_plus_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_europa_plus_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Еврокино
-https://de2.tprk.tv:443/live/ru_evrokino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_evrokino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Extreme Sports
-https://de2.tprk.tv:443/live/ru_extreme_sports/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_extreme_sports/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Fast&FunBox HD
-https://de2.tprk.tv:443/live/ru_fastfunbox/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_fastfunbox/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Fightbox
-https://de2.tprk.tv:443/live/ru_fightbox/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_fightbox/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,FilmBox
-https://de2.tprk.tv:443/live/ru_filmbox/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_filmbox/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,FOX HD
-https://de2.tprk.tv:443/live/ru_fox_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_fox_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Fox Life HD
-https://de2.tprk.tv:443/live/ru_fox_life_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_fox_life_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,HD Life
-https://de2.tprk.tv:443/live/ru_hdlife/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_hdlife/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Иллюзион+
-https://de2.tprk.tv:443/live/ru_illuzion_plus/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_illuzion_plus/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Индийское Кино
-https://de2.tprk.tv:443/live/ru_indijskoe_kino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_indijskoe_kino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Известия
-https://de2.tprk.tv:443/live/ru_izru_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_izru_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,KHL HD
-https://de2.tprk.tv:443/live/ru_khl/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_khl/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,KHL Prime HD
-https://de2.tprk.tv:443/live/ru_khl_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_khl_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,КИНОХИТ
-https://de2.tprk.tv:443/live/ru_kinohit/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinohit/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Кинокомедия
-https://de2.tprk.tv:443/live/ru_kinokomedia/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinokomedia/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Киномикс
-https://de2.tprk.tv:443/live/ru_kinomiks/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinomiks/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Кинопремьера HD
-https://de2.tprk.tv:443/live/ru_kinopremjera/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinopremjera/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Киносемья
-https://de2.tprk.tv:443/live/ru_kinosemja/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinosemja/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,КИНОСЕРИЯ
-https://de2.tprk.tv:443/live/ru_kinoserija/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinoserija/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,КиноСезон HD
-https://de2.tprk.tv:443/live/ru_kinosezon_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinosezon_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Киносвидание
-https://de2.tprk.tv:443/live/ru_kinosvidanie/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinosvidanie/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,КИНОУЖАС
-https://de2.tprk.tv:443/live/ru_kinouzhas/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kinouzhas/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Классика Кино HD
-https://de2.tprk.tv:443/live/ru_klassika_kino_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_klassika_kino_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Комедийное HD
-https://de2.tprk.tv:443/live/ru_komedijnoe_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_komedijnoe_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Конный мир HD
-https://de2.tprk.tv:443/live/ru_konnij_mir_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_konnij_mir_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Кухня ТВ
-https://de2.tprk.tv:443/live/ru_kuhnja_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kuhnja_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Россия К
-https://de2.tprk.tv:443/live/ru_kultura/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kultura/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,КВН ТВ
-https://de2.tprk.tv:443/live/ru_kvn_tv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_kvn_tv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Ля-минор ТВ
-https://de2.tprk.tv:443/live/ru_la_minor/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_la_minor/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Любимое кино
-https://de2.tprk.tv:443/live/ru_lubimoe_kino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_lubimoe_kino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Любимое Кино HD
-https://de2.tprk.tv:443/live/ru_lubimoe_kino_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_lubimoe_kino_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,M-1 Global TV
-https://de2.tprk.tv:443/live/ru_m1global/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_m1global/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Матч! Арена HD
-https://de2.tprk.tv:443/live/ru_match_arena_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_match_arena_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Матч! Игра HD
-https://de2.tprk.tv:443/live/ru_match_igra_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_match_igra_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Мир
-https://de2.tprk.tv:443/live/ru_mir/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_mir/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Мир Премиум
-https://de2.tprk.tv:443/live/ru_mir_premium_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_mir_premium_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Мир Сериала
-https://de2.tprk.tv:443/live/ru_mir_seriala/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_mir_seriala/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,МультСезон
-https://de2.tprk.tv:443/live/ru_multsezon_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_multsezon_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Мужское кино HD
-https://de2.tprk.tv:443/live/ru_muzhskoe_kino_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_muzhskoe_kino_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Музыка первого
-https://de2.tprk.tv:443/live/ru_muzika_pervogo/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_muzika_pervogo/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,МузСоюз
-https://de2.tprk.tv:443/live/ru_muzsojuz/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_muzsojuz/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,МузТВ
-https://de2.tprk.tv:443/live/ru_muztv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_muztv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,НАШЕ НОВОЕ КИНО
-https://de2.tprk.tv:443/live/ru_nashe_novoe_kino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_nashe_novoe_kino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,National Geographic HD
-https://de2.tprk.tv:443/live/ru_nat_geo_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_nat_geo_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Nat Geo Wild HD
-https://de2.tprk.tv:443/live/ru_nat_geo_wild_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_nat_geo_wild_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Nick Jr
-https://de2.tprk.tv:443/live/ru_nick_jr/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_nick_jr/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Nickelodeon HD
-https://de2.tprk.tv:443/live/ru_nickelodeon_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_nickelodeon_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Ностальгия
-https://de2.tprk.tv:443/live/ru_nostalgiya/index.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_nostalgiya/index.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Новый мир
-https://de2.tprk.tv:443/live/ru_novij_mir/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_novij_mir/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,НТВ
-https://de2.tprk.tv:443/live/ru_ntv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_ntv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,О!
-https://de2.tprk.tv:443/live/ru_o/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_o/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Остросюжетное HD
-https://de2.tprk.tv:443/live/ru_ostrosuzhet_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_ostrosuzhet_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ОТР
-https://de2.tprk.tv:443/live/ru_otr/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_otr/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Первый канал
-https://de2.tprk.tv:443/live/ru_pervij/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_pervij/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Пятница
-https://de2.tprk.tv:443/live/ru_pjatnica/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_pjatnica/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Победа
-https://de2.tprk.tv:443/live/ru_pobeda/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_pobeda/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Поехали!
-https://de2.tprk.tv:443/live/ru_poehali/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_poehali/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Психология 21
-https://de2.tprk.tv:443/live/ru_psihologia21/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_psihologia21/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,РБК
-https://de2.tprk.tv:443/live/ru_rbk/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rbk/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,РЕН ТВ
-https://de2.tprk.tv:443/live/ru_rentv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rentv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,РЕН ТВ HD
-https://de2.tprk.tv:443/live/ru_rentv_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rentv_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Ретро
-https://de2.tprk.tv:443/live/ru_retro/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_retro/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Родное кино
-https://de2.tprk.tv:443/live/ru_rodnoe_kino/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rodnoe_kino/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Россия 1
-https://de2.tprk.tv:443/live/ru_rossija1/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rossija1/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Россия 24
-https://de2.tprk.tv:443/live/ru_rossija24/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rossija24/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,RTG HD
-https://de2.tprk.tv:443/live/ru_rtg_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rtg_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Россия РТР
-https://de2.tprk.tv:443/live/ru_rtr_planeta/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rtr_planeta/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,RTVi
-https://de2.tprk.tv:443/live/ru_rtvi/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rtvi/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Русский иллюзион
-https://de2.tprk.tv:443/live/ru_rus_illuzion/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_rus_illuzion/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Setanta Sports HD
-https://de2.tprk.tv:443/live/ru_setanta_sports_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_setanta_sports_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Шансон ТВ
-https://de2.tprk.tv:443/live/ru_shanson/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_shanson/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Шокирующее HD
-https://de2.tprk.tv:443/live/ru_shok_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_shok_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,N/A
-https://de2.tprk.tv:443/live/ru_sony_ent/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sony_ent/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,N/A
-https://de2.tprk.tv:443/live/ru_sony_scifi/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sony_scifi/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Совершенно секретно
-https://de2.tprk.tv:443/live/ru_sov_sekretno/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sov_sekretno/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Старт HD
-https://de2.tprk.tv:443/live/ru_start_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_start_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,СТС
-https://de2.tprk.tv:443/live/ru_sts/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sts/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,СТС HD
-https://de2.tprk.tv:443/live/ru_sts_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sts_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,СТС Kids
-https://de2.tprk.tv:443/live/ru_sts_kids_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sts_kids_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,СТС Love
-https://de2.tprk.tv:443/live/ru_sts_love/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_sts_love/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Театр
-https://de2.tprk.tv:443/live/ru_teatr/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_teatr/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ТЕЛЕКАФЕ
-https://de2.tprk.tv:443/live/ru_telekafe/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_telekafe/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Телеканал Футбол
-https://de2.tprk.tv:443/live/ru_tk_futbol_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tk_futbol_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ТНТ
-https://de2.tprk.tv:443/live/ru_tnt/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tnt/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ТНТ HD
-https://de2.tprk.tv:443/live/ru_tnt_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tnt_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ТНТ4
-https://de2.tprk.tv:443/live/ru_tnt4/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tnt4/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Точка ТВ
-https://de2.tprk.tv:443/live/ru_tochka_tv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tochka_tv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Travel+Adventure
-https://de2.tprk.tv:443/live/ru_traver_adventure_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_traver_adventure_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,TV1000
-https://de2.tprk.tv:443/live/ru_tv1000/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tv1000/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,TV XXI
-https://de2.tprk.tv:443/live/ru_tv21/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_tv21/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Ю
-https://de2.tprk.tv:443/live/ru_u_tv/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_u_tv/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,VH1 European
-https://de2.tprk.tv:443/live/ru_vh1/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_vh1/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Viasat History
-https://de2.tprk.tv:443/live/ru_viasat_history/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_viasat_history/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Viasat Sport HD
-https://de2.tprk.tv:443/live/ru_viasat_sport_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_viasat_sport_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,VIP Serial HD
-https://de2.tprk.tv:443/live/ru_vip_serial_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_vip_serial_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Вопросы и ответы
-https://de2.tprk.tv:443/live/ru_voprosi_otveti/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_voprosi_otveti/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ВРЕМЯ
-https://de2.tprk.tv:443/live/ru_vremja/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_vremja/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Жара
-https://de2.tprk.tv:443/live/ru_zhara/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_zhara/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Живи!
-https://de2.tprk.tv:443/live/ru_zhivi/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_zhivi/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Звезда
-https://de2.tprk.tv:443/live/ru_zvezda/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ru_zvezda/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,1+1
-https://de2.tprk.tv:443/live/ua_1plus1/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_1plus1/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,1+1 HD
-https://de2.tprk.tv:443/live/ua_1plus1_hd/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_1plus1_hd/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,2+2
-https://de2.tprk.tv:443/live/ua_2plus2/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_2plus2/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,5 Канал
-https://de2.tprk.tv:443/live/ua_5kanal/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_5kanal/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Интер
-https://de2.tprk.tv:443/live/ua_inter/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_inter/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,К1
-https://de2.tprk.tv:443/live/ua_k1/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_k1/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Квартал ТВ
-https://de2.tprk.tv:443/live/ua_kvartal/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_kvartal/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Мега
-https://de2.tprk.tv:443/live/ua_mega/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_mega/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,СТБ
-https://de2.tprk.tv:443/live/ua_stb/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_stb/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,ТЕТ
-https://de2.tprk.tv:443/live/ua_tet/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_tet/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Рада
-https://de2.tprk.tv:443/live/ua_ukraina24/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_ukraina24/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Ukraine 1
-https://de2.tprk.tv:443/live/ua_ukraine1/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
+https://de2.tprk.tv:443/live/ua_ukraine1/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
 #EXTINF:-1,Ukraine 2
-https://de2.tprk.tv:443/live/ua_ukraine2/playlist.m3u8?login=488478228&sl=bCt1Ncigqd-SMwaXEf3ndQ&exp=1666380605
-#EXTINF:-1,Обновление:21
+https://de2.tprk.tv:443/live/ua_ukraine2/playlist.m3u8?login=753309762&sl=WtCP7HamptPN95uC-GCzKg&exp=1666724333
+#EXTINF:-1,Обновление:25
 https://drive.google.com:443/uc?export=download&id=1GURBIIwDEoJoUiZ-tPubo5q_x9p54E61
 #EXTINF:-1,IPTV_FREE_NEONET
 https://drive.google.com:443/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
@@ -1153,10 +489,22 @@ https://edge-01.kino.watch:443/fresh/index.m3u8
 https://edge-01.kino.watch:443/hit/index.m3u8
 #EXTINF:-1,FTV UHD
 https://fash2043.cloudycdn.services:443/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,Record
+https://hls.youtb.workers.dev:443/video/Ink67fA1dWQ.m3u8
+#EXTINF:-1,Record
+https://hls.youtb.workers.dev:443/video/N9mrd-au700.m3u8
+#EXTINF:-1,Record
+https://hls.youtb.workers.dev:443/video/upBAFS9QZX4.m3u8
+#EXTINF:-1,Record
+https://hls.youtb.workers.dev:443/video/Uq151pJiLpA.m3u8
+#EXTINF:-1,Record
+https://hls.youtb.workers.dev:443/video/zRfBffppYSw.m3u8
 #EXTINF:-1,AFV Family
 https://linear-12.frequency.stream:443/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1,CGTN Русский
 https://liveru.cgtn.com:443/1000r/prog_index.m3u8
+#EXTINF:-1,TV1 Cinemastan
+http://st.kglive.asia:80/hls/tv1cinema.m3u8
 #EXTINF:-1,TV1
 http://st.kglive.asia:80/hls/tv1kg.m3u8
 #EXTINF:-1,Новый Мир
