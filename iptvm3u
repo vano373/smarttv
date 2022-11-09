@@ -8,30 +8,6 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1,Матч! Футбол 3
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
-#EXTINF:-1,Turkmen Sport
-http://217.174.225.146:80/hls/ch004_720/index.m3u8
-#EXTINF:-1,Bridge TV Фрэш
-http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
-#EXTINF:-1,DSTV
-http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1,Shant Music
-http://5.188.172.179:80/Shant-Music/index.m3u8
-#EXTINF:-1,Хабар 24
-http://5.254.16.186:80/Khabar24/index.m3u8
-#EXTINF:-1,Мир Белогорья
-http://5.254.16.186:80/MirBelogorya/index.m3u8
-#EXTINF:-1,Москва 24
-http://5.254.16.186:80/Moskva24/index.m3u8
-#EXTINF:-1,Persiana Nostalgia
-http://51.210.199.20:80/hls/stream.m3u8
-#EXTINF:-1,4 KURD
-http://51.210.199.23:80/hls/stream.m3u8
-#EXTINF:-1,Persiana Music
-http://51.210.199.24:80/hls/stream.m3u8
-#EXTINF:-1,PMC Royale
-http://51.210.199.29:80/hls/stream.m3u8
-#EXTINF:-1,PERSIANA SONNATI TV
-http://51.210.199.58:80/hls/stream.m3u8
 #EXTINF:-1,1+1
 http://51.83.184.24:9001/1+1?token=test
 #EXTINF:-1,2+2
