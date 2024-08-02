@@ -1,914 +1,585 @@
 #EXTM3U  https://iptvx.one/epg/epg.xml.gz
-#EXTINF:0,' Apostrophe TV
-http://149.5.17.34:20041/play/a062
-#EXTINF:0,/////PRYAMIY
-http://149.5.17.34:20041/play/a061
-#EXTINF:0, Аватар: Путь воды (2023)
-https://hye1eaipby4w.takedwn.ws/04_13_23/04/13/11/RFJ2AMAR/EMNHTC37.mp4/index-v1-a1.m3u8
-#EXTINF:0,1+1
-http://149.5.17.34:20041/play/a08b
-#EXTINF:0,1+1
-http://149.5.17.34:20041/play/a06d
-#EXTINF:0,1+1 HD
-http://149.5.17.34:20041/play/a06e
-#EXTINF:0,1+1 International
-http://149.5.17.34:20041/play/a00s
-#EXTINF:0,1+1 Ukraine
-http://149.5.17.34:20041/play/a08c
-#EXTINF:0,2+2
-http://149.5.17.34:20041/play/a08g
-#EXTINF:0,2+2
-http://149.5.17.34:20041/play/a06i
-#EXTINF:0,2+2 Marafon
-http://149.5.17.34:20041/play/a08m
-#EXTINF:0,24 Kanal
-http://149.5.17.34:20041/play/a08h
-#EXTINF:0,24 Kanal
-http://149.5.17.34:20041/play/a06j
-#EXTINF:0,8 Kanal int
-http://149.5.17.34:20041/play/a01h
-#EXTINF:0,ATR
-http://149.5.17.34:20041/play/a08k
-#EXTINF:0,ATR
-http://149.5.17.34:20041/play/a070
-#EXTINF:0,BELSAT TV
-http://149.5.17.34:20041/play/a076
-#EXTINF:0,BTQ
-http://149.5.17.34:20041/play/a08i
-#EXTINF:0,Bigudi
-http://149.5.17.34:20041/play/a08f
-#EXTINF:0,Bigudi
-http://149.5.17.34:20041/play/a06h
-#EXTINF:0,Channel 5 (Ukraine) HD
-http://149.5.17.34:20041/play/a06z
-#EXTINF:0,DIM TV
-http://149.5.17.34:20041/play/a071
-#EXTINF:0,DW Deutsch
-http://149.5.17.34:20041/play/a075
-#EXTINF:0,DW Deutsch
-http://149.5.17.34:20041/play/a01i
-#EXTINF:0,DW English HD
-http://149.5.17.34:20041/play/a06u
-#EXTINF:0,EarthxTV
-http://149.5.17.34:20041/play/a089
-#EXTINF:0,Eclips TV
-http://149.5.17.34:20041/play/a07v
-#EXTINF:0,Enter Film HD
-http://149.5.17.34:20041/play/a078
-#EXTINF:0,Espreso TV
-http://149.5.17.34:20041/play/a066
-#EXTINF:0,Espreso TV
-http://149.5.17.34:20041/play/a063
-#EXTINF:0,Fauna
-http://149.5.17.34:20041/play/a06k
-#EXTINF:0,Film1 Action
-http://149.5.17.34:20041/play/a07q
-#EXTINF:0,Film1 Drama
-http://149.5.17.34:20041/play/a07p
-#EXTINF:0,Film1 Family
-http://149.5.17.34:20041/play/a07o
-#EXTINF:0,Film1 Premiere HD
-http://149.5.17.34:20041/play/a07w
-#EXTINF:0,History NL
-http://149.5.17.34:20041/play/a07z
-#EXTINF:0,INTER + HD
-http://149.5.17.34:20041/play/a05v
-#EXTINF:0,Inter HD
-http://149.5.17.34:20041/play/a05g
-#EXTINF:0,K1 HD
-http://149.5.17.34:20041/play/a05m
-#EXTINF:0,K2 HD
-http://149.5.17.34:20041/play/a05o
-#EXTINF:0,Klara
-http://149.5.17.34:20041/play/a088
-#EXTINF:0,Kyiv TV
-http://149.5.17.34:20041/play/a01c
-#EXTINF:0,LRT Lituanica
-http://149.5.17.34:20041/play/a07a
-#EXTINF:0,MALYATKO TV
-http://149.5.17.34:20041/play/a06a
-#EXTINF:0,MEGA HD
-http://149.5.17.34:20041/play/a05k
-#EXTINF:0,MENT TV
-http://149.5.17.34:20041/play/a07u
-#EXTINF:0,MNM
-http://149.5.17.34:20041/play/a087
-#EXTINF:0,Man-X
-http://149.5.17.34:20041/play/a084
-#EXTINF:0,NADIYA
-http://149.5.17.34:20041/play/a014
-#EXTINF:0,NASH
-http://149.5.17.34:20041/play/a01b
-#EXTINF:0,NGC HD
-http://149.5.17.34:20041/play/a07y
-#EXTINF:0,NTN HD
-http://149.5.17.34:20041/play/a05i
-#EXTINF:0,New Christian
-http://149.5.17.34:20041/play/a05y
-#EXTINF:0,PIXEL HD
-http://149.5.17.34:20041/play/a05s
-#EXTINF:0,Play5
-http://149.5.17.34:20041/play/a085
-#EXTINF:0,Play7
-http://149.5.17.34:20041/play/a086
-#EXTINF:0,Plus Plus
-http://149.5.17.34:20041/play/a08e
-#EXTINF:0,Plus Plus
-http://149.5.17.34:20041/play/a06q
-#EXTINF:0,Plus Plus
-http://149.5.17.34:20041/play/a06g
-#EXTINF:0,RADA
-http://149.5.17.34:20041/play/a07b
-#EXTINF:0,ROZPAKUI
-http://149.5.17.34:20041/play/a05w
-#EXTINF:0,RabinovichTV Ukraine
-http://149.5.17.34:20041/play/a013
-#EXTINF:0,SBN International
-http://149.5.17.34:20041/play/a01g
-#EXTINF:0,SBS9
-http://149.5.17.34:20041/play/a07t
-#EXTINF:0,SONATA TV
-http://149.5.17.34:20041/play/a017
-#EXTINF:0,SONCE (UA)
-http://149.5.17.34:20041/play/a015
-#EXTINF:0,Svarogichi
-http://149.5.17.34:20041/play/a006
-#EXTINF:0,Svoboda / Holos Ameryky
-http://149.5.17.34:20041/play/a05a
-#EXTINF:0,TBN Ukraine
-http://149.5.17.34:20041/play/a073
-#EXTINF:0,TET
-http://149.5.17.34:20041/play/a08d
-#EXTINF:0,TET
-http://149.5.17.34:20041/play/a06f
-#EXTINF:0,TVGE INTERNATIONAL
-http://149.5.17.34:20041/play/a01d
-#EXTINF:0,The Word Network
-http://149.5.17.34:20041/play/a072
-#EXTINF:0,Trofey
-http://149.5.17.34:20041/play/a06n
-#EXTINF:0,Tuso
-http://149.5.17.34:20041/play/a08j
-#EXTINF:0,UA:Pershyi
-http://149.5.17.34:20041/play/a068
-#EXTINF:0,UK: ERC-European Racing Channel
-http://149.5.17.34:20041/play/a05d
-#EXTINF:0,Unian TV
-http://149.5.17.34:20041/play/a08l
-#EXTINF:0,Unian TV
-http://149.5.17.34:20041/play/a06s
-#EXTINF:0,Unian TV
-http://149.5.17.34:20041/play/a06o
-#EXTINF:0,Unian TV
-http://149.5.17.34:20041/play/a00n
-#EXTINF:0,VTM 3
-http://149.5.17.34:20041/play/a082
-#EXTINF:0,VTM 4
-http://149.5.17.34:20041/play/a083
-#EXTINF:0,VTM Gold
-http://149.5.17.34:20041/play/a080
-#EXTINF:0,VTM NON-STOP DOKTERS
-http://149.5.17.34:20041/play/a081
-#EXTINF:0,VTV Romania
-http://149.5.17.34:20041/play/a07j
-#EXTINF:0,Visjon Heaven
-http://149.5.17.34:20041/play/a074
-#EXTINF:0,WE-UKRAINE
-http://149.5.17.34:20041/play/a06x
-#EXTINF:0,ZOOM HD
-http://149.5.17.34:20041/play/a05q
-#EXTINF:0,Ziggo Sport Select HD
-http://149.5.17.34:20041/play/a07l
-#EXTINF:-1,Travel And Adventur
-http://194.33.181.28:9010/udp/238.255.51.17:1234
-#EXTINF:-1,TrofeyКf
-http://194.33.181.28:9010/udp/238.255.51.24:1234
-#EXTINF:-1,Star SINEMA
-http://194.33.181.28:9010/udp/238.255.51.32:1234
-#EXTINF:-1,Star FamilyиF
-http://194.33.181.28:9010/udp/238.255.51.36:1234
-#EXTINF:-1,Suspilne Sport
-http://194.33.181.28:9010/udp/238.255.51.37:1234
-#EXTINF:-1,Rybalka TV
-http://194.33.181.28:9010/udp/238.255.51.40:1234
-#EXTINF:-1,ICTV 2
-http://194.33.181.28:9010/udp/238.255.51.42:1234
-#EXTINF:-1,ВОПРОСЫ ОТВЕТЫ
-http://109.248.236.21:4433/udp/238.1.1.2:1234
-#EXTINF:-1,Viasat History
-http://109.248.236.21:4433/udp/238.1.1.1:1234
-#EXTINF:-1,НТК
-http://109.248.236.21:4433/udp/238.1.1.3:1234
-#EXTINF:-1,КТК
-http://109.248.236.21:4433/udp/238.1.1.4:1234
-#EXTINF:-1,ТНВ Планета
-http://109.248.236.21:4433/udp/238.1.1.6:1234
-#EXTINF:-1,Первый канал Евразия
-http://109.248.236.21:4433/udp/238.1.1.7:1234
-#EXTINF:-1,Muzika Int
-http://109.248.236.21:4433/udp/238.1.1.8:1234
-#EXTINF:-1,RTG TV
-http://109.248.236.21:4433/udp/238.1.1.9:1234
-#EXTINF:-1,TВЦ
-http://109.248.236.21:4433/udp/238.1.1.11:1234
-#EXTINF:-1,ТНТ 4
-http://109.248.236.21:4433/udp/238.1.1.12:1234
-#EXTINF:-1,Бокс ТВ
-http://109.248.236.21:4433/udp/238.1.1.13:1234
-#EXTINF:-1,ТНТ
-http://109.248.236.21:4433/udp/238.1.1.15:1234
-#EXTINF:-1,МАТЧ ПРЕМЬЕР
-http://109.248.236.21:4433/udp/238.1.1.14:1234
-#EXTINF:-1,Rossia_RTR
-http://109.248.236.21:4433/udp/238.1.1.16:1234
-#EXTINF:-1,O!2
-http://109.248.236.21:4433/udp/238.1.1.17:1234
-#EXTINF:-1,Viasat Explore
-http://109.248.236.21:4433/udp/238.1.1.18:1234
-#EXTINF:-1,КИНОПРЕМЬЕРА HD
-http://109.248.236.21:4433/udp/238.1.1.19:1234
-#EXTINF:-1,SILK VEY HD
-http://109.248.236.21:4433/udp/238.1.1.20:1234
-#EXTINF:-1,ЛАПКИ
-http://109.248.236.21:4433/udp/238.1.1.21:1234
-#EXTINF:-1,Rybalka i Okhota International
-http://109.248.236.21:4433/udp/238.1.1.22:1234
-#EXTINF:-1,Animal Planet
-http://109.248.236.21:4433/udp/238.1.1.25:1234
-#EXTINF:-1,МУЛЬТИ ЛАНДИЯ
-http://109.248.236.21:4433/udp/238.1.1.26:1234
-#EXTINF:-1,ЗАГОРОДНЫЙ
-http://109.248.236.21:4433/udp/238.1.1.28:1234
-#EXTINF:-1,ЕВРОПА +
-http://109.248.236.21:4433/udp/238.1.1.27:1234
-#EXTINF:-1,Мульт
-http://109.248.236.21:4433/udp/238.1.1.29:1234
-#EXTINF:-1,БЕЛ РОС
-http://109.248.236.21:4433/udp/238.1.1.30:1234
-#EXTINF:-1,Dom Kino Int
-http://109.248.236.21:4433/udp/238.1.1.32:1234
-#EXTINF:-1,Индия
-http://109.248.236.21:4433/udp/238.1.1.31:1234
-#EXTINF:-1,Vremia Int
-http://109.248.236.21:4433/udp/238.1.1.33:1234
-#EXTINF:-1,ОРУЖИЕ
-http://109.248.236.21:4433/udp/238.1.1.34:1234
-#EXTINF:-1,ЖИВИ
-http://109.248.236.21:4433/udp/238.1.1.35:1234
-#EXTINF:-1,Телеканал КХЛ HD
-http://109.248.236.21:4433/udp/238.1.1.36:1234
-#EXTINF:-1,Perviy kanal SNG
-http://109.248.236.21:4433/udp/238.1.1.38:1234
-#EXTINF:-1,Матч! Планета
-http://109.248.236.21:4433/udp/238.1.1.39:1234
-#EXTINF:-1,TV 1000
-http://109.248.236.21:4433/udp/238.1.1.41:1234
-#EXTINF:-1,Rossia_24
-http://109.248.236.21:4433/udp/238.1.1.40:1234
-#EXTINF:-1,КИНОМИКС
-http://109.248.236.21:4433/udp/238.1.1.42:1234
-#EXTINF:-1,TV 1000 Action
-http://109.248.236.21:4433/udp/238.1.1.43:1234
-#EXTINF:-1,TВ 1000. Русское кино
-http://109.248.236.21:4433/udp/238.1.1.44:1234
-#EXTINF:-1,Karusel Int
-http://109.248.236.21:4433/udp/238.1.1.45:1234
-#EXTINF:-1,ТНТ МЮЗИК
-http://109.248.236.21:4433/udp/238.1.1.46:1234
-#EXTINF:-1,ЗООПАРК
-http://109.248.236.21:4433/udp/238.1.1.47:1234
-#EXTINF:-1,ЖИВОТНЫЕ HD
-http://109.248.236.21:4433/udp/238.1.1.48:1234
-#EXTINF:-1,Evrokino
-http://109.248.236.21:4433/udp/238.1.1.49:1234
-#EXTINF:-1,Viasat Sport
-http://109.248.236.21:4433/udp/238.1.1.50:1234
-#EXTINF:-1,Киносемья
-http://109.248.236.21:4433/udp/238.1.1.52:1234
-#EXTINF:-1,Viasat Nature
-http://109.248.236.21:4433/udp/238.1.1.51:1234
-#EXTINF:-1,Кинохит
-http://109.248.236.21:4433/udp/238.1.1.53:1234
-#EXTINF:-1,НАШЕ НОВОЕ КИНО
-http://109.248.236.21:4433/udp/238.1.1.54:1234
-#EXTINF:-1,Rossia_K
-http://109.248.236.21:4433/udp/238.1.1.55:1234
-#EXTINF:-1,NTV Kazakstan
-http://109.248.236.21:4433/udp/238.1.1.56:1234
+#EXTINF:-1,Isai Aruvi [in] [720x576]
+http://103.199.161.254:80/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1,La Rock 22 [ni] [1920x1080]
+http://138.117.4.70:8075/channel22/playlist.m3u8
+#EXTINF:-1,Farra Play [py] [1280x720]
+http://159.203.148.226:80/live/farra.m3u8
+#EXTINF:-1,Euro Indie Music Chart TV [it] [1920x1080]
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1,World HD [1920x1080]
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sor TV [1920x1080]
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1,Балта ТВ [1280x768]
+http://194.50.51.34:80/playlist.m3u8
+#EXTINF:-1,Kuriakos Music [pt] [1920x1080]
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1,rus [1920x1080]
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1,W14DK-D5 [us] [1920x1080]
+https://2-fss-2.streamhoster.com:443/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1,KMBY-LD5 [us] [720x480]
+https://2-fss-2.streamhoster.com:443/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1,3ABN Praise Him Music Network [us] [1280x720]
+https://3abn-live.akamaized.net:443/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1,viju+ Sport [720x576]
+http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СТС [1920x1080]
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СТС Kids [720x576]
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Карусель International [720x576]
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинопремьера [1920x1080]
+http://45.159.74.13:80/Kinopremera/index.m3u8
+#EXTINF:-1,Кинопремьера [1920x1080]
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Матч! Планета [720x576]
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1,МИР [720x576]
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1,National Geographic Wild [720x576]
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/index.m3u8
+#EXTINF:-1,National Geographic Wild [720x576]
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1,National Geographic [720x576]
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+#EXTINF:-1,National Geographic [720x576]
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Россия 1 [1920x1080]
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Дом кино Премиум [720x576]
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DSTV [bg] [1092x614]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1,Radio [1024x576]
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net:80/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+#EXTINF:-1,NTS Moldova
+http://5.56.77.9:50000
+#EXTINF:-1,SOS Kanal Plus [rs] [1280x720]
+https://53be5ef2d13aa.streamlock.net:443/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1,Radio Love FM [it] [1920x1080]
+https://56b50ada2d659.streamlock.net:443/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Italia HD [1280x720]
+https://59253971be783.streamlock.net:443/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,Company TV [it] [1280x720]
+https://5929b138b139d.streamlock.net:443/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1,Radio 51 TV [it] [854x480]
+https://59d7d6f47d7fc.streamlock.net:443/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Urbano TV [cr] [1280x720]
+https://59ef525c24caa.streamlock.net:443/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1,SOY Plancha TV [cr] [1280x720]
+https://59ef525c24caa.streamlock.net:443/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1,Vintage Music [cr] [1280x720]
+https://59ef525c24caa.streamlock.net:443/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1,VM Latino [cr] [1280x720]
+https://59ef525c24caa.streamlock.net:443/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1,NRJ Hits TV [1280x720]
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2043948915.m3u8
+#EXTINF:-1,V Classic TV [cl] [1920x1080]
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1,The Retro Channel [pr] [1920x1080]
+https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1,Tropical Music TV [us] [1280x720]
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1,Vaanavil TV [in] [640x360]
+https://6n3yope4d9ok-hls-live.5centscdn.com:443/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1,Miel TV [pe] [854x480]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1,Top TV [rs] [1920x1080]
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1,Traditional TV [ro] [1920x1080]
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1,100% News ua [720x576]
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,Глас [720x576]
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1,Moldova TV [720x576]
+http://89.38.8.130:39435
+#EXTINF:-1,Exclusiv TV [720x576]
+http://93.115.137.166:80/hls/ntvm.m3u8
+#EXTINF:-1,FREEДОМ [1280x720]
+http://95.67.106.242:80/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1,V2BEAT TV [1280x720]
+https://abr.de1se01.v2beat.live:443/live/live6/chunks.m3u8
+#EXTINF:-1,V2BEAT TV [1280x720]
+https://abr.de1se01.v2beat.live:443/playlist.m3u8
+#EXTINF:-1,Turkmenistan Sport [tm] [720x406]
+http://alpha.tv.online.tm:80/hls/ch004.m3u8
+#EXTINF:-1,Turkmenistan Sport [tm] [720x406]
+http://alpha.tv.online.tm:80/hls/ch004_720/index.m3u8
+#EXTINF:-1,Туркменистан ТВ tuk [720x406]
+http://alpha.tv.online.tm:80/hls/ch007_720/index.m3u8
+#EXTINF:-1,Qwest TV [fr] [1920x1080]
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv:443/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1,M-Net Sport [mk] [1280x720]
+http://ares.mnet.mk:80/hls/mnet-sport.m3u8
+#EXTINF:-1,Аверс [858x480]
+https://avers.pp.ua:443/hls/efir.m3u8
+#EXTINF:-1,MUTV [uk] [1280x720]
+https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,Kronehit [1280x720]
+http://bitcdn-kronehit.bitmovin.com:80/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1,Kronehit [1920x1080]
+http://bitcdn-kronehit.bitmovin.com:80/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Kronehit [1920x1080]
+http://bitcdn-kronehit.bitmovin.com:80/v2/hls/playlist.m3u8
+#EXTINF:-1,IT3 [1280x720]
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+#EXTINF:-1,ITV [1280x720]
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1,ITV [848x480]
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1,Ізмаіл ТВ [720x576]
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1,Trace Urban [fr] [1920x1080]
+https://cdn-apse1-prod.tsv2.amagi.tv:443/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1,J SPORTS 1 [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1,J SPORTS 2 [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1,J SPORTS 3 [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1,J SPORTS 4 [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1,Space Shower TV [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1,Music Japan TV [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1,Kayo Pops [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1,GAORA SPORTS [jp] [960x544]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1,XITE TV Hits [1920x1080]
+https://cdn-ue1-prod.tsv2.amagi.tv:443/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1,LiraTV [es] [1280x720]
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1,Tu Musica HD [do] [1920x1080]
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,Somos Topo Point TV [do] [1920x1080]
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:-1,Vision Television [mx] [1280x720]
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1,Onda Valencia TV [es] [1280x720]
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1,Canal 3 KMK TV [cr] [1280x720]
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1,La Voz Grupera TV [mx] [1280x720]
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1,SpektraTV [es] [1280x720]
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:-1,VoiceOver Radio TV [cr] [1920x1080]
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,STZ Telebista [es] [1920x1080]
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1,Clubbing TV [fr] [1280x720]
+https://clubbingtv-samsungnz.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,California Music Channel [us] [1920x1080]
+https://cmc-ono.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,Play TV [cm] [1280x720]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1,Radio y Television Budokan [mx] [640x480]
+https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
+#EXTINF:-1,Fight Network [ca] [1920x1080]
+https://d12a2vxqkkh1bo.cloudfront.net:443/hls/1080p/playlist.m3u8
+#EXTINF:-1,Fight Network [ca] [1920x1080]
+https://d12a2vxqkkh1bo.cloudfront.net:443/hls/main.m3u8
+#EXTINF:-1,Loupe TV [1920x1080]
+https://d2dw21aq0j0l5c.cloudfront.net:443/playlist_1920x1080.m3u8
+#EXTINF:-1,Loupe 4K [3840x2160]
+https://d2dw21aq0j0l5c.cloudfront.net:443/playlist_3840x2160.m3u8
+#EXTINF:-1,Sol Musica [es] [1280x720]
+https://d2glyu450vvghm.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1,San Marino RTV Sport [sm] [1280x720]
+https://d2hrvno5bw6tg2.cloudfront.net:443/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1,9XM [in] [854x480]
+https://d2q8p4pe5spbak.cloudfront.net:443/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,SKI TV [ch] [1920x1080]
+https://d2xeo83q8fcni6.cloudfront.net:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1,FUEL TV [at] [640x360]
+https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:-1,XITE TV Just Chill [1920x1080]
+https://d3ai750ol9my06.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
+#EXTINF:-1,XITE TV 90s Throwback [1920x1080]
+https://d3fr64zqebnqn3.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+#EXTINF:-1,V2BEAT TV [1280x720]
+http://de1se01.v2beat.live:80/playlist.m3u8
+#EXTINF:-1,Alfa Sport [cy] [1920x1080]
+https://dev.aftermind.xyz:443/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1,Dubai Sports 2 [ae] [1280x720]
+http://dmitwlvvll.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Dubai Sports 3 [ae] [1920x1080]
+http://dmitwlvvll.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,XITE TV Rock On [1920x1080]
+https://dri82941jql2y.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1,XITE TV 80s Flashback [1920x1080]
+https://dw0oa71jud5ry.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
+#EXTINF:-1,Radio Cuenca Estereo [ec] [640x360]
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1,Dance Television [nl] [1920x1080]
+https://eu-nl-012.worldcast.tv:443/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1,Deep House District [nl] [1920x1080]
+https://eu-nl-012.worldcast.tv:443/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1,Dijlah Tarab [iq] [1920x1080]
+https://ghaasiflu.online:443/tarab/index.m3u8
+#EXTINF:-1,tva [1280x720]
+http://hls.cdn.ua:80/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,tva [1280x720]
+http://hls.cdn.ua:80/tva.ua_live/livestream/chunklist_w217585950.m3u8
+#EXTINF:-1,TMA [gp] [1920x1080]
+http://hls.tmacaraibes.com:80/live/index.m3u8
+#EXTINF:-1,Epic Drama [720x576]
+http://hls.trinity-tv.net:80/stream/4zh7brpw5jhxwyy2m3x3y64n7628tqgs4ii6sgvid5mssvcafie2zdf6wjja5p7533wswqx7a4gk684eskfinyejxxqxqvu8jjdfb6k5d52zrab7ikvyjxm33csefu98ip97gb5apma2pe4m2enm2hka.m3u8
+#EXTINF:-1,ATG [se] [768x432]
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com:443/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1,InRating TV [1280x720]
+http://inrating-tv.cdn-04.cosmonova.net.ua:80/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1,ICTV2 [1920x1080]
+http://ip1.orgip.net:80/339/video.m3u8?token=M4f082ab4c
+#EXTINF:-1,Super TV [ro] [1920x1080]
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1,ТСВ [720x576]
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:-1,ТСВ [576x460]
+http://iptv-hls.idc.md:8200/hls/2/live2.m3u8
+#EXTINF:-1,IDC EuroSport 1 [1920x1080]
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1,IDC EuroSport 1 [1920x1080]
+http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
+#EXTINF:-1,IDC EuroSport 1 [1920x1080]
+http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+#EXTINF:-1,Arabica TV [lb] [1920x1080]
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1,Magic TV [gr] [640x360]
+https://itv.streams.ovh:443/magictv/magictv/playlist.m3u8
+#EXTINF:-1,88 Stereo [cr] [1280x720]
+http://k3.usastreams.com:80/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,Музыка Кино International [768x432]
+http://kino-1.catcast.tv:80/content/37739/index.m3u8
+#EXTINF:-1,Музыка 2 International [768x432]
+http://kino-1.catcast.tv:80/content/37742/index.m3u8
+#EXTINF:-1,Музыка 1 International [768x432]
+http://kino-1.catcast.tv:80/content/37745/index.m3u8
+#EXTINF:-1,Kiss Kiss TV [it] [1920x1080]
+https://kk.fluid.stream:443/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1,Life TV [768x432]
+http://lifetv.bitflip.ee:80/live/stream1_1/index.m3u8
+#EXTINF:-1,Now 70`s [1280x720]
+https://lightning-now70s-samsungnz.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,Now 80`s [1280x720]
+https://lightning-now80s-samsungnz.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,Now 90`s [1280x720]
+https://lightning-now90s-samsungnz.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,Trace Urban HD [ru] [1920x1080]
+https://lightning-traceurban-samsungau.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1,CampusLore [us] [1280x720]
+https://linear-235.frequency.stream:443/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1,Swerve Sports [us] [1920x1080]
+https://linear-253.frequency.stream:443/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1,Mayotte One TV [yt] [1280x720]
+https://live.mytv.yt:3946/multi_web/play.m3u8
+#EXTINF:-1,SanjuaneraTV [pe] [1280x720]
+https://live.obslivestream.com:443/sanjuanera/index.m3u8
+#EXTINF:-1,Panik TV [gr] [1920x1080]
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1,Bblack! Classik [fr] [1920x1080]
+http://livevideo.vedge.infomaniak.com:80/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1,1+1 International [1920x1080]
+http://m3u8.ott.blue:80/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1,Euronews [1280x720]
+http://m3u8.ott.blue:80/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1,Дождь [1920x1080]
+http://m3u8.ott.blue:80/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1,FTV [bo] [1280x720]
+https://master.tucableip.com:443/ftv/index.m3u8
+#EXTINF:-1,Master Show TV [br] [640x360]
+https://mastershowtv.videovox.pw:443/master6123/master6123/playlist.m3u8
+#EXTINF:-1,XITE [1280x720]
+http://ms2.mx-cd.net:80/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+#EXTINF:-1,Rock&Roll [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-1/playlist.m3u8
+#EXTINF:-1,MOBA [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-2/playlist.m3u8
+#EXTINF:-1,POP STAR [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-3/playlist.m3u8
+#EXTINF:-1,JEKA [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-4/playlist.m3u8
+#EXTINF:-1,WORLD WIDE MUZZIK [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-5/playlist.m3u8
+#EXTINF:-1,MUZZIK [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-6/playlist.m3u8
+#EXTINF:-1,SENSE [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-7/playlist.m3u8
+#EXTINF:-1,FLASHBACK [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-8/playlist.m3u8
+#EXTINF:-1,ELECTRO [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-9/playlist.m3u8
+#EXTINF:-1,ZZ TV [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-a4/playlist.m3u8
+#EXTINF:-1,TIKTAK [rs] [1024x576]
+http://muzzik-live.morescreens.com:80/mts-a5/playlist.m3u8
+#EXTINF:-1,Ocko [cz] [960x540]
+http://ocko-live.ssl.cdn.cra.cz:80/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Expres [cz] [960x540]
+http://ocko-live.ssl.cdn.cra.cz:80/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Star [cz] [960x540]
+http://ocko-live.ssl.cdn.cra.cz:80/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko Expres [cz] [960x540]
+https://ocko-live.ssl.cdn.cra.cz:443/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1,Ocko Gold [cz] [960x540]
+https://ocko-live.ssl.cdn.cra.cz:443/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1,Ocko [cz] [960x540]
+https://ocko-live-dash.ssl.cdn.cra.cz:443/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1,13 Festival [cl] [1920x1080]
+https://origin.dpsgo.com:443/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1,TVRI Sport [id] [1280x720]
+http://ott.tvri.co.id:80/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1,Kayhan TV [af] [1280x720]
+https://playout395.livestreamingcdn.com:443/live/Stream1/chunklist_w523424868.m3u8
+#EXTINF:-1,Racing
+https://racingvic-i.akamaized.net:443/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1,Red Bull TV [at] [1920x1080]
+https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Red Bull TV [at] [960x540]
+https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Red Bull TV [at] [1280x720]
+https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1,GO TV [py] [1280x720]
+https://rds3.desdeparaguay.net:443/gotv/gotv/playlist.m3u8
+#EXTINF:-1,Baraza TV Relaxing [gr] [1280x720]
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1,Baraza TV Deep House [gr] [1280x720]
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1,tva Чернівці [1280x720]
+http://rtsp.cdn.ua:80/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Radio TV Tendencias [pe] [1920x1080]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1,Salto Brasa Music [nl] [1920x1080]
+https://salto-streams.nl:443/hls/sotv1.m3u8
+#EXTINF:-1,Deluxe Music [1280x720]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com:80/13456/13456_264_live.m3u8
+#EXTINF:-1,Deluxe Dance [1920x1080]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com:80/64733/64733_264_live.m3u8
+#EXTINF:-1,Deluxe Rock [1920x1080]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com:80/65181/65181_264_live.m3u8
+#EXTINF:-1,Deluxe Rap [1920x1080]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com:80/65183/65183_264_live.m3u8
+#EXTINF:-1,Deluxe Flashback [1920x1080]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com:80/65185/65185_264_live.m3u8
+#EXTINF:-1,VEVO Pop (USA) [1280x720]
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1,Vevo Country [us] [1280x720]
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1,VEVO R&B (USA) [1280x720]
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1,VEVO `70s (USA) [1280x720]
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1,VEVO Reggaetón & Trap (USA) [1280x720]
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?sid=0888&deviceId=5f32f397795b750007706448&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1,NFL Channel [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:-1,Pluto TV Deportes [us] [640x360]
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV MTV Classic [us] [854x480]
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,PGA Tour [us] [854x480]
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:-1,Bellator MMA [us] [1216x684]
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1,Pluto TV Sports [uk] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
+#EXTINF:-1,MTV Biggest Pop [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo Country [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo R&B [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,MLB [us] [1216x684]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo '70s [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo Reggaeton & Trap [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,CMT Equal Play [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Pluto TV Extreme [fr] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo '80s [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo '90s [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Vevo 2K [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Pluto TV VH1 Classics [us] [1280x720]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,Pluto TV MTV Music Made in Spain [us] [1216x684]
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,SONGTV Armenia [am] [1280x720]
+http://songtv.hls.iptvdc.com:80/web-armenia/tracks-v3a1/mono.m3u8
+#EXTINF:-1,SONGTV Russia [1280x720]
+http://songtv.hls.iptvdc.com:80/web-russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1,SONGTV Armenia [1280x720]
+https://songtv.hls.iptvdc.com:443/web-armenia/index.m3u8
+#EXTINF:-1,SONGTV Russia [1280x720]
+https://songtv.hls.iptvdc.com:443/web-russia/index.m3u8
+#EXTINF:-1,SportsGrid [us] [1920x1080]
+https://sportsgrid-tribal.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,Tropical Moon Salsa TV [pa] [1920x1080]
+https://srv.tropicalmoonmedia.com:443/musictv/musictv/playlist.m3u8
+#EXTINF:-1,PBR RidePass [us] [1280x720]
+https://stitcher-ipv4.pluto.tv:443/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
+#EXTINF:-1,World Poker Tour [it] [1280x720]
+https://stitcher-ipv4.pluto.tv:443/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,Pluto TV Sport [it] [1216x684]
+https://stitcher-ipv4.pluto.tv:443/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,Global TV [ar] [1920x1080]
+https://stmv.video.gmpro.top:443/global/global/playlist.m3u8
+#EXTINF:-1,Ondambiental TV [co] [640x360]
+https://stmv4.voxtvhd.com.br:443/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1,Deluxe Lounge [de] [1920x1080]
+http://stream.ads.ottera.tv:80/playlist.m3u8?network_id=2489
+#EXTINF:-1,Afrobeats [1920x1080]
+https://stream.ecable.tv:443/afrobeats/index.m3u8
+#EXTINF:-1,Afrobeats [1920x1080]
+https://stream.ecable.tv:443/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1,La-X [pr] [1280x720]
+https://stream.eleden.com:443/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:-1,Radar TV 71 [mx] [854x480]
+https://stream.oursnetworktv.com:443/latin/radarTV/playlist.m3u8
+#EXTINF:-1,A2i Music [sn] [1280x720]
+https://stream.sen-gt.com:443/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1,ГІТ (Луцьк) [1280x720]
+https://stream.uagit.tv:443/gittv.m3u8
+#EXTINF:-1,UA: Запоріжжя [1920x1080]
+https://stream.ztv.zp.ua:443/hls/live.m3u8
+#EXTINF:-1,Amedia Premium [1920x1080]
+http://stream01.vnet.am:80/AmediaPremium/mono.m3u8
+#EXTINF:-1,Animal Planet [1920x1080]
+http://stream01.vnet.am:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Бокс ТВ [1920x1080]
+http://stream01.vnet.am:80/BoksTv/mono.m3u8
+#EXTINF:-1,Детский Мир [720x576]
+http://stream01.vnet.am:80/CartoonNetwork/mono.m3u8
+#EXTINF:-1,Discovery Channel [eng rus] [1920x1080]
+http://stream01.vnet.am:80/DiscoveryChannel/mono.m3u8
+#EXTINF:-1,Discovery Channel [1920x1080]
+http://stream01.vnet.am:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Дом Кино [720x576]
+http://stream01.vnet.am:80/DomKino/mono.m3u8
+#EXTINF:-1,FightBox [1920x1080]
+http://stream01.vnet.am:80/Fightbox/mono.m3u8
+#EXTINF:-1,FOX [720x576]
+http://stream01.vnet.am:80/Fox/mono.m3u8
+#EXTINF:-1,Investigation Discovery [1440x1080]
+http://stream01.vnet.am:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1,История [720x576]
+http://stream01.vnet.am:80/Istoria/mono.m3u8
 #EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.57:1234
-#EXTINF:-1,Bober int
-http://109.248.236.21:4433/udp/238.1.1.58:1234
-#EXTINF:-1,H D L HD
-http://109.248.236.21:4433/udp/238.1.1.59:1234
-#EXTINF:-1,31 канал
-http://109.248.236.21:4433/udp/238.1.1.60:1234
-#EXTINF:-1,"Б@0=
-http://109.248.236.21:4433/udp/238.1.1.61:1234
-#EXTINF:-1,Telekanal 360
-http://109.248.236.21:4433/udp/238.1.1.62:1234
-#EXTINF:-1,Новое ТВ
-http://109.248.236.21:4433/udp/238.1.1.63:1234
-#EXTINF:-1,КОНИ
-http://109.248.236.21:4433/udp/238.1.1.64:1234
-#EXTINF:-1,TV21
-http://109.248.236.21:4433/udp/238.1.1.65:1234
-#EXTINF:-1,DK Premium Int
-http://109.248.236.21:4433/udp/238.1.1.66:1234
-#EXTINF:-1,CTC International
-http://109.248.236.21:4433/udp/238.1.1.67:1234
-#EXTINF:-1,CTC LOVE
-http://109.248.236.21:4433/udp/238.1.1.69:1234
-#EXTINF:-1,RT Int
-http://109.248.236.21:4433/udp/238.1.1.68:1234
-#EXTINF:-1,RU TV
-http://109.248.236.21:4433/udp/238.1.1.70:1234
-#EXTINF:-1,REN TV INTERNATIONAL
-http://109.248.236.21:4433/udp/238.1.1.72:1234
-#EXTINF:-1,Amedia Premium HD
-http://109.248.236.21:4433/udp/238.1.1.71:1234
-#EXTINF:-1,МИР
-http://109.248.236.21:4433/udp/238.1.1.73:1234
-#EXTINF:-1,КИНОПРЕМЬЕРА
-http://109.248.236.21:4433/udp/238.1.1.74:1234
-#EXTINF:-1,ЗВЕЗДА
-http://109.248.236.21:4433/udp/238.1.1.76:1234
-#EXTINF:-1,ВТВ
-http://109.248.236.21:4433/udp/238.1.1.77:1234
-#EXTINF:-1,ШАНСОН
-http://109.248.236.21:4433/udp/238.1.1.79:1234
-#EXTINF:-1,СТАРТ
-http://109.248.236.21:4433/udp/238.1.1.78:1234
-#EXTINF:-1,KSK
-http://109.248.236.21:4433/udp/238.1.1.80:1234
-#EXTINF:-1,КАМЕРА ПЛОЩАДЬ
-http://109.248.236.21:4433/udp/238.1.1.82:1234
-#EXTINF:-1,Ностальгия
-http://109.248.236.21:4433/udp/238.1.1.83:1234
-#EXTINF:-1,РБК HD
-http://109.248.236.21:4433/udp/238.1.1.85:1234
-#EXTINF:-1,НОВОЕ
-http://109.248.236.21:4433/udp/238.1.1.86:1234
-#EXTINF:-1,Совершенно Секретно
-http://109.248.236.21:4433/udp/238.1.1.87:1234
-#EXTINF:-1,Т24
-http://109.248.236.21:4433/udp/238.1.1.88:1234
-#EXTINF:-1,МАТЧ!
-http://109.248.236.21:4433/udp/238.1.1.89:1234
-#EXTINF:-1,Первый канал (+2)
-http://109.248.236.21:4433/udp/238.1.1.91:1234
-#EXTINF:-1,МУЗ
-http://109.248.236.21:4433/udp/238.1.1.90:1234
-#EXTINF:-1,ABAI TV
-http://109.248.236.21:4433/udp/238.1.1.92:1234
-#EXTINF:-1,O int
-http://109.248.236.21:4433/udp/238.1.1.93:1234
-#EXTINF:-1,Моя Планета
-http://109.248.236.21:4433/udp/238.1.1.95:1234
-#EXTINF:-1,Poehali Int
-http://109.248.236.21:4433/udp/238.1.1.94:1234
-#EXTINF:-1,Amedia 1
-http://109.248.236.21:4433/udp/238.1.1.97:1234
-#EXTINF:-1,Amedia Hit HD
-http://109.248.236.21:4433/udp/238.1.1.96:1234
-#EXTINF:-1,СКАЗКА
-http://109.248.236.21:4433/udp/238.1.1.98:1234
-#EXTINF:-1,ТЕЛЕКАФЕ
-http://109.248.236.21:4433/udp/238.1.1.99:1234
-#EXTINF:-1,Mosfilm Int
-http://109.248.236.21:4433/udp/238.1.1.100:1234
-#EXTINF:-1,ИЛЛЮЗЗИОН
-http://109.248.236.21:4433/udp/238.1.1.104:1234
+http://stream01.vnet.am:80/Kinosemya/mono.m3u8
 #EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.103:1234
-#EXTINF:-1,Киносвидание
-http://109.248.236.21:4433/udp/238.1.1.105:1234
-#EXTINF:-1,ЖАРА ТВ
-http://109.248.236.21:4433/udp/238.1.1.106:1234
-#EXTINF:-1,Ю
-http://109.248.236.21:4433/udp/238.1.1.108:1234
-#EXTINF:-1,ДОМАШНИЕ ЖЫВОТНЫЕ
-http://109.248.236.21:4433/udp/238.1.1.107:1234
-#EXTINF:-1,АВТО 24
-http://109.248.236.21:4433/udp/238.1.1.110:1234
-#EXTINF:-1,English Club TV
-http://109.248.236.21:4433/udp/238.1.1.109:1234
-#EXTINF:-1,КВН
-http://109.248.236.21:4433/udp/238.1.1.111:1234
-#EXTINF:-1,Y HD
-http://109.248.236.21:4433/udp/238.1.1.112:1234
-#EXTINF:-1,Eurosport 1 HD
-http://109.248.236.21:4433/udp/238.1.1.114:1234
-#EXTINF:-1,N/A HD
-http://109.248.236.21:4433/udp/238.1.1.113:1234
-#EXTINF:-1,Eurosport 2
-http://109.248.236.21:4433/udp/238.1.1.115:1234
-#EXTINF:-1,QAZSPORT HD
-http://109.248.236.21:4433/udp/238.1.1.116:1234
-#EXTINF:-1,PERETZ INTERNATIONAL
-http://109.248.236.21:4433/udp/238.1.1.118:1234
-#EXTINF:-1,НАШЕ ВРЕМЯ HD
-http://109.248.236.21:4433/udp/238.1.1.119:1234
-#EXTINF:-1,DOMASHNIY INTERNATIONAL
-http://109.248.236.21:4433/udp/238.1.1.120:1234
-#EXTINF:-1,TIJI
-http://109.248.236.21:4433/udp/238.1.1.121:1234
-#EXTINF:-1,HCT
-http://109.248.236.21:4433/udp/238.1.1.123:1234
-#EXTINF:-1,Rmusic
-http://109.248.236.21:4433/udp/238.1.1.122:1234
-#EXTINF:-1,QAZAQSTAN
-http://109.248.236.21:4433/udp/238.1.1.125:1234
-#EXTINF:-1,travelxp HD
-http://109.248.236.21:4433/udp/238.1.1.124:1234
-#EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.126:1234
-#EXTINF:-1,Pobeda Int
-http://109.248.236.21:4433/udp/238.1.1.128:1234
-#EXTINF:-1,TOCHKA OTRYVA
-http://109.248.236.21:4433/udp/238.1.1.127:1234
-#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
-http://109.248.236.21:4433/udp/238.1.1.129:1234
-#EXTINF:-1,365
-http://109.248.236.21:4433/udp/238.1.1.130:1234
-#EXTINF:-1,АВТО +
-http://109.248.236.21:4433/udp/238.1.1.131:1234
-#EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.132:1234
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://109.248.236.21:4433/udp/238.1.1.133:1234
-#EXTINF:-1,М М
-http://109.248.236.21:4433/udp/238.1.1.135:1234
-#EXTINF:-1,КУХНЯ
-http://109.248.236.21:4433/udp/238.1.1.134:1234
-#EXTINF:-1,МИР СЕРИАЛА
-http://109.248.236.21:4433/udp/238.1.1.136:1234
-#EXTINF:-1,5 INTERNATIONAL
-http://109.248.236.21:4433/udp/238.1.1.137:1234
-#EXTINF:-1,Sci-Fi
-http://109.248.236.21:4433/udp/238.1.1.138:1234
-#EXTINF:-1,Синема
-http://109.248.236.21:4433/udp/238.1.1.140:1234
-#EXTINF:-1,Black
-http://109.248.236.21:4433/udp/238.1.1.139:1234
-#EXTINF:-1,АРЕНА HD
-http://109.248.236.21:4433/udp/238.1.1.142:1234
-#EXTINF:-1,Red
-http://109.248.236.21:4433/udp/238.1.1.141:1234
-#EXTINF:-1,LEAGUE HD
-http://109.248.236.21:4433/udp/238.1.1.143:1234
-#EXTINF:-1,UDAR HD
-http://109.248.236.21:4433/udp/238.1.1.144:1234
-#EXTINF:-1,К 2
-http://109.248.236.21:4433/udp/238.1.1.145:1234
-#EXTINF:-1,LAPAN
-http://109.248.236.21:4433/udp/238.1.1.146:1234
-#EXTINF:-1,Ел Арна
-http://109.248.236.21:4433/udp/238.1.1.147:1234
-#EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.148:1234
-#EXTINF:-1,Almaty
-http://109.248.236.21:4433/udp/238.1.1.149:1234
-#EXTINF:-1,АСТАНА
-http://109.248.236.21:4433/udp/238.1.1.150:1234
-#EXTINF:-1,Седьмой канал
-http://109.248.236.21:4433/udp/238.1.1.151:1234
-#EXTINF:-1,ЕЛЕМ
-http://109.248.236.21:4433/udp/238.1.1.152:1234
-#EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.153:1234
-#EXTINF:-1,КИНОУЖАС
-http://109.248.236.21:4433/udp/238.1.1.154:1234
-#EXTINF:-1,QAZAQSTAN HD
-http://109.248.236.21:4433/udp/238.1.1.156:1234
-#EXTINF:-1,START Air
-http://109.248.236.21:4433/udp/238.1.1.157:1234
-#EXTINF:-1,START World
-http://109.248.236.21:4433/udp/238.1.1.158:1234
-#EXTINF:-1,ТНТ
-http://109.248.236.21:4433/udp/238.1.1.159:1234
-#EXTINF:-1,Setanta Qazaqstan HD
-http://109.248.236.21:4433/udp/238.1.1.161:1234
-#EXTINF:-1,Setanta Sports 1 HD
-http://109.248.236.21:4433/udp/238.1.1.162:1234
-#EXTINF:-1,Setanta 2 HD
-http://109.248.236.21:4433/udp/238.1.1.163:1234
-#EXTINF:-1,ПЕРВЫЙ
-http://109.248.236.21:4433/udp/238.1.1.170:1234
-#EXTINF:-1,Dom kino int
-http://109.248.236.21:4433/udp/238.1.1.171:1234
-#EXTINF:-1,Vremia int
-http://109.248.236.21:4433/udp/238.1.1.173:1234
-#EXTINF:-1,Muzika int
-http://109.248.236.21:4433/udp/238.1.1.172:1234
-#EXTINF:-1,Telecafe int
-http://109.248.236.21:4433/udp/238.1.1.174:1234
-#EXTINF:-1,Karusel int
-http://109.248.236.21:4433/udp/238.1.1.175:1234
-#EXTINF:-1,DK premium SD INT
-http://109.248.236.21:4433/udp/238.1.1.176:1234
-#EXTINF:-1,Pobeda int
-http://109.248.236.21:4433/udp/238.1.1.177:1234
-#EXTINF:-1,O int
-http://109.248.236.21:4433/udp/238.1.1.178:1234
-#EXTINF:-1,Bober int
-http://109.248.236.21:4433/udp/238.1.1.179:1234
-#EXTINF:-1,Poehali int
-http://109.248.236.21:4433/udp/238.1.1.180:1234
-#EXTINF:-1,Lapki LIVE int
-http://109.248.236.21:4433/udp/238.1.1.181:1234
-#EXTINF:-1,РАДИО
-http://109.248.236.21:4433/udp/238.1.1.182:1234
-#EXTINF:-1,РАДИО 2
-http://109.248.236.21:4433/udp/238.1.1.183:1234
-#EXTINF:-1,РАДИО 3
-http://109.248.236.21:4433/udp/238.1.1.184:1234
-#EXTINF:-1,Service01 HD
-http://109.248.236.21:4433/udp/238.1.1.190:1234
-#EXTINF:-1,ТНТ
-http://109.248.236.21:4433/udp/238.1.1.191:1234
-#EXTINF:-1,Friday International SD
-http://109.248.236.21:4433/udp/238.1.1.192:1234
-#EXTINF:-1,N/A
-http://109.248.236.21:4433/udp/238.1.1.200:1234
-#EXTINF:-1,TV ELEM
-http://109.248.236.21:4433/udp/238.1.1.203:1234
-#EXTINF:-1,СПОРТ + LIVE HD
-http://109.248.236.21:4433/udp/238.1.1.204:1234
-#EXTINF:-1,QQfromOTRK
-http://109.248.236.21:4433/udp/238.1.1.206:1234
-#EXTINF:-1,ТВОЁ КИНО
-http://109.248.236.21:4433/udp/238.1.1.207:1234
-#EXTINF:-1,Setanta Sports 1
-http://109.248.236.21:4433/udp/238.1.1.213:1234
-#EXTINF:-1,НОВОЕ ТЕЛЕВИДЕНИЕ
-http://109.248.236.21:4433/udp/238.1.1.220:1234
-#EXTINF:-1,N/A HD
-http://109.248.236.21:4433/udp/238.1.1.221:1234
-#EXTINF:-1,СЕТИ
-http://109.248.236.21:4433/udp/238.1.1.250:1234
-#EXTINF:-1,Калейдоскоп
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.1:2000
-#EXTINF:-1,TNV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.2:2000
-#EXTINF:-1,Trash HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.3:2000
-#EXTINF:-1,Mir
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.5:2000
-#EXTINF:-1,Boec
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.6:2000
-#EXTINF:-1,Gubernia
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.7:2000
-#EXTINF:-1,360 Moskow
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.8:2000
-#EXTINF:-1,Radio Majak
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.9:2000
-#EXTINF:-1,Big asia
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.10:2000
-#EXTINF:-1,Дикая охота HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.11:2000
-#EXTINF:-1,Math Arena
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.12:2000
-#EXTINF:-1,Bridge Tv Hits
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.13:2000
-#EXTINF:-1,KHL HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.14:2000
-#EXTINF:-1,Mult HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.15:2000
-#EXTINF:-1,Radio Vesti
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.16:2000
-#EXTINF:-1,Mosfilm
-http://178.163.4.30:4022/udp/234.0.0.95:2000
-#EXTINF:-1,Muz TV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.96:2000
-#EXTINF:-1,В мире животных HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.97:2000
-#EXTINF:-1,Oxotnik HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.98:2000
-#EXTINF:-1,Moskva Doverie
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.99:2000
-#EXTINF:-1,Суббота
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.100:2000
-#EXTINF:-1,Mama
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.101:2000
-#EXTINF:-1,Любимое кино
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.102:2000
-#EXTINF:-1,Неизвестная Россия HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.106:2000
-#EXTINF:-1,Galaxy
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.111:2000
-#EXTINF:-1,Россия HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.112:2000
-#EXTINF:-1,Extreme Sports Russia HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.113:2000
-#EXTINF:-1,Kinoujas
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.114:2000
-#EXTINF:-1,Zagorod HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.115:2000
-#EXTINF:-1,Izvestiya HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.116:2000
-#EXTINF:-1,Hollywood
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.117:2000
-#EXTINF:-1,Kinokomediya
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.118:2000
-#EXTINF:-1,Киносерия
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.119:2000
-#EXTINF:-1,Music BOX HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.150:2000
-#EXTINF:-1,RBC HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.151:2000
-#EXTINF:-1,Капитан Фантастика HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.152:2000
-#EXTINF:-1,Gulli
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.153:2000
-#EXTINF:-1,Kino tv
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.154:2000
-#EXTINF:-1,Amedia
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.155:2000
-#EXTINF:-1,Amedia Hit HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.169:2000
-#EXTINF:-1,TV3
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.171:2000
-#EXTINF:-1,Perviy HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.172:2000
-#EXTINF:-1,Rus Extream
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.173:2000
-#EXTINF:-1,English Club HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.174:2000
-#EXTINF:-1,Illuzion+
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.175:2000
-#EXTINF:-1,Еврокино
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.176:2000
-#EXTINF:-1,Rodnoe kino
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.177:2000
-#EXTINF:-1,Russkiy illuzion
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.178:2000
-#EXTINF:-1,BRIDGE SHLYAGER
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.179:2000
-#EXTINF:-1,Bridge
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.180:2000
-#EXTINF:-1,ТНТ4
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.181:2000
-#EXTINF:-1,Muzic 1
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.182:2000
-#EXTINF:-1,Europa+
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.183:2000
-#EXTINF:-1,TDC
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.184:2000
-#EXTINF:-1,Sov secretno
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.185:2000
-#EXTINF:-1,TNT
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.186:2000
-#EXTINF:-1,TV 21
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.187:2000
-#EXTINF:-1,Match Strana
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.188:2000
-#EXTINF:-1,Shanson
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.189:2000
-#EXTINF:-1,Nostalgia
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.190:2000
-#EXTINF:-1,Domashniy
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.191:2000
-#EXTINF:-1,TVC
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.192:2000
-#EXTINF:-1,Приключения HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.193:2000
-#EXTINF:-1,Moskva 24
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.194:2000
-#EXTINF:-1,Radio Rossii
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.195:2000
-#EXTINF:-1,Soyz
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.196:2000
-#EXTINF:-1,Football
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.197:2000
-#EXTINF:-1,Disney
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.198:2000
-#EXTINF:-1,Belarus 24
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.199:2000
-#EXTINF:-1,Perviy
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.200:2000
-#EXTINF:-1,Rossia1
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.201:2000
-#EXTINF:-1,Rossia K
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.202:2000
-#EXTINF:-1,Karusel
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.203:2000
-#EXTINF:-1,N/A
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.204:2000
-#EXTINF:-1,5 kanal
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.205:2000
-#EXTINF:-1,NTV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.206:2000
-#EXTINF:-1,Rossiya 24
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.207:2000
-#EXTINF:-1,OTR
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.208:2000
-#EXTINF:-1,Kinopokaz
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.209:2000
-#EXTINF:-1,Multilandia
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.210:2000
-#EXTINF:-1,Boec
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.211:2000
-#EXTINF:-1,EGE
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.212:2000
-#EXTINF:-1,Мужское кино
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.213:2000
-#EXTINF:-1,Zhara
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.214:2000
-#EXTINF:-1,Spas
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.215:2000
-#EXTINF:-1,Зоопарк
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.216:2000
-#EXTINF:-1,Unikum
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.217:2000
-#EXTINF:-1,Che
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.218:2000
-#EXTINF:-1,Dom kino
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.219:2000
-#EXTINF:-1,Usadba
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.220:2000
-#EXTINF:-1,Zdorovoe TV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.221:2000
-#EXTINF:-1,Киномикс
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.222:2000
-#EXTINF:-1,Bridge Classic
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.223:2000
-#EXTINF:-1,Rus roman
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.224:2000
-#EXTINF:-1,Vremya
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.225:2000
-#EXTINF:-1,Hayka 2.0
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.226:2000
-#EXTINF:-1,Avto24
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.227:2000
-#EXTINF:-1,My Planet
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.228:2000
-#EXTINF:-1,U
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.229:2000
-#EXTINF:-1,Ohota i rybalka
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.230:2000
-#EXTINF:-1,ТНТ Music
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.231:2000
-#EXTINF:-1,24 Doc
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.232:2000
-#EXTINF:-1,KVN TV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.233:2000
-#EXTINF:-1,Togliatty24 HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.234:2000
-#EXTINF:-1,Pyatnica
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.235:2000
-#EXTINF:-1,NTV-hit
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.236:2000
-#EXTINF:-1,Zvezda
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.237:2000
-#EXTINF:-1,Otkritiy mir
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.238:2000
-#EXTINF:-1,STS
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.239:2000
-#EXTINF:-1,Ren TV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.240:2000
-#EXTINF:-1,Kuxnya TV
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.241:2000
-#EXTINF:-1,Match HD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.242:2000
-#EXTINF:-1,Malysh
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.243:2000
-#EXTINF:-1,2x2
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.244:2000
-#EXTINF:-1,Drive
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.245:2000
-#EXTINF:-1,Sarafan
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.246:2000
-#EXTINF:-1,24 Tehno
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.247:2000
-#EXTINF:-1,VGostyahUSkazki SD
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.248:2000
-#EXTINF:-1,Telecafe
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.249:2000
-#EXTINF:-1,Rus Bestseller
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.250:2000
-#EXTINF:-1,TPO
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.251:2000
-#EXTINF:-1,TiJi
-#EXTVLCOPT:network-caching=1000
-http://178.163.4.30:4022/udp/234.0.0.252:2000
+http://stream01.vnet.am:80/Kinoseriya/mono.m3u8
+#EXTINF:-1,Extreme Sports [720x576]
+http://stream01.vnet.am:80/KXLTV/index.m3u8
+#EXTINF:-1,Extreme Sports [720x576]
+http://stream01.vnet.am:80/KXLTV/mono.m3u8
+#EXTINF:-1,Мама [720x576]
+http://stream01.vnet.am:80/Mama/mono.m3u8
+#EXTINF:-1,Мужское кино [720x576]
+http://stream01.vnet.am:80/MujskoeKino/index.m3u8
+#EXTINF:-1,Мульт [1920x1080]
+http://stream01.vnet.am:80/Mult/mono.m3u8
+#EXTINF:-1,Муз-ТВ [720x576]
+http://stream01.vnet.am:80/MuzTv/mono.m3u8
+#EXTINF:-1,Наука [1920x1080]
+http://stream01.vnet.am:80/Nauka/mono.m3u8
+#EXTINF:-1,Hollywood HD [1920x1080]
+http://stream01.vnet.am:80/ParamountChannel/mono.m3u8
+#EXTINF:-1,Перец [720x576]
+http://stream01.vnet.am:80/Perec/mono.m3u8
+#EXTINF:-1,Приключения [1920x1080]
+http://stream01.vnet.am:80/PriklyucheniyaHd/mono.m3u8
+#EXTINF:-1,Пятница! International [720x576]
+http://stream01.vnet.am:80/Pyatnica/mono.m3u8
+#EXTINF:-1,Рен ТВ International [720x576]
+http://stream01.vnet.am:80/RenTv/index.m3u8
+#EXTINF:-1,Телекафе [720x576]
+http://stream01.vnet.am:80/Telekafe/mono.m3u8
+#EXTINF:-1,TiJi [720x576]
+http://stream01.vnet.am:80/Tiji/mono.m3u8
+#EXTINF:-1,Авто 24 [720x576]
+http://stream01.vnet.am:80/Zagorodniy/mono.m3u8
+#EXTINF:-1,Карусель International [720x576]
+http://stream02.vnet.am:80/Karusel/mono.m3u8
+#EXTINF:-1,Кинопремьера [1920x1080]
+http://stream02.vnet.am:80/Kinopremera/mono.m3u8
+#EXTINF:-1,National Geographic Wild [720x576]
+http://stream02.vnet.am:80/NatGeoWild/mono.m3u8
+#EXTINF:-1,Otto FM TV [720x576]
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:-1,TVUNO [pe] [1280x720]
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1,Verbena TV [es] [1920x1080]
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1,Tezaur TV [1920x1080]
+http://tezaur.mlbfan.org:80/tezaur/index.m3u8
+#EXTINF:-1,Trace Sport Stars [fr] [1920x1080]
+https://trace-sportstars-samsungnz.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,NRG 91 [gr] [1280x720]
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1,TeleM [720x576]
+https://tv.streambox.ro:443/hls/telem/index.m3u8
+#EXTINF:-1,INTV Australia [au] [1280x720]
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1,Folk Klub TV [au] [1280x720]
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1,rus [720x576]
+http://tvcdn01.oktv.kz:80/tv/mtrk/playlist.m3u8
+#EXTINF:-1,Unbeaten [us] [1920x1080]
+https://unbeaten-tcl.amagi.tv:443/playlist.m3u8
+#EXTINF:-1,Teletrak TV [cl] [1280x720]
+https://unlimited6-cl.dps.live:443/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Детское кино International [768x432]
+http://v2.catcast.tv:80/content/38720/index.m3u8
+#EXTINF:-1,Дніпро TV HD [1920x1080]
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1,Cantina TV [ve] [1280x720]
+https://vcp.myplaytv.com:443/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1,Panavision [ve] [1920x1080]
+https://vcp.myplaytv.com:443/panavision/panavision/playlist.m3u8
+#EXTINF:-1,Canal do Inter [br] [1280x720]
+https://video01.soultv.com.br:443/internacional/internacional/playlist.m3u8
+#EXTINF:-1,HMI PROMZ NEWS [us] [1920x1080]
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1,Mas FM [ar] [1280x720]
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1,Небеса TB7 [640x360]
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/chunklist_w941827998_b946000_slru.m3u8
+#EXTINF:-1,Небеса TB7 [1280x720]
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,Folklorit TV [al] [1920x1080]
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+#EXTINF:-1,On Air Radio [gr] [854x480]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1,On Air Radio [gr] [854x480]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1,Music Reload TV [1920x1080]
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1,Music Reload TV [1920x1080]
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1,Sonus FM [de] [1280x720]
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1,XITE [1280x720]
+http://xite-samsung-de.amagi.tv:80/playlist.m3u8
+#EXTINF:-1,Hot TV [my] [1920x1080]
+https://ythls.armelin.one:443/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
+#EXTINF:-1,RTV Music [bd] [1920x1080]
+https://ythls.armelin.one:443/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF:-1,Canal Cultura Venezuela [ve] [1920x1080]
+https://ythls.armelin.one:443/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:-1,Belmedia TV [ca] [1920x1080]
+https://ythls.armelin.one:443/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8
+#EXTINF:-1,IFM TV [tn] [1280x720]
+https://ythls.armelin.one:443/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
+#EXTINF:-1,Exclusiv TV [ro] [1920x1080]
+https://ythls.armelin.one:443/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
