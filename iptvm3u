@@ -1,817 +1,366 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU GENERAL #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307381&extension=ts&play_token=jPPsyvKyRk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/perviykanal.png" group-title="RUSSIA",RU| ПЕРВЫЙ КАНАЛ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132645&extension=ts&play_token=zt80xMZmnF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/perviykanal.png" group-title="RUSSIA",RU| ПЕРВЫЙ КАНАЛ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132644&extension=ts&play_token=GMWbnQSHsv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CHANNEL-ONE.png" group-title="RUSSIA",RU| CHANNEL ONE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132442&extension=ts&play_token=WvLULrwpEj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ROSSIYA-1.jpg" group-title="RUSSIA",RU| РОССИЯ 1 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132671&extension=ts&play_token=ho3GcN8Cug
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ROSSIYA-1.jpg" group-title="RUSSIA",RU| РОССИЯ 1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132669&extension=ts&play_token=5j4XtR7B3b
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ntvhd.png" group-title="RUSSIA",RU| НТВ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132619&extension=ts&play_token=mr7nClNLAS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HTB.png" group-title="RUSSIA",RU| HTB
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132512&extension=ts&play_token=vrxfEpyEoK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/pobeda.png" group-title="RUSSIA",RU| POBEDA HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1523561&extension=ts&play_token=tQzEWvm76A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PEH-TB.jpg" group-title="RUSSIA",RU| PEH TB
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132642&extension=ts&play_token=OKXGSqk7di
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rentv.png" group-title="RUSSIA",RU| РЕН ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132667&extension=ts&play_token=Wwmk2gqVLn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/perviykanal.png" group-title="RUSSIA",RU| ПЕРВЫЙ КАНАЛ ЕВРОПА
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300913&extension=ts&play_token=EtzRAAZd0M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rtrplaneta.png" group-title="RUSSIA",RU| РТР ПЛАНЕТА
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132677&extension=ts&play_token=aLUVGsDKNO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ntvmir.png" group-title="RUSSIA",RU| НТВ МИР
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132620&extension=ts&play_token=VgYLnTKSDL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHE-TV.png" group-title="RUSSIA",RU| ЧЕ!
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132437&extension=ts&play_token=5laXae4BdX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/5kanal.png" group-title="RUSSIA",RU| 5 КАНАЛ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300700&extension=ts&play_token=96ob0fgZR9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TBK.png" group-title="RUSSIA",RU| TBK HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1416596&extension=ts&play_token=dddOFx34Xz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tnt4.png" group-title="RUSSIA",RU| ТНТ4
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132737&extension=ts&play_token=LsjbVgyKMF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg" group-title="RUSSIA",RU| ТНТ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132733&extension=ts&play_token=A9hL53cYV5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tnthd.png" group-title="RUSSIA",RU| ТНТ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132735&extension=ts&play_token=k2OIBk1XI1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tht.png" group-title="RUSSIA",RU| THT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132727&extension=ts&play_token=z1RIw2pvrr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/051tht4.png" group-title="RUSSIA",RU| THT4
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132728&extension=ts&play_token=PXNCA90g6Q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg" group-title="RUSSIA",RU| TNT +7
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300974&extension=ts&play_token=PmMDEvHvBL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tvci.png" group-title="RUSSIA",RU| TVCI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132755&extension=ts&play_token=r9vgn1WwRN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZVEZDA-TV.png" group-title="RUSSIA",RU| ЗВЕЗДА
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132797&extension=ts&play_token=Qfa1AKhcJ3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tlc.png" group-title="RUSSIA",RU| TLC
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132730&extension=ts&play_token=xFvcPChWiy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tlchd.png" group-title="RUSSIA",RU| TLC HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132731&extension=ts&play_token=PmURLvgoUW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sts.png" group-title="RUSSIA",RU| СТС
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132710&extension=ts&play_token=SgGOWohvXZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STS-TV.png" group-title="RUSSIA",RU| СТС FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148915&extension=ts&play_token=TPErWx4Wb2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sts.png" group-title="RUSSIA",RU| СТС KIDS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132712&extension=ts&play_token=PBwnS9JH3n
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CTC-LOVE.jpg" group-title="RUSSIA",RU| CTC LOVE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132441&extension=ts&play_token=jQ2JZADS4C
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MIR-.jpg" group-title="RUSSIA",RU| МИР HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132578&extension=ts&play_token=20CrnhqChp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MIR-.jpg" group-title="RUSSIA",RU| МИР
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132576&extension=ts&play_token=RTxj7wfMH8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MIR-24.jpg" group-title="RUSSIA",RU| МИР 24
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132579&extension=ts&play_token=KyRcfoIJwy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/pyatnitsainternational.png" group-title="RUSSIA",RU| ПЯТНИЦА!
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132664&extension=ts&play_token=uDZiEdtpzj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/8kanal.png" group-title="RUSSIA",RU| 8 КАНАЛ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132396&extension=ts&play_token=DtdpfUGwX3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sarafan.png" group-title="RUSSIA",RU| SARAFAN
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132697&extension=ts&play_token=EpKTJhplEJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DOMASHNIY.jpg" group-title="RUSSIA",RU| ДОМАШНИЙ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132456&extension=ts&play_token=fV6ackovWj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fineliving.png" group-title="RUSSIA",RU| FINE LIVING
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132488&extension=ts&play_token=fy9i5fNTkQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fashiontelevision.png" group-title="RUSSIA",RU| FASHION TELEVISION
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132494&extension=ts&play_token=XOhZA2Mm5m
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/worldfashionchannel.png" group-title="RUSSIA",RU| WORLD FASHION
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132792&extension=ts&play_token=DyuCsFdYw4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeetv.png" group-title="RUSSIA",RU| ZEE TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132794&extension=ts&play_token=nfYRaVcd43
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/FREEDOM.png" group-title="RUSSIA",RU| FREEDOM TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127233&extension=ts&play_token=g71GcUnP11
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU NEWS #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307380&extension=ts&play_token=O2gcnxu5OT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/euronewsrussia.png" group-title="RUSSIA",RU| EURONEWS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132475&extension=ts&play_token=yaRuN8q9Fp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rossiya24.png" group-title="RUSSIA",RU| РОССИЯ 24
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132687&extension=ts&play_token=P2Gu1iKjjz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MOSKVA-24.jpg" group-title="RUSSIA",RU| МОСКВА 24
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132582&extension=ts&play_token=tsYmaCn0zj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/IZVESTIYA-TV.png" group-title="RUSSIA",RU| ИЗВЕСТИЯ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148916&extension=ts&play_token=BUGKi9d9Ez
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RBK-TV.png" group-title="RUSSIA",RU| РБК ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132666&extension=ts&play_token=B5RXNvAhb1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU MOVIES #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307378&extension=ts&play_token=WtQ5L8SChq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV1000.png" group-title="RUSSIA",RU| TV1000
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132749&extension=ts&play_token=PK8Yur98wx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV1000_Action.png" group-title="RUSSIA",RU| TV1000 ACTION
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132750&extension=ts&play_token=n1CwGbk408
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV1000.png" group-title="RUSSIA",RU| TV1000 COMEDY HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132751&extension=ts&play_token=L6rikkJCAj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv1000.png" group-title="RUSSIA",RU| TV1000 MEGAHIT HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132752&extension=ts&play_token=KgzB5TdhbN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV1000_PREMIUM_HD.png" group-title="RUSSIA",RU| TV1000 PREMIUM HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132753&extension=ts&play_token=k4slAsPvzr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tv1000russiankino.png" group-title="RUSSIA",RU| TV1000 РУССКОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132754&extension=ts&play_token=X3GVBePk2a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV1000.png" group-title="RUSSIA",RU| VIASAT TV1000 RUSSKOEKINO
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132784&extension=ts&play_token=VgYkyviaQr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fox.png" group-title="RUSSIA",RU| FX
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132490&extension=ts&play_token=DCzEPEQYLC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/foxhd.png" group-title="RUSSIA",RU| KINEKO HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132491&extension=ts&play_token=kFfnc1kfws
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/foxlife.png" group-title="RUSSIA",RU| FX LIFE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132492&extension=ts&play_token=Vz4xYCqxKW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SERIAL-.jpg" group-title="RUSSIA",RU| SERIAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132698&extension=ts&play_token=sU5ELYo1be
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KOMEDIJA-TV.jpg" group-title="RUSSIA",RU| КОМЕДИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132532&extension=ts&play_token=of5qFnAipE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NASHE-KRUTOE.png" group-title="RUSSIA",RU| НАШЕ КРУТОЕ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132623&extension=ts&play_token=lwx02af5Wj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NASHE-LIUBIMOJE-KINO.png" group-title="RUSSIA",RU| НАШЕ ЛЮБИМОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132624&extension=ts&play_token=8Gzy9iQBL9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NASHE-NOVOE-KINO.png" group-title="RUSSIA",RU| НАШЕ НОВОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132608&extension=ts&play_token=RqWmoibOOP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NASHE-RODNOEKINO.jpg" group-title="RUSSIA",RU| НАШЕ РОДНОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132625&extension=ts&play_token=Nm2v8DM6YX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NASHE-RODNOEKINO.jpg" group-title="RUSSIA",RU| НАШЕ РОДНОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300891&extension=ts&play_token=LqnlSJS8yY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rtvi.png" group-title="RUSSIA",RU| RTVI НАШЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132680&extension=ts&play_token=kurS44Z6CU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LUBIMOE-KINO.jpg" group-title="RUSSIA",RU| ЛЮБИМОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132553&extension=ts&play_token=TG0dDpogC7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DOM-KINO.png" group-title="RUSSIA",RU| ДОМ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132454&extension=ts&play_token=48FrjBEyqh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/domkinopremium.png" group-title="RUSSIA",RU| ДОМ КИНО ПРЕМИУМ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132457&extension=ts&play_token=5qPGi2nwcn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/domkinopremium.png" group-title="RUSSIA",RU| ДОМ КИНО ПРЕМИУМ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300751&extension=ts&play_token=saTNgEuyfS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DORAMA.png" group-title="RUSSIA",RU| DORAMA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132458&extension=ts&play_token=m0nevKqRik
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/evrokino.png" group-title="RUSSIA",RU| ЕВРОКИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132482&extension=ts&play_token=ezBpwHQpAw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cinema.png" group-title="RUSSIA",RU| СИНЕМА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132438&extension=ts&play_token=ZhAtjwI9yH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOHIT.png" group-title="RUSSIA",RU| КИНОХИТ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132540&extension=ts&play_token=4rOxeVFEg7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOKOMEDIJA-TV.png" group-title="RUSSIA",RU| КИНОКОМЕДИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132539&extension=ts&play_token=51wRQpGjLH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOMEDIA-RUSSIA.png" group-title="RUSSIA",RU| КИНОКОМЕДИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148926&extension=ts&play_token=VvaLquNUsb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOMIX-TV.jpg" group-title="RUSSIA",RU| КИНОМИКС
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132541&extension=ts&play_token=rljhLxQI8n
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOPOKAZ-2-HD.png" group-title="RUSSIA",RU| КИНОПОКАЗ 2 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132543&extension=ts&play_token=b0UUjVkYGQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOPREMIERA-HD.jpg" group-title="RUSSIA",RU| КИНОПРЕМЬЕРА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132529&extension=ts&play_token=ovl354LkwV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOSERIJA.jpg" group-title="RUSSIA",RU| КИНОСЕРИЯ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132530&extension=ts&play_token=YZIgcCWJYQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOSERIJA.jpg" group-title="RUSSIA",RU| КИНОСЕРИЯ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300823&extension=ts&play_token=B0j6EUEqRo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOSVIDANIE.png" group-title="RUSSIA",RU| КИНОСВИДАНИЕ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132531&extension=ts&play_token=5GWf1kk4W7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kinotv.png" group-title="RUSSIA",RU| КИНО ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132528&extension=ts&play_token=o5l9IeBDXL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KTN-TV.jpeg" group-title="RUSSIA",RU| КИНО ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300814&extension=ts&play_token=0Y7r7vPjFI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIJU-SERIAL.png" group-title="RUSSIA",RU| VIJU SERIAL FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148895&extension=ts&play_token=cC6Y2EuBdX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MUZHSKOE-KINO.png" group-title="RUSSIA",RU| МУЖСКОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132604&extension=ts&play_token=15mxmkGz7p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/docuboxhd.png" group-title="RUSSIA",RU| ДОКУБОКС HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132453&extension=ts&play_token=1tewnPCGVR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/OSTROSYUZHETNOYE-KINO-HD.png" group-title="RUSSIA",RU| ОСТРОСЮЖЕТНОЕ КИНО HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132638&extension=ts&play_token=HZSG8WS00m
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIJSKOE-KINO.png" group-title="RUSSIA",RU| ИНДИЙСКОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132521&extension=ts&play_token=Ba4OiR4MyH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSKAYA-KOMEDIA.png" group-title="RUSSIA",RU| РУССКАЯ КОМЕДИЯ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132692&extension=ts&play_token=JcioJfg9Ck
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSKIY-DETEKTIV.jpeg" group-title="RUSSIA",RU| РУССКИЙ ДЕТЕКТИВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132694&extension=ts&play_token=WULjfXQby9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSKIJ-ROMAN.png" group-title="RUSSIA",RU| РУССКИЙ РОМАН
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132686&extension=ts&play_token=7NZ4rPoLq1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FENIKS+KINO.png" group-title="RUSSIA",RU| ФЕНИКС КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132495&extension=ts&play_token=UyZ8Ho0FSx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FENIKS+KINO.png" group-title="RUSSIA",RU| ФЕНИКС КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300783&extension=ts&play_token=6LmiXGQGGA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STRASHNOE-TV.jpg" group-title="RUSSIA",RU| СТРАШНОЕ КИНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132722&extension=ts&play_token=zxO9qXcfMq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SCARRY--MOVIE.png" group-title="RUSSIA",RU| СТРАШНОЕ КИНО HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148936&extension=ts&play_token=O09nMIlACt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KINOUJAS-TV.png" group-title="RUSSIA",RU| КИНОУЖАС
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148925&extension=ts&play_token=g9bUmOwK60
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MORSKOI.png" group-title="RUSSIA",RU| МОРСКОЙ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132581&extension=ts&play_token=M6LRTwhzhO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSKIJ-ILLUZION.png" group-title="RUSSIA",RU| РУССКИЙ ИЛЛЮЗИОН
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132693&extension=ts&play_token=7eOpiNXBon
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sonyentertainmenttvhd.png" group-title="RUSSIA",RU| SET HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132699&extension=ts&play_token=AonYtuuGIS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOKIRUYUSCHEE.jpg" group-title="RUSSIA",RU| ШОКИРУЮЩЕЕ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132718&extension=ts&play_token=TDTqmOFKAP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOT-TV.png" group-title="RUSSIA",RU| SHOT TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132702&extension=ts&play_token=W48ciM9vkK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sonychannel.png" group-title="RUSSIA",RU| SONY CHANNEL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132704&extension=ts&play_token=5tmQkP2cnY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sonyscifi.png" group-title="RUSSIA",RU| SONY SCI-FI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132720&extension=ts&play_token=7x5DE4L8mf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sonyturbo.png" group-title="RUSSIA",RU| SONY TB
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132705&extension=ts&play_token=wJIi3dmlSi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sonyturbo.png" group-title="RUSSIA",RU| SONY TURBO
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132706&extension=ts&play_token=5pjqb23pjE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vipcomedy.png" group-title="RUSSIA",RU| VIP COMEDY HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132785&extension=ts&play_token=wIls8Mmwib
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vipmegahit.png" group-title="RUSSIA",RU| VIP MEGAHIT HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132786&extension=ts&play_token=K7WWB0230V
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vippremiere.png" group-title="RUSSIA",RU| VIP PREMIERE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132787&extension=ts&play_token=hrKVQ2zG4M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIP-SERIAL.jpg" group-title="RUSSIA",RU| VIP SERIAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132788&extension=ts&play_token=iSjpfuz0iw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mirseriala.png" group-title="RUSSIA",RU| МИР СЕРИАЛА
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300854&extension=ts&play_token=X7bKH2lwFt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/paramountcomedy.png" group-title="RUSSIA",RU| PARAMOUNT COMEDY
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132640&extension=ts&play_token=9r8G5I7Mas
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/paramountcomedy.png" group-title="RUSSIA",RU| PARAMOUNT COMEDY HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300905&extension=ts&play_token=CuejLKKvar
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSKIJ-BESTSELLER.png" group-title="RUSSIA",RU| РУССКИЙ БЕСТСЕЛЛЕР
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300933&extension=ts&play_token=RfFzPqo5Op
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HIT-TV.jpeg" group-title="RUSSIA",RU| ХИТ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132510&extension=ts&play_token=Rd0zK0SYXw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/A1.jpg" group-title="RUSSIA",RU| A1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132398&extension=ts&play_token=FXmqzkp2IZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/amc.png" group-title="RUSSIA",RU| AMC
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132402&extension=ts&play_token=8CcvNQIfMd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AMEDIA.png" group-title="RUSSIA",RU| AMEDIA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132403&extension=ts&play_token=TPek6XPew6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/amedia2.png" group-title="RUSSIA",RU| AMEDIA 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132404&extension=ts&play_token=0VZDEeNZRg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/amediahit.png" group-title="RUSSIA",RU| AMEDIA HIT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132405&extension=ts&play_token=hrx6urnYE4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/amediapremium.png" group-title="RUSSIA",RU| AMEDIA PREMIUM HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132408&extension=ts&play_token=yWfddfKqc7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/amediapremium.png" group-title="RUSSIA",RU| AMEDIA PREMIUM
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132407&extension=ts&play_token=J25OHZS8GC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NOSTALGIJA.png" group-title="RUSSIA",RU| НОСТАЛЬГИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132616&extension=ts&play_token=OXMg4mfdXN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BOBER-TV.jpeg" group-title="RUSSIA",RU| БОБЕР ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300721&extension=ts&play_token=Vn0A7QS7Fg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DOCTOR-TV.png" group-title="RUSSIA",RU| ДОКТОР ТВ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300760&extension=ts&play_token=Q0635sFPQ8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kto.png" group-title="RUSSIA",RU| КТО ЕСТЬ КТО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300815&extension=ts&play_token=Smg74rJxvD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bollywoodhd.png" group-title="RUSSIA",RU| BOLLYWOOD HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132423&extension=ts&play_token=CzuaSrPqMD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bollywoodtv.png" group-title="RUSSIA",RU| BOLLYWOOD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132422&extension=ts&play_token=W3MwLZHgx1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-ULTRA.png" group-title="RUSSIA",RU| BCU ULTRA 4K
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148898&extension=ts&play_token=CnkztzKH31
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-VHS.png" group-title="RUSSIA",RU| BCU VHS FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148897&extension=ts&play_token=chBPY8lLDB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-PREMIER-1.png" group-title="RUSSIA",RU| BCU PREMIER 1 FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148906&extension=ts&play_token=C3FEjGL8c2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-PREMIER-1.png" group-title="RUSSIA",RU| BCU PREMIER 2 FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148905&extension=ts&play_token=2wm9wjhmr2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-PREMIER-1.png" group-title="RUSSIA",RU| BCU PREMIER 3 FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148904&extension=ts&play_token=6MwCqPbXUA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-MARVEL.png" group-title="RUSSIA",RU| BCU MARVEL FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148903&extension=ts&play_token=4quoKmjdnz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-ACTION.png" group-title="RUSSIA",RU| BCU ACTION FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148913&extension=ts&play_token=wSYprVvY6q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-CINEMA.png" group-title="RUSSIA",RU| BCU CINEMA FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148912&extension=ts&play_token=yZtcmkdwrR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-CINEMA-PLUS.png" group-title="RUSSIA",RU| BCU CINEMA PLUS FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148911&extension=ts&play_token=pGYj57nh07
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-COMEDY.png" group-title="RUSSIA",RU| BCU COMEDY FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148910&extension=ts&play_token=BE5QSdfioH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-FANTASTIC.png" group-title="RUSSIA",RU| BCU FANTASTIC FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148909&extension=ts&play_token=rygI90aiR3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/BCU-KIDS-PLUS.png" group-title="RUSSIA",RU| BCU KIDS+ FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148908&extension=ts&play_token=lXSxFfv0KX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-KINORATING.png" group-title="RUSSIA",RU| BCU KINORATING FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148907&extension=ts&play_token=nO2nCAThzD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-MULTSERIAL.png" group-title="RUSSIA",RU| BCU MULTSERIAL FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148902&extension=ts&play_token=vTLK8hFa7p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-ROMANTIC.png" group-title="RUSSIA",RU| BCU ROMANTIC FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148901&extension=ts&play_token=YzjmsNPGP5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-RUSSIAN.png" group-title="RUSSIA",RU| BCU RUSSIAN FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148900&extension=ts&play_token=fCobJRhJHO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Paramount-Channel-Poland.png" group-title="RUSSIA",RU| PARAMOUNT CHANNEL HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148932&extension=ts&play_token=yyr8QwAZJM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/paramountchannel.png" group-title="RUSSIA",RU| PARAMOUNT CHANNEL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132639&extension=ts&play_token=u9iHcyNrlL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hbo1hd.png" group-title="RUSSIA",RU| AMEDIA HOME OF HBO 1 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300711&extension=ts&play_token=aO6ugTwc36
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CBS-REALITY.png" group-title="RUSSIA",RU| CBS REALITY
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132433&extension=ts&play_token=yqlsJrcNDd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hbo2hd.png" group-title="RUSSIA",RU| A HOME OF HBO 2 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300702&extension=ts&play_token=o2Ml2Qf34q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV3-.jpg" group-title="RUSSIA",RU| ТВ3
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132746&extension=ts&play_token=ENDjEeiTeJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU SPORTS #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307379&extension=ts&play_token=pMdJm9zIzI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport.png" group-title="RUSSIA",RU| EUROSPORT HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132481&extension=ts&play_token=eCeQNcgMNf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/Eurosport.png" group-title="RUSSIA",RU| EUROSPORT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132477&extension=ts&play_token=m1Nu3m9w2p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport2.png" group-title="RUSSIA",RU| EUROSPORT 2 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132478&extension=ts&play_token=BPZuMTmQ5I
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-TV.png" group-title="RUSSIA",RU| МАТЧ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132569&extension=ts&play_token=zR6cEnCMzk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCHBOEC.jpg" group-title="RUSSIA",RU| МАТЧ БОЕЦ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132570&extension=ts&play_token=CXSBH0cFQp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCHBOEC.jpg" group-title="RUSSIA",RU| МАТЧ БОЕЦ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300846&extension=ts&play_token=sJblgVcbiN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-IGRA.png" group-title="RUSSIA",RU| МАТЧ ИГРА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300843&extension=ts&play_token=ilnivY9l9P
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-2.jpeg" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132562&extension=ts&play_token=QEe43XAWuG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-3.png" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 3
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132564&extension=ts&play_token=s1YlcXGdiT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-IGRA.png" group-title="RUSSIA",RU| МАТЧ ИГРА
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132566&extension=ts&play_token=oN6crZpdvO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-STRANA.png" group-title="RUSSIA",RU| МАТЧ СТРАНА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132595&extension=ts&play_token=k3rFAzb5vD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-ARENA.jpg" group-title="RUSSIA",RU| МАТЧ АРЕНА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132558&extension=ts&play_token=6sSEkle2rC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-ARENA.jpg" group-title="RUSSIA",RU| МАТЧ АРЕНА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132559&extension=ts&play_token=XuVfPU4t8d
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-1.png" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 1 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132561&extension=ts&play_token=q2BuofP9aW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-2.jpeg" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 2 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300839&extension=ts&play_token=a6dQjs4GE8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-2.jpeg" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 2 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132596&extension=ts&play_token=RnFeFXt8dq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-3.png" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 3 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132597&extension=ts&play_token=a5zpmVhGLX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-3.png" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 3 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132565&extension=ts&play_token=eRRTlEUZLv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-TV.png" group-title="RUSSIA",RU| МАТЧ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300847&extension=ts&play_token=Tqy6uk7Zyd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH-NASH-SPORT.png" group-title="RUSSIA",RU| МАТЧ НАШ СПОРТ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132568&extension=ts&play_token=zUnkxPwIxe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-1.png" group-title="RUSSIA",RU| МАТЧ ФУТБОЛ 1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300836&extension=ts&play_token=4rgXFxsset
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSIA-MATCH-PREMIER.jpeg" group-title="RUSSIA",RU| МАТЧ ПРЕМЬЕРА FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148938&extension=ts&play_token=5yh4soSdQ5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSIA-MATCH-PREMIER.jpeg" group-title="RUSSIA",RU| МАТЧ ПРЕМЬЕРА
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148922&extension=ts&play_token=jY3QB7Kl1A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSIA-MATCH-PREMIER.jpeg" group-title="RUSSIA",RU| МАТЧ ПРЕМЬЕРА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=459676&extension=ts&play_token=FA88oOAPZc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/m1global.png" group-title="RUSSIA",RU| M1 GLOBAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300832&extension=ts&play_token=b8UYqjU5M9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/viasatsport.png" group-title="RUSSIA",RU| VIASAT SPORT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132781&extension=ts&play_token=Z679Gs95cG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-SPORT-HD.jpeg" group-title="RUSSIA",RU| VIASAT SPORT HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132782&extension=ts&play_token=E8rVZqniX2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIJU-SPORT.png" group-title="RUSSIA",RU| VIJU SPORT HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148896&extension=ts&play_token=92WGZlO4lf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KHL-.jpg" group-title="RUSSIA",RU| КХЛ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132526&extension=ts&play_token=OJpLTwWcLf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KHL-.jpg" group-title="RUSSIA",RU| КХЛ TB HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132527&extension=ts&play_token=WH2R5euDsq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BOX-TV.png" group-title="RUSSIA",RU| БОКС ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132430&extension=ts&play_token=CZ77VJDhGy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BOKS-TV.jpeg" group-title="RUSSIA",RU| БОКС ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132421&extension=ts&play_token=fwyzXAj4vj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ABTO-24.jpg" group-title="RUSSIA",RU| ABTO24
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132400&extension=ts&play_token=keJ31O2Hat
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AUTO-24.png" group-title="RUSSIA",RU| AUTO 24
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132415&extension=ts&play_token=fh5ed2uVBp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AUTO-PLUS.png" group-title="RUSSIA",RU| AUTO PLUS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132416&extension=ts&play_token=QNij5cxEXe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/motorsporttv.png" group-title="RUSSIA",RU| MOTORSPORT TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132601&extension=ts&play_token=U5YGx6JObo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EXTREME-SPORTS.jpg" group-title="RUSSIA",RU| EXTREME SPORTS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132483&extension=ts&play_token=I1U7kwzSn9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSKIY-EXTRIM-HD.jpg" group-title="RUSSIA",RU| RUSSKIY EXTRIM HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132695&extension=ts&play_token=24wefuDoFS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/START-TV--.png" group-title="RUSSIA",RU| START TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=841862&extension=ts&play_token=t3vctZZqpA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/START-TV-RUSSIA.png" group-title="RUSSIA",RU| START TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148937&extension=ts&play_token=ySsiIrfz0S
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TELEKANAL-FUTBOL.jpg" group-title="RUSSIA",RU| TELEKANAL FUTBOL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132726&extension=ts&play_token=rxVhUUT8Dd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/setantasport.png" group-title="RUSSIA",RU| SETANTA SPORT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132716&extension=ts&play_token=A95Xrn2ssX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SETANTA-SPORT-.png" group-title="RUSSIA",RU| SETANTA SPORT 1 FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1040314&extension=ts&play_token=cRUuoJaQxu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/setantasport.png" group-title="RUSSIA",RU| SETANTA SPORT 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132717&extension=ts&play_token=4yePPWxA37
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SETANTA-SPORT-2.png" group-title="RUSSIA",RU| SETANTA SPORT 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1040315&extension=ts&play_token=wST6UIgexV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KONNIY-MIR-HD.jpg" group-title="RUSSIA",RU| КОННЫЙ МИР HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132533&extension=ts&play_token=N773haO5ij
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MIR-PREMIUM.png" group-title="RUSSIA",RU| МИР БАСКЕТБОЛА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148923&extension=ts&play_token=p4FcjlciIy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU KIDS #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307377&extension=ts&play_token=OrPX7atcLt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DETSKIJ.png" group-title="RUSSIA",RU| ДЕТСКИЙ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132445&extension=ts&play_token=xkQ2nuCOq7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DETSKIY-MIR.jpeg" group-title="RUSSIA",RU| ДЕТСКИЙ МИР
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132446&extension=ts&play_token=4nXJpMvE0R
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KARUSEL-.png" group-title="RUSSIA",RU| КАРУСЕЛЬ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132538&extension=ts&play_token=Za8XDy3svP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mult.png" group-title="RUSSIA",RU| МУЛЬТ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132588&extension=ts&play_token=M4Ld28mv0j
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MULTIMANIA.png" group-title="RUSSIA",RU| МУЛЬТИМАНИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132590&extension=ts&play_token=3J3mblq39l
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MULTIMANIA.png" group-title="RUSSIA",RU| МУЛЬТИМАНИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300875&extension=ts&play_token=jZV7f5Izmj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MULT-I-MUZIKA.png" group-title="RUSSIA",RU| МУЛЬТ И МУЗЫКА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132589&extension=ts&play_token=nCmBT9A5Qs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GOSTIAH-U-SKAZKI.jpg" group-title="RUSSIA",RU| В ГОСТЯХ У СКАЗКИ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132500&extension=ts&play_token=KnvChcG5Mw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KAPITAN-FANTASTIKA.jpg" group-title="RUSSIA",RU| КАПИТАН ФАНТАСТИКА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132537&extension=ts&play_token=LeE69I3AZu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nickelodeon.png" group-title="RUSSIA",RU| NICKELODEON
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132614&extension=ts&play_token=wIjdZM3B80
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nickelodeonhd.png" group-title="RUSSIA",RU| NICKELODEON HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132615&extension=ts&play_token=ipcd2iHYyx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nickjunior.png" group-title="RUSSIA",RU| NICK JUNIOR
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132629&extension=ts&play_token=QfX4FlDDIr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cartoonnetwork.png" group-title="RUSSIA",RU| CARTOON NETWORK
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132432&extension=ts&play_token=QWbU6qLnsL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/boomerangtv.png" group-title="RUSSIA",RU| BOOMERANG TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132429&extension=ts&play_token=ddULEBluna
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/jimjam.png" group-title="RUSSIA",RU| JIM JAM ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132524&extension=ts&play_token=Wkr0gsTilr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/jimjam.png" group-title="RUSSIA",RU| JIM JAM ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132525&extension=ts&play_token=AnBIv5sZWj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STRANA.jpg" group-title="RUSSIA",RU| СТРАНА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132721&extension=ts&play_token=h5Z0Ddmmbj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/gulli.png" group-title="RUSSIA",RU| GULLI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132502&extension=ts&play_token=nSAtESuMHg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/2X2.jpg" group-title="RUSSIA",RU| 2X2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132390&extension=ts&play_token=wiX5oiRnBR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ANI-TV.jpeg" group-title="RUSSIA",RU| ANI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132409&extension=ts&play_token=CC0WPUWHic
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/otv.png" group-title="RUSSIA",RU| O!
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132631&extension=ts&play_token=vdCxptQpwd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CTC-KIDS.png" group-title="RUSSIA",RU| CTC KIDS HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148919&extension=ts&play_token=W4vOz90U2i
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RIJIY-TV.png" group-title="RUSSIA",RU| РЫЖИЙ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148918&extension=ts&play_token=RWDdiquhDC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UNIKOM-TV.png" group-title="RUSSIA",RU| УНИКУМ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148917&extension=ts&play_token=geF4mJxP8p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/disneychannel.png" group-title="RUSSIA",RU| DISNEY CHANNEL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132466&extension=ts&play_token=HC6rk3uEJR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU DOCUMENTAIRE #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307386&extension=ts&play_token=qgPLfiEmPt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/animalplanet.png" group-title="RUSSIA",RU| ANIMAL PLANET
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132414&extension=ts&play_token=LUptAfOSR5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/animalplanethdrussian.png" group-title="RUSSIA",RU| ANIMAL PLANET HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132410&extension=ts&play_token=6etByPnng4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-KINGDOM.png" group-title="RUSSIA",RU| ANIMAL FAMILY HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132413&extension=ts&play_token=UEx9OpIgew
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverychannel.png" group-title="RUSSIA",RU| DISCOVERY CHANNEL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132463&extension=ts&play_token=0MPjdi8RNE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverychannelhd.png" group-title="RUSSIA",RU| DISCOVERY CHANNEL HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132464&extension=ts&play_token=82b8kN1wr2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoveryscience.png" group-title="RUSSIA",RU| DISCOVERY SCIENCE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132465&extension=ts&play_token=9rD2gXI51A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoverysciencehd.png" group-title="RUSSIA",RU| DISCOVERY SCIENCE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132451&extension=ts&play_token=EdOH2BJ5zh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoveryshowcasehd.png" group-title="RUSSIA",RU| DISCOVERY SHOWCASE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132452&extension=ts&play_token=1EtdnTM4oS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-DTX.png" group-title="RUSSIA",RU| DISCOVERY DTX
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300743&extension=ts&play_token=3UBYc70uFK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-ID-XTRA-HD.png" group-title="RUSSIA",RU| DISCOVERY ID XTRA HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300744&extension=ts&play_token=r96BGFaQX7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" group-title="RUSSIA",RU| ID INVESTIGATION DISCOVERY
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132516&extension=ts&play_token=IxfpjqHygd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DIKAYA-OKHOTA-HD.png" group-title="RUSSIA",RU| ДИКАЯ ОХОТА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132461&extension=ts&play_token=b1f2aNwBGB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DIKAYA-RYBALKA-HD.png" group-title="RUSSIA",RU| ДИКАЯ РЫБАЛКА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132462&extension=ts&play_token=puM9Pc04dr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/OHOTA-I-RYBALKA.png" group-title="RUSSIA",RU| ОХОТА И РЫБАЛКА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132636&extension=ts&play_token=HreqjVyXrn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/OHOTNIK-I-RYBOLOV-HD.png" group-title="RUSSIA",RU| ОХОТНИК И РЫБОЛОВ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132637&extension=ts&play_token=dP1nSl3MIt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EDA-TV.png" group-title="RUSSIA",RU| ЕДА HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132479&extension=ts&play_token=7QCZgMkf6G
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLAZAMI-TURISTA.png" group-title="RUSSIA",RU| ГЛАЗАМИ ТУРИСТА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132504&extension=ts&play_token=kYImYxqE3N
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GLAZELLA-.jpeg" group-title="RUSSIA",RU| GLAZELLA HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132505&extension=ts&play_token=ltQZJ3aJYL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/history.png" group-title="RUSSIA",RU| ИСТОРИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132513&extension=ts&play_token=0FYE2SV7ly
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg" group-title="RUSSIA",RU| ИСТОРИЯ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132509&extension=ts&play_token=gRdHbnjPGP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/H2--HD.jpg" group-title="RUSSIA",RU| ИСТОРИЯ 2 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=898806&extension=ts&play_token=TEqoyJZP0g
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hollywood.png" group-title="RUSSIA",RU| HOLLYWOOD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132514&extension=ts&play_token=Z0PPbO6DGO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/iconcerts.png" group-title="RUSSIA",RU| ICONCERTS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132804&extension=ts&play_token=9INO0wr9kY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/iconcerts.png" group-title="RUSSIA",RU| ICONCERTS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=301029&extension=ts&play_token=VSTKOThime
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/idxtra.png" group-title="RUSSIA",RU| ID XTRA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132517&extension=ts&play_token=aiJiL2xHVE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ILLUZION-PLUS.jpg" group-title="RUSSIA",RU| ИЛЛЮЗИОН ПЛЮС ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132518&extension=ts&play_token=474w21dUO5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/JIVI-.jpeg" group-title="RUSSIA",RU| ЖИВИ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132523&extension=ts&play_token=MPuIGihdtU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KRIK-TV.png" group-title="RUSSIA",RU| КРИК ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132546&extension=ts&play_token=oJeS7rXqAa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KUCHNIA-TV.jpg" group-title="RUSSIA",RU| КУХНЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132548&extension=ts&play_token=yrRxTJlQML
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KUHNYA-TV.png" group-title="RUSSIA",RU| КУХНЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132549&extension=ts&play_token=tsqtNKbiCa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowild.png" group-title="RUSSIA",RU| NAT GEO WILD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132610&extension=ts&play_token=xvHXVeWVH5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowildhd.png" group-title="RUSSIA",RU| NAT GEO WILD HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132626&extension=ts&play_token=4FeiFBo7lQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="RUSSIA",RU| NATIONAL GEOGRAPHIC
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132611&extension=ts&play_token=0H2RJx9OSD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="RUSSIA",RU| NATIONAL GEOGRAPHIC HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132627&extension=ts&play_token=YDXCQ0HUXt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-NATURE-.jpg" group-title="RUSSIA",RU| VIASAT NATURE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132779&extension=ts&play_token=auYdo4K84r
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-NATURE-HD.png" group-title="RUSSIA",RU| VIASAT NATURE/HISTORY HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148928&extension=ts&play_token=w9oTqlezUp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NAUKA-2-0.png" group-title="RUSSIA",RU| НАУКА 2.0
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132628&extension=ts&play_token=0B9udKYbL1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nst.png" group-title="RUSSIA",RU| НСТ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132618&extension=ts&play_token=jLm7Y0pS3v
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ORUZHIE.jpg" group-title="RUSSIA",RU| ОРУЖИЕ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132633&extension=ts&play_token=1oi2cSHb2J
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRAVO.png" group-title="RUSSIA",RU| ПРАВО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132650&extension=ts&play_token=HyUiEFNhd0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/travel.png" group-title="RUSSIA",RU| TRAVEL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132745&extension=ts&play_token=HWuk27aqbc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/travelhd.png" group-title="RUSSIA",RU| TRAVEL HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132762&extension=ts&play_token=6sDuTTs681
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-+-ADVENTURE.jpeg" group-title="RUSSIA",RU| TRAVEL ADVENTURE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132761&extension=ts&play_token=b8obdIxfrs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-+-ADVENTURE.jpeg" group-title="RUSSIA",RU| TRAVEL+ADVENTURE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132763&extension=ts&play_token=1mJt3bo8ex
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZAGORODNAYA-ZHIZN.jpeg" group-title="RUSSIA",RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132798&extension=ts&play_token=t9mGKhcOyC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZAGORODNAYA-ZHIZN.jpeg" group-title="RUSSIA",RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132793&extension=ts&play_token=KkR1GLISVf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZAGORODNIY.png" group-title="RUSSIA",RU| ЗАГОРОДНАЯ ЖИЗНЬ HD INT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=301025&extension=ts&play_token=P6ziuyK8sn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZAGORODNIY.png" group-title="RUSSIA",RU| ZAGORODNIY
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=301024&extension=ts&play_token=bwKW3g7XLl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER.png" group-title="RUSSIA",RU| VIASAT EXPLORE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132772&extension=ts&play_token=HaMmJTx24Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-EXPLORER-HD.jpg" group-title="RUSSIA",RU| VIASAT EXPLORE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=301004&extension=ts&play_token=ho5LV6HtCx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-HISTORY.jpeg" group-title="RUSSIA",RU| VIASAT HISTORY
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132775&extension=ts&play_token=e1LXxuAZBc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIASAT-HISTORY-HD.jpg" group-title="RUSSIA",RU| VIASAT HISTORY HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132776&extension=ts&play_token=7bNOF9B7Db
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZOOPARK.png" group-title="RUSSIA",RU| ЗООПАРК ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132796&extension=ts&play_token=p0WDRSyLXd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24-TECHNO-TV.png" group-title="RUSSIA",RU| 24 TECHNO
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300696&extension=ts&play_token=QSSdd79WqL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DOMASHNIY.jpg" group-title="RUSSIA",RU| ДОМАШНИЕ ЖИВОТНЫЕ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300749&extension=ts&play_token=goHzyZEgF3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/foodnetwork.png" group-title="RUSSIA",RU| FOOD NETWORK
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300777&extension=ts&play_token=IJsRZAcCqf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOOD-NETWORK-NP.png" group-title="RUSSIA",RU| FOOD NETWORK
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148934&extension=ts&play_token=hCopAQC4Z2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LUXURI-WORLD.jpg" group-title="RUSSIA",RU| LUXURI WORLD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300831&extension=ts&play_token=WoZoLfqdmF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/perviykanal.png" group-title="RUSSIA",RU| ПЕРВЫЙ АВТОМОБИЛЬНЫЙ УКР
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300912&extension=ts&play_token=I5mGxHKvVC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PERVIY-OBRAZOVATELNIY.jpg" group-title="RUSSIA",RU| ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300909&extension=ts&play_token=dMX29fw62z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RETRO-TV.png" group-title="RUSSIA",RU| RETRO TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300920&extension=ts&play_token=R4Ce5IZVSP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPER!.png" group-title="RUSSIA",RU| SUPER
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300958&extension=ts&play_token=ewbzyGrKg7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USADBA-TV.png" group-title="RUSSIA",RU| USADBA TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=301000&extension=ts&play_token=ColOmS8xtI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DIALOGI-O-RYBALKE.jpeg" group-title="RUSSIA",RU| ДИАЛОГИ О РЫБАЛКЕ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148935&extension=ts&play_token=CZlOTt7P66
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/THE-MUSEUM-CHANNEL.png" group-title="RUSSIA",RU| MUSEUM FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148933&extension=ts&play_token=kCyN9dxk8Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VOPROSI-I-OTVETI.png" group-title="RUSSIA",RU| ВОПРОСЫ И ОТВЕТЫ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=301016&extension=ts&play_token=HQGiZmf82d
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MOYA-PLANETA.png" group-title="RUSSIA",RU| МОЯ ПЛАНЕТА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148914&extension=ts&play_token=tAMrHE8Ibg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU MUSIC #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307376&extension=ts&play_token=VX44LzAAcC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/1-HD.png" group-title="RUSSIA",RU| 1 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132387&extension=ts&play_token=NvChlhGVrn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MUZ-.png" group-title="RUSSIA",RU| MUZ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132593&extension=ts&play_token=2qZtloOnKv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rutv.png" group-title="RUSSIA",RU| RU TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132681&extension=ts&play_token=5C2shopvC4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TNT-MUSIC.jpeg" group-title="RUSSIA",RU| ТНТ МУЗЫКА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132736&extension=ts&play_token=lFkFes4M9z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSIAN-MUSICBOX.png" group-title="RUSSIA",RU| RUSSIAN MUSICBOX
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132684&extension=ts&play_token=VIicHHQmFb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSIAN-MUSICBOX.png" group-title="RUSSIA",RU| RUSSIAN MUSICBOX HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148931&extension=ts&play_token=d0nmoqS6Hk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPA-PLUS-TV.jpg" group-title="RUSSIA",RU| EUROPA PLUS TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132476&extension=ts&play_token=fgT81GaUzh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FIRST-MUSIC-CHANNEL.png" group-title="RUSSIA",RU| ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132498&extension=ts&play_token=2aiSb85Y6k
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BRIDGE-TV.png" group-title="RUSSIA",RU| BRIDGE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132427&extension=ts&play_token=fgZgFv5jMB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BRIDGE-TV.png" group-title="RUSSIA",RU| BRIDGE TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132425&extension=ts&play_token=5s03GhSL4G
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BRIDGE-TV-HITS.png" group-title="RUSSIA",RU| BRIDGE TV RUSSKIY HIT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132431&extension=ts&play_token=HgGwcyhvIh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mezzo.png" group-title="RUSSIA",RU| MEZZO
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132573&extension=ts&play_token=OVDhwv37Xy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtv.png" group-title="RUSSIA",RU| MTV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132583&extension=ts&play_token=jppeJ8cUgj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtvhits.png" group-title="RUSSIA",RU| MTV HITS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132585&extension=ts&play_token=b6VJ2bLbFg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtvlivehd.png" group-title="RUSSIA",RU| MTV LIVE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132586&extension=ts&play_token=gOlVOVdBVy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/myzentv.png" group-title="RUSSIA",RU| MYZEN TV HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300877&extension=ts&play_token=PIgqH0vRmN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mcmtop.png" group-title="RUSSIA",RU| MCM TOP
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132572&extension=ts&play_token=ei7hs6GbD4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/englishclub.png" group-title="RUSSIA",RU| ENGLISH CLUB
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300766&extension=ts&play_token=0N7o7DZ2Wv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LA-MINOR.png" group-title="RUSSIA",RU| LA MINOR
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132551&extension=ts&play_token=Wvls40wa30
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MUZIKA-PERVOGO.jpg" group-title="RUSSIA",RU| МУЗЫКА ПЕРВОГО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132594&extension=ts&play_token=jpf4VfnwcY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DANGE-TV.jpg" group-title="RUSSIA",RU| DANGE TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132443&extension=ts&play_token=reDZ1MfqSe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/shansontv.png" group-title="RUSSIA",RU| ШАНСОН ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132700&extension=ts&play_token=cbNh52GQkX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rutv.png" group-title="RUSSIA",RU| RUTV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148930&extension=ts&play_token=AFlWbihhzZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/JARA-TV.png" group-title="RUSSIA",RU| ЖАРА ТВ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148927&extension=ts&play_token=XvQPGSI6bm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSSIA.png" group-title="RUSSIA",##### RU LOCALS #####
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1307375&extension=ts&play_token=n4XF4uWlVd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SAINT-PETERBURG.jpg" group-title="RUSSIA",RU| САНКТ ПЕТЕРБУРГ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132696&extension=ts&play_token=wcdmVAIeX9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SOVERSHENNO-SEKRETNO.png" group-title="RUSSIA",RU| СОВЕРШЕННО СЕКРЕТНО
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132707&extension=ts&play_token=bT7osPQOG0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV-XXI.png" group-title="RUSSIA",RU| TV XXI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132748&extension=ts&play_token=EgY0zo9oYX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rtvi.png" group-title="RUSSIA",RU| RTVI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300928&extension=ts&play_token=wYwFH63eNY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sts.png" group-title="RUSSIA",RU| СТС BALTIC
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300954&extension=ts&play_token=1nDWUxg1gK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/currenttime.png" group-title="RUSSIA",RU| CURRENTTIME HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132803&extension=ts&play_token=ylxUjWXgjH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUSSIA-К.jpg" group-title="RUSSIA",RU| РОССИЯ К
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132689&extension=ts&play_token=ivm4EkT1C8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VREMYA.jpg" group-title="RUSSIA",RU| ВРЕМЯ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132791&extension=ts&play_token=3mNUlddqo1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/365-DNEI.png" group-title="RUSSIA",RU| 365 ДНЕЙ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132392&extension=ts&play_token=QpyvaIpn94
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RTG-TV.jpg" group-title="RUSSIA",RU| RTG HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132675&extension=ts&play_token=itPgZke8hn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RTG-TV.jpg" group-title="RUSSIA",RU| RTG TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132676&extension=ts&play_token=58VT8J0xoO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rthd.png" group-title="RUSSIA",RU| RT HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132673&extension=ts&play_token=FOKexJnuYn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rtdoc.png" group-title="RUSSIA",RU| RT DOC
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132672&extension=ts&play_token=mh7TArrqht
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dozhdtv.png" group-title="RUSSIA",RU| ДОЖДЬ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132470&extension=ts&play_token=Ag1d7PwWkO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LIFE-HD.png" group-title="RUSSIA",RU| LIFE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132552&extension=ts&play_token=eDltc9uyI7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MAMA-TV.png" group-title="RUSSIA",RU| МАМА ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132557&extension=ts&play_token=eHyJTAqugG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/KVN-TV.jpeg" group-title="RUSSIA",RU| КВН ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132536&extension=ts&play_token=11qld9MhBV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/davincilearning.png" group-title="RUSSIA",RU| DAVINCI LEARNING
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132460&extension=ts&play_token=cIablf6Ep9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EGOIST-TV.jpg" group-title="RUSSIA",RU| ЭГОИСТ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132472&extension=ts&play_token=yRODPlM1Gr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/etv.png" group-title="RUSSIA",RU| E TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132471&extension=ts&play_token=DkJuQR8dsi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUREKA-TV.jpeg" group-title="RUSSIA",RU| EUREKA HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132480&extension=ts&play_token=WefJKf6tbj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIKLYUCHENIYA-HD.png" group-title="RUSSIA",RU| ПРИКЛЮЧЕНИЯ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132661&extension=ts&play_token=3F06FK9pI6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRODVIJENIE.jpg" group-title="RUSSIA",RU| ПРОДВИЖЕНИЕ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132651&extension=ts&play_token=CHrlXd3ogH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PSIHOLOGIA-21.png" group-title="RUSSIA",RU| ПСИХОЛОГИЯ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132662&extension=ts&play_token=eaBtMpimlq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PYATIT-KANAL.jpeg" group-title="RUSSIA",RU| PYATIT KANAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132663&extension=ts&play_token=ieCPDgtLPn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TELEKAFE.jpeg" group-title="RUSSIA",RU| ТЕЛЕКАФЕ ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132759&extension=ts&play_token=aLIxMx9jnY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STYLE-TV.jpg" group-title="RUSSIA",RU| STYLE
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132714&extension=ts&play_token=6WmO9KFokZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tiji.png" group-title="RUSSIA",RU| TIJI
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132729&extension=ts&play_token=oYfwZiRE35
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TLUM-HD.png" group-title="RUSSIA",RU| TLUM HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132732&extension=ts&play_token=GVuo6MWVu2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/utv.jpg" group-title="RUSSIA",RU| U TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132765&extension=ts&play_token=dgWvTQIkVU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/utv.jpg" group-title="RUSSIA",RU| U
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=132764&extension=ts&play_token=Z4dCd47ZFP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DOJD-TV.jpg" group-title="RUSSIA",RU| ДОЖДЬ HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300761&extension=ts&play_token=LQesOXVSyn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DOMASHNIY.jpg" group-title="RUSSIA",RU| ДОМАШНИЙ +7
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=300762&extension=ts&play_token=GLMPT7slig
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TV5--MONDE.png" group-title="RUSSIA",RU| TV5 MONDE HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148929&extension=ts&play_token=5I9RQvgeoM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PYATNICA!-INTERNATIONAL.png" group-title="RUSSIA",RU| ПЯТНИЦА! INTERNATIONAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148921&extension=ts&play_token=K6TzNERzQW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAS-TV.png" group-title="RUSSIA",RU| СПАС ТВ
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1148920&extension=ts&play_token=63al6ZcUxJ
-#EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU| GROZNY TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1298047&extension=ts&play_token=KphcsAj1x2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/8-CHANNEL.png" group-title="BY| BELARUS",BY| 8 CHANNEL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588634&extension=ts&play_token=S8ppbeCLdp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELROS.png" group-title="BY| BELARUS",BY| BELROS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588633&extension=ts&play_token=PD2C9S74TC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CTV.png" group-title="BY| BELARUS",BY| CTV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588632&extension=ts&play_token=1X6svWiMaK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELROS.png" group-title="BY| BELARUS",BY| BELROS TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588631&extension=ts&play_token=AZPVgLrtQ6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NASHE.png" group-title="BY| BELARUS",BY| NASHE TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588630&extension=ts&play_token=ZWPqdooRJ0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARUS-1.png" group-title="BY| BELARUS",BY| BELARUS 1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588629&extension=ts&play_token=5GaFRhPJaJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARU-2.png" group-title="BY| BELARUS",BY| BELARUS 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588628&extension=ts&play_token=ZvCE6u3Hll
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARUS-3.png" group-title="BY| BELARUS",BY| BELARUS 3
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588627&extension=ts&play_token=Sfbax9mhzF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARUS-4.png" group-title="BY| BELARUS",BY| BELARUS 4
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588626&extension=ts&play_token=VHu5pFkhI4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARUS-5.png" group-title="BY| BELARUS",BY| BELARUS 5
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588625&extension=ts&play_token=vxe3A4k9eQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARUS-24.png" group-title="BY| BELARUS",BY| BELARUS 24
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588624&extension=ts&play_token=jnvNFj4p8W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TV3-BELARUS.png" group-title="BY| BELARUS",BY| TV3 BELARUS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588623&extension=ts&play_token=PynnEtSK7r
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NTV-BELARUS.png" group-title="BY| BELARUS",BY| NTV BELARUS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588622&extension=ts&play_token=GnUaIzyVnS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BELARUS-24.png" group-title="BY| BELARUS",BY| BELARUS 24 HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1588621&extension=ts&play_token=jpeHYox26J
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/1plus1.png" group-title="UKRAINE",UA| 1PLUS1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127167&extension=ts&play_token=py9eIt1qKz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/1plus1international.png" group-title="UKRAINE",UA| 1PLUS1 INTERNATIONAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127168&extension=ts&play_token=79aSyNiDPa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/2-2.png" group-title="UKRAINE",UA| 2 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127169&extension=ts&play_token=bqbOpe8xaP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/2plus2.png" group-title="UKRAINE",UA| 2PLUS2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127171&extension=ts&play_token=6F1ZXO6F55
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/5kanal.png" group-title="UKRAINE",UA| 5KANAL UKRAINA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127177&extension=ts&play_token=IZ6DG5XmXN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/atr.png" group-title="UKRAINE",UA| ATR HD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127179&extension=ts&play_token=BSscDlL0WV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/enterfilm.png" group-title="UKRAINE",UA| ENTERFILM
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127187&extension=ts&play_token=HMGWHsRqKC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/espresotv.png" group-title="UKRAINE",UA| ESPRESOTV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127189&extension=ts&play_token=CWprmpwHOt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ictv.png" group-title="UKRAINE",UA| ICTV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127199&extension=ts&play_token=tzlMFvJDFr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPORT-1.png" group-title="UKRAINE",UA| SPORT 1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=841689&extension=ts&play_token=8HIwtx3GeF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPORT-2.png" group-title="UKRAINE",UA| SPORT 2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=841688&extension=ts&play_token=5tVmeeCqIZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SETANTA-SPORT.png" group-title="UKRAINE",UA| SETANTA SPORT FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1040328&extension=ts&play_token=BxkPj9UgNL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SETANTA-SPORT-PLUS.png" group-title="UKRAINE",UA| SETANTA SPORT PLUS FHD
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=1040327&extension=ts&play_token=mIzFxYEjBj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/inter.png" group-title="UKRAINE",UA| INTER
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127201&extension=ts&play_token=ff1AnqxLVA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/k1.png" group-title="UKRAINE",UA| K1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127203&extension=ts&play_token=ftp3gOzsGF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/k2.png" group-title="UKRAINE",UA| K2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127204&extension=ts&play_token=hlfXLQ3QzO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kvartaltv.png" group-title="UKRAINE",UA| KVARTAL TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127207&extension=ts&play_token=btjVWpeBwK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/m1.png" group-title="UKRAINE",UA| M1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127209&extension=ts&play_token=wcWy2wF2AI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/m2.png" group-title="UKRAINE",UA| M2
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127210&extension=ts&play_token=9WGhu8ALKn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/maxxitv.png" group-title="UKRAINE",UA| MAXXI TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127212&extension=ts&play_token=ogwhjh6naw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mega.png" group-title="UKRAINE",UA| MEGA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127213&extension=ts&play_token=Y0qdx9dA7w
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MILADY-TELEVISION.png" group-title="UKRAINE",UA| MILADY TELEVISION
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127214&extension=ts&play_token=ZbKRMKRUEe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/newsnetworkukraine.png" group-title="UKRAINE",UA| NEWS NETWORK
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127225&extension=ts&play_token=sR9RtcODBc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nikikids.png" group-title="UKRAINE",UA| NIKI KIDS
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127221&extension=ts&play_token=WIOSZJyTSL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nlotv.png" group-title="UKRAINE",UA| NLOTV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127222&extension=ts&play_token=IxXaw6fMTI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/novychannel.png" group-title="UKRAINE",UA| NOVY KANAL
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127223&extension=ts&play_token=UxkpjU1eJg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/rada.png" group-title="UKRAINE",UA| RADA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127236&extension=ts&play_token=Gc7GbfzRYH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sonceua.png" group-title="UKRAINE",UA| SONCE TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127238&extension=ts&play_token=3KBJ47j0qs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/stb.png" group-title="UKRAINE",UA| STB
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127239&extension=ts&play_token=aAZAEQoTBj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/tet.png" group-title="UKRAINE",UA| TET
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127244&extension=ts&play_token=xOmx4a7QSK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TYSA-1.jpg" group-title="UKRAINE",UA| TYSA 1
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127250&extension=ts&play_token=lb7krezTs2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/uatv.png" group-title="UKRAINE",UA| UA TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127252&extension=ts&play_token=DOkJwrwUkN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ukraina.png" group-title="UKRAINE",UA| UKRAINA
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127253&extension=ts&play_token=0X18NhnQVQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/uniantv.png" group-title="UKRAINE",UA| UNIAN TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127254&extension=ts&play_token=EZ26J7mvgL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/vintagetv.png" group-title="UKRAINE",UA| VINTAGE TV
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127256&extension=ts&play_token=joiA7Ww6k8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/xsport.png" group-title="UKRAINE",UA| X SPORT
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127257&extension=ts&play_token=M9Wprrq6KO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zoom.png" group-title="UKRAINE",UA| ZOOM
-http://185.243.7.151:80/play/live.php?mac=00:1A:79:0B:B4:FF&stream=127260&extension=ts&play_token=TIQqXegtIY
+#EXTM3U  https://iptvx.one/epg/epg.xml.gz
+#EXTINF:-1,Калейдоскоп
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.1:2000
+#EXTINF:-1,TNV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.2:2000
+#EXTINF:-1,Trash HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.3:2000
+#EXTINF:-1,Mir
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.5:2000
+#EXTINF:-1,Boec
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.6:2000
+#EXTINF:-1,Gubernia
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.7:2000
+#EXTINF:-1,360 Moskow
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.8:2000
+#EXTINF:-1,Radio Majak
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.9:2000
+#EXTINF:-1,Big asia
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.10:2000
+#EXTINF:-1,Дикая охота HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.11:2000
+#EXTINF:-1,Math Arena
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.12:2000
+#EXTINF:-1,Bridge Tv Hits
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.13:2000
+#EXTINF:-1,KHL HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.14:2000
+#EXTINF:-1,Mult HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.15:2000
+#EXTINF:-1,Radio Vesti
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.16:2000
+#EXTINF:-1,Mosfilm
+http://178.163.20.133:4022/udp/234.0.0.95:2000
+#EXTINF:-1,Muz TV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.96:2000
+#EXTINF:-1,В мире животных HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.97:2000
+#EXTINF:-1,Oxotnik HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.98:2000
+#EXTINF:-1,Moskva Doverie
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.99:2000
+#EXTINF:-1,Суббота
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.100:2000
+#EXTINF:-1,Mama
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.101:2000
+#EXTINF:-1,Любимое кино
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.102:2000
+#EXTINF:-1,Неизвестная Россия HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.106:2000
+#EXTINF:-1,Galaxy
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.111:2000
+#EXTINF:-1,Россия HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.112:2000
+#EXTINF:-1,Extreme Sports Russia HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.113:2000
+#EXTINF:-1,Kinoujas
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.114:2000
+#EXTINF:-1,Zagorod HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.115:2000
+#EXTINF:-1,Izvestiya HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.116:2000
+#EXTINF:-1,Hollywood
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.117:2000
+#EXTINF:-1,Kinokomediya
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.118:2000
+#EXTINF:-1,Киносерия
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.119:2000
+#EXTINF:-1,Music BOX HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.150:2000
+#EXTINF:-1,RBC HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.151:2000
+#EXTINF:-1,Капитан Фантастика HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.152:2000
+#EXTINF:-1,Gulli
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.153:2000
+#EXTINF:-1,Kino tv
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.154:2000
+#EXTINF:-1,Amedia
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.155:2000
+#EXTINF:-1,Amedia Hit HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.169:2000
+#EXTINF:-1,TV3
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.171:2000
+#EXTINF:-1,Perviy HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.172:2000
+#EXTINF:-1,Rus Extream
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.173:2000
+#EXTINF:-1,English Club HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.174:2000
+#EXTINF:-1,Illuzion+
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.175:2000
+#EXTINF:-1,Еврокино
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.176:2000
+#EXTINF:-1,Rodnoe kino
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.177:2000
+#EXTINF:-1,Russkiy illuzion
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.178:2000
+#EXTINF:-1,BRIDGE SHLYAGER
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.179:2000
+#EXTINF:-1,Bridge
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.180:2000
+#EXTINF:-1,ТНТ4
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.181:2000
+#EXTINF:-1,Muzic 1
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.182:2000
+#EXTINF:-1,Europa+
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.183:2000
+#EXTINF:-1,TDC
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.184:2000
+#EXTINF:-1,Sov secretno
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.185:2000
+#EXTINF:-1,TNT
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.186:2000
+#EXTINF:-1,TV 21
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.187:2000
+#EXTINF:-1,Match Strana
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.188:2000
+#EXTINF:-1,Shanson
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.189:2000
+#EXTINF:-1,Nostalgia
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.190:2000
+#EXTINF:-1,Domashniy
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.191:2000
+#EXTINF:-1,TVC
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.192:2000
+#EXTINF:-1,Приключения HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.193:2000
+#EXTINF:-1,Moskva 24
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.194:2000
+#EXTINF:-1,Radio Rossii
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.195:2000
+#EXTINF:-1,Soyz
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.196:2000
+#EXTINF:-1,Football
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.197:2000
+#EXTINF:-1,Disney
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.198:2000
+#EXTINF:-1,Belarus 24
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.199:2000
+#EXTINF:-1,Perviy
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.200:2000
+#EXTINF:-1,Rossia1
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.201:2000
+#EXTINF:-1,Rossia K
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.202:2000
+#EXTINF:-1,Karusel
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.203:2000
+#EXTINF:-1,N/A
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.204:2000
+#EXTINF:-1,5 kanal
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.205:2000
+#EXTINF:-1,NTV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.206:2000
+#EXTINF:-1,Rossiya 24
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.207:2000
+#EXTINF:-1,OTR
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.208:2000
+#EXTINF:-1,Kinopokaz
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.209:2000
+#EXTINF:-1,Multilandia
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.210:2000
+#EXTINF:-1,Boec
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.211:2000
+#EXTINF:-1,EGE
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.212:2000
+#EXTINF:-1,Мужское кино
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.213:2000
+#EXTINF:-1,Zhara
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.214:2000
+#EXTINF:-1,Spas
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.215:2000
+#EXTINF:-1,Зоопарк
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.216:2000
+#EXTINF:-1,Unikum
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.217:2000
+#EXTINF:-1,Che
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.218:2000
+#EXTINF:-1,Dom kino
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.219:2000
+#EXTINF:-1,Usadba
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.220:2000
+#EXTINF:-1,Zdorovoe TV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.221:2000
+#EXTINF:-1,Киномикс
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.222:2000
+#EXTINF:-1,Bridge Classic
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.223:2000
+#EXTINF:-1,Rus roman
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.224:2000
+#EXTINF:-1,Vremya
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.225:2000
+#EXTINF:-1,Hayka 2.0
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.226:2000
+#EXTINF:-1,Avto24
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.227:2000
+#EXTINF:-1,My Planet
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.228:2000
+#EXTINF:-1,U
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.229:2000
+#EXTINF:-1,Ohota i rybalka
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.230:2000
+#EXTINF:-1,ТНТ Music
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.231:2000
+#EXTINF:-1,24 Doc
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.232:2000
+#EXTINF:-1,KVN TV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.233:2000
+#EXTINF:-1,Togliatty24 HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.234:2000
+#EXTINF:-1,Pyatnica
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.235:2000
+#EXTINF:-1,NTV-hit
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.236:2000
+#EXTINF:-1,Zvezda
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.237:2000
+#EXTINF:-1,Otkritiy mir
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.238:2000
+#EXTINF:-1,STS
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.239:2000
+#EXTINF:-1,Ren TV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.240:2000
+#EXTINF:-1,Kuxnya TV
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.241:2000
+#EXTINF:-1,Match HD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.242:2000
+#EXTINF:-1,Malysh
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.243:2000
+#EXTINF:-1,2x2
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.244:2000
+#EXTINF:-1,Drive
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.245:2000
+#EXTINF:-1,Sarafan
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.246:2000
+#EXTINF:-1,24 Tehno
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.247:2000
+#EXTINF:-1,VGostyahUSkazki SD
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.248:2000
+#EXTINF:-1,Telecafe
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.249:2000
+#EXTINF:-1,Rus Bestseller
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.250:2000
+#EXTINF:-1,TPO
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.251:2000
+#EXTINF:-1,TiJi
+#EXTVLCOPT:network-caching=1000
+http://178.163.20.133:4022/udp/234.0.0.252:2000
