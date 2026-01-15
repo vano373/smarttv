@@ -1356,3 +1356,53 @@ http://103.176.90.184:80/play/live.php?mac=00:1A:79:78:AA:E4&stream=263690&exten
 http://103.176.90.184:80/play/live.php?mac=00:1A:79:78:AA:E4&stream=263691&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zoom.png" group-title="|EU| UKRAINE",UA - ZOOM
 http://103.176.90.184:80/play/live.php?mac=00:1A:79:78:AA:E4&stream=263694&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX MOROCCO ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284608&extension=ts&play_token=yij1JFFqFv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX TURKEY ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284607&extension=ts&play_token=zOO3fajtLO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX NORWAY ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284606&extension=ts&play_token=KdKOmuvbD2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX ICELAND ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284605&extension=ts&play_token=jPbkbepdQM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX TROPICAL BEACH ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284604&extension=ts&play_token=TUbAU9iyIm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX THE OCEAN ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284603&extension=ts&play_token=OEVVWQdeAp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284602&extension=ts&play_token=pbbvxvUlog
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX FOREST ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284601&extension=ts&play_token=R97c5iY3cM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX EARTH NATURE ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284600&extension=ts&play_token=9x3NgIVlYD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX AUSTRALIA ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284599&extension=ts&play_token=UoiPt1eDeO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 1 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284598&extension=ts&play_token=zwC8zVRfYZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 2 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284597&extension=ts&play_token=pgMNY3ui8Y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 3 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284596&extension=ts&play_token=14hkj374KI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 4 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284595&extension=ts&play_token=XVohrB0jrt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 5 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284594&extension=ts&play_token=AJzMfSXBj4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 6 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284593&extension=ts&play_token=qkyiaI4FGc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 7 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284592&extension=ts&play_token=giSPzkP2Qy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 8 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284591&extension=ts&play_token=2RCYI6JUWg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 9 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284590&extension=ts&play_token=5s1H0CHEa7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 10 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284589&extension=ts&play_token=a5wsgDKEaH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 11 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284588&extension=ts&play_token=9NWZGlWWEK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 12 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284587&extension=ts&play_token=JtNahIk25k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 13 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284586&extension=ts&play_token=idPj4JP5v0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 14 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284585&extension=ts&play_token=Xi5mlVrbJj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K-RELAX.png" group-title="4K UHD RELAX",|4K| RELAX 15 ᵁᴴᴰ 3840P
+http://newlink.space:80/play/live.php?mac=00:1A:79:EB:8C:B5&stream=1284584&extension=ts&play_token=mUAhaq0FDh
