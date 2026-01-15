@@ -1,1 +1,265 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - La Reina del Flow 3 (e)(1080) " tvg-logo="" group-title="EVENTOS PPV",PPV 1 - La Reina del Flow 3 (e)(1080) 
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/165338
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="PPV 2 - La Reina del Flow 3" tvg-logo="" group-title="EVENTOS PPV",PPV 2 - La Reina del Flow 3
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/165337
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - La reina de flow 3" tvg-logo="https://www.nll.com/wp-content/uploads/2020/11/Logo_Evolution.jpg" group-title="EVENTOS PPV",PPV 3 - La reina de flow 3
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/165336
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-name="PPV 4 - " tvg-logo="" group-title="EVENTOS PPV",PPV 4 - 
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/165333
+#EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="CINE - A&E (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-CINE Y SERIES",CINE - A&E (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9614
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="CINE - A&E (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-CINE Y SERIES",CINE - A&E (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9615
+#EXTINF:-1 tvg-id="A&E.co" tvg-name="CINE - A&E (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-CINE Y SERIES",CINE - A&E (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9616
+#EXTINF:-1 tvg-id="Canal.AMC.(México).sv" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-CINE Y SERIES",CINE - AMC (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9619
+#EXTINF:-1 tvg-id="Canal.AMC.(México).mx" tvg-name="CINE - AMC (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-CINE Y SERIES",CINE - AMC (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9620
+#EXTINF:-1 tvg-id="Canal.AXN.(México).mx" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-CINE Y SERIES",CINE - AXN (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9623
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="CINE - AXN (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-CINE Y SERIES",CINE - AXN (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9624
+#EXTINF:-1 tvg-id="Canal.AXN.(México).mx" tvg-name="CINE - AXN (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-CINE Y SERIES",CINE - AXN (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9625
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9666
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9668
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9667
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9669
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9670
+#EXTINF:-1 tvg-id="HBO.2.co" tvg-name="CINE - HBO 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9673
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (Z)(1080)" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9675
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9671
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-CINE Y SERIES",CINE - HBO 2 (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9674
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9676
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9678
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9679
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9680
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family. (TV)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9677
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.mx" tvg-name="CINE - HBO Mundi (L)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Mundi (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9682
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.mx" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Mundi (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9683
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.mx" tvg-name="CINE - HBO Mundi (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InB(Z)(720)GgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8" group-title="CANALES-CINE Y SERIES",CINE - HBO Mundi (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9684
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9685
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (M)(SD) [Dual Audio]
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9686
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (TV)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9687
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (Z)(1080)" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9688
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-CINE Y SERIES",CINE - HBO POP (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9689
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-name="CINE - HBO POP (Z)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - HBO POP (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9691
+#EXTINF:-1 tvg-id="HBO.POP.co" tvg-name="CINE - HBO POP. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-CINE Y SERIES",CINE - HBO POP. (TV)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9690
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.mx" tvg-name="CINE - HBO Signature (M)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Signature (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9692
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.mx" tvg-name="CINE - HBO Signature (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Signature (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9693
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.mx" tvg-name="CINE - HBO Signature Dual Audio (L)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Signature Dual Audio (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9695
+#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="CINE - HBO SUR (Z)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO SUR (Z)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9696
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtream (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtream (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9697
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9698
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (TV)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9700
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9701
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme. (M)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme. (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9699
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-CINE Y SERIES",CINE - HBO. 2 (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9672
+#EXTINF:-1 tvg-id="Canal.Cinelatino.cl" tvg-name="CINE - Cine Latino (L)(720)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9626
+#EXTINF:-1 tvg-id="Canal.Cinelatino.cl" tvg-name="CINE - Cine Latino (Z)" tvg-logo="http://127.0.0.1/" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (Z)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9627
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-CINE Y SERIES",CINE - CineCanal (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9629
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="CINE - CineCanal (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-CINE Y SERIES",CINE - CineCanal (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9630
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINE - Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CANALES-CINE Y SERIES",CINE - Cinecanal (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9631
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Cinema Dinamita (Z)(720)" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="CANALES-CINE Y SERIES",CINE - Cinema Dinamita (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9632
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-CINE Y SERIES",CINE - Cinemax (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9633
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-name="CINE - Cinemax (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Cinemax (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9635
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9636
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (M)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9637
+#EXTINF:-1 tvg-id="Canal.Paramount.Channel.Latinoamérica.sv" tvg-name="CINE - Paramount (Z)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Paramount (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9705
+#EXTINF:-1 tvg-id="Canal.Paramount.Channel.(México).mx" tvg-name="CINE - Paramount Channel. (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-CINE Y SERIES",CINE - Paramount Channel. (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9708
+#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-name="CINE - TNT (L)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9742
+#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-name="CINE - TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9743
+#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-name="CINE - TNT (M)(720)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9744
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="CINE - TNT (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="CANALES-CINE Y SERIES",CINE - TNT (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9745
+#EXTINF:-1 tvg-id="Canal.TLNovelas.(México).mx" tvg-name="CINE - TNT Novelas  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Novelas  (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9747
+#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Latinoamérica).sv" tvg-name="CINE - TNT Novelas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Novelas (M)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9737
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-name="CINE - TNT Series (L)(720)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Series (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9748
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-name="CINE - TNT Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Series (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9749
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-name="CINE - TNT Series (Z)(720)." tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Series (Z)(720).
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9751
+#EXTINF:-1 tvg-id="Canal.Universal.TV.(México).mx" tvg-name="CINE - Universal Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Channel (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9753
+#EXTINF:-1 tvg-id="Canal.Universal.TV.(México).mx" tvg-name="CINE - Universal Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Channel (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9755
+#EXTINF:-1 tvg-id="Canal.Universal.Cinema.sv" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9756
+#EXTINF:-1 tvg-id="Canal.Universal.Cinema.sv" tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Cinema (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9757
+#EXTINF:-1 tvg-id="Canal.Universal.Comedy.sv" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Comedy (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9759
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9761
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9762
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9763
+#EXTINF:-1 tvg-id="Canal.Universal.Crime.sv" tvg-name="CINE - Universal Crime (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Crime (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9764
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9765
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9766
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premier (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premier (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9767
+#EXTINF:-1 tvg-id="Canal.Universal.Premiere.sv" tvg-name="CINE - Universal Premiere Norte (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Premiere Norte (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9768
+#EXTINF:-1 tvg-id="Canal.Universal.Reality.sv" tvg-name="CINE - Universal Reality (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9770
+#EXTINF:-1 tvg-id="Canal.Universal.Reality.sv" tvg-name="CINE - Universal Reality (M)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9771
+#EXTINF:-1 tvg-id="Canal.Universal.Reality.sv" tvg-name="CINE - Universal Reality (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9772
+#EXTINF:-1 tvg-id="Canal.Universal.Reality.sv" tvg-name="CINE - Universal Reality (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-CINE Y SERIES",CINE - Universal Reality (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9773
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9774
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Chile).cl" tvg-name="CINE - Warner Channel (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9776
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="CINE - Warner Channel Dual Audio (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="CANALES-CINE Y SERIES",CINE - Warner Channel Dual Audio (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9775
+#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="CINE - A3 Cine INT (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" group-title="CANALES-CINE Y SERIES",CINE - A3 Cine INT (TV)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9617
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="CINE - A3 Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png" group-title="CANALES-CINE Y SERIES",CINE - A3 Series (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9618
+#EXTINF:-1 tvg-id="Canal.HBO.Xtreme.sv" tvg-name="CINE - HBO Xtreme Dual (L)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme Dual (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9779
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9638
+#EXTINF:-1 tvg-id="De.Pelicula.Clasico.us" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula Plus (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9639
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula Plus (Z)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9640
+#EXTINF:-1 tvg-id="De.Pelicula.Clasico.us" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-CINE Y SERIES",CINE - De Peliculas Clasico (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9641
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-CINE Y SERIES",CINE - De Película (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9642
+#EXTINF:-1 tvg-id="DHE.HD.co" tvg-name="CINE - DHE (TV)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" group-title="CANALES-CINE Y SERIES",CINE - DHE (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9643
+#EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-name="CINE - Distrito Comedia (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="CANALES-CINE Y SERIES",CINE - Distrito Comedia (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9644
+#EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-name="CINE - Distrito Comedia (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="CANALES-CINE Y SERIES",CINE - Distrito Comedia (M)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9645
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.(México).mx" tvg-name="CINE - E! (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="CANALES-CINE Y SERIES",CINE - E! (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9646
+#EXTINF:-1 tvg-id="Canal.Elgourmet.mx" tvg-name="CINE - El Gourmet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png" group-title="CANALES-CINE Y SERIES",CINE - El Gourmet (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9647
+#EXTINF:-1 tvg-id="Canal.Europa.Europa.mx" tvg-name="CINE - Europa Europa (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png" group-title="CANALES-CINE Y SERIES",CINE - Europa Europa (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9648
+#EXTINF:-1 tvg-id="Canal.Film.&.Arts.mx" tvg-name="CINE - Film & Arts (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Film & Arts (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9649
+#EXTINF:-1 tvg-id="Canal.Film.&.Arts.mx" tvg-name="CINE - Film And Arts (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-0Ey1X4aOpGY/Xg-Cjv2sU3I/AAAAAAAAA5E/Dt5jR8PGYFY7JZ-at0mMfzEjV9MNqaRvwCLcBGAsYHQ/s200/65.png" group-title="CANALES-CINE Y SERIES",CINE - Film And Arts (M)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9650
+#EXTINF:-1 tvg-id="Food.Network.co" tvg-name="CINE - Food Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png" group-title="CANALES-CINE Y SERIES",CINE - Food Network (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9651
+#EXTINF:-1 tvg-id="Canal.FX.(México).mx" tvg-name="CINE - FX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-CINE Y SERIES",CINE - FX (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9652
+#EXTINF:-1 tvg-id="Canal.FX.(México).mx" tvg-name="CINE - FX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-CINE Y SERIES",CINE - FX (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9653
+#EXTINF:-1 tvg-id="FX.co" tvg-name="CINE - FX (Z)(1080)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="CANALES-CINE Y SERIES",CINE - FX (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9654
+#EXTINF:-1 tvg-id="Canal.FX.(México).mx" tvg-name="CINE - FX MEX (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-CINE Y SERIES",CINE - FX MEX (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9655
+#EXTINF:-1 tvg-id="Canal.Golden.(México).mx" tvg-name="CINE - Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Golden (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9657
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-name="CINE - Golden Edge (M)(720)" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Edge (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9658
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.mx" tvg-name="CINE - Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="CANALES-CINE Y SERIES",CINE - Golden Edge (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9659
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="CINE - Golden Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (L)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9660
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="CINE - Golden Plus (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9661
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="CINE - Golden Plus (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" group-title="CANALES-CINE Y SERIES",CINE - Golden Plus (Z)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9662
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premier (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Premier (Z)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9663
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Premiere (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9664
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.2.mx" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-CINE Y SERIES",CINE - Golden Premiere 2 (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9665
+#EXTINF:-1 tvg-id="Canal.AMC.(México).mx" tvg-name="CINE - AMC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-CINE Y SERIES",CINE - AMC (M)(SD)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9702
+#EXTINF:-1 tvg-id="Canal.Lifetime.(México).mx" tvg-name="CINE - Lifetime (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="CANALES-CINE Y SERIES",CINE - Lifetime (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9703
+#EXTINF:-1 tvg-id="Canal.Pánico.mx" tvg-name="CINE - Panico MEX (TV)(720)" tvg-logo="" group-title="CANALES-CINE Y SERIES",CINE - Panico MEX (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9704
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="CINE - Showtime Extreme (Z)" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="CANALES-CINE Y SERIES",CINE - Showtime Extreme (Z)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9709
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="CINE - Showtime West Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" group-title="CANALES-CINE Y SERIES",CINE - Showtime West Dual (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9710
+#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="CINE - Sony Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Channel (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9711
+#EXTINF:-1 tvg-id="Canal.Sony.(México).mx" tvg-name="CINE - Sony Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Channel (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9712
+#EXTINF:-1 tvg-id="SONY.HD.(Sony.HD).pe" tvg-name="CINE - Sony Cine (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Cine (M)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9713
+#EXTINF:-1 tvg-id="Sony.KAL.us" tvg-name="CINE - Sony Comedias (S)(720)" tvg-logo="https://lh3.googleusercontent.com/-vLc9HxhBCWc/YrOnfUyvmGI/AAAAAAAADqU/7-IF607hHU4auLdAULFL9TbfbuWWkvcFQCNcBGAsYHQ/w200-h200/1655940987722304-1.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Comedias (S)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9714
+#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(México).mx" tvg-name="CINE - Sony Novelas (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-JYH4OV2UZyY/YrOngMaC-EI/AAAAAAAADqY/2lSJe3QRzDM4qzssNcDa2qhVLQllQDPNwCNcBGAsYHQ/w200-h200/1655940990366011-0.png" group-title="CANALES-CINE Y SERIES",CINE - Sony Novelas (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9716
+#EXTINF:-1 tvg-id="Canal.Space.(México).mx" tvg-name="CINE - Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-CINE Y SERIES",CINE - Space (TV)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9717
+#EXTINF:-1 tvg-id="Space.co" tvg-name="CINE - Space (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-CINE Y SERIES",CINE - Space (TV)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9718
+#EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-name="CINE - STAR Channel CO (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel CO (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9721
+#EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-name="CINE - STAR Channel CO. (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel CO. (M)(720)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9722
+#EXTINF:-1 tvg-id="Canal.Star.Channel.(México).mx" tvg-name="CINE - STAR Channel MX (L)(1080)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="CANALES-CINE Y SERIES",CINE - STAR Channel MX (L)(1080)
+http://tv.proyectox.vip:8080/JLEYVA25/b6c2f78a74ab/9723
